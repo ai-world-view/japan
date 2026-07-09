@@ -22,11 +22,15 @@ Category index: [history/](history/index.md)
 
 ## Government & Politics
 
-_No entries yet._
+Category index: [government-politics/](government-politics/index.md)
+
+- [Diet of Japan](government-politics/diet-of-japan.md)
 
 ## Economy
 
-_No entries yet._
+Category index: [economy/](economy/index.md)
+
+- [Bank of Japan](economy/bank-of-japan.md)
 
 ## Culture & Society
 
@@ -36,7 +40,9 @@ Category index: [culture-society/](culture-society/index.md)
 
 ## People
 
-_No entries yet._
+Category index: [people/](people/index.md)
+
+- [Hirohito](people/hirohito.md)
 
 ---
 

@@ -71,6 +71,9 @@ Emperor Meiji died on July 30, 1912, ending the Meiji era. Japan had, in 44 year
 
 - [Shinto Religion](../culture-society/shinto-religion.md) — state religion elevated by the Meiji government
 - [Major Islands](../geography/major-islands.md) — geographic arena of Japan's industrialization and military campaigns
+- [Diet of Japan](../government-politics/diet-of-japan.md) — parliamentary legislature first established under the 1889 Meiji Constitution
+- [Bank of Japan](../economy/bank-of-japan.md) — central bank founded in 1882 as part of Meiji financial modernization
+- [Hirohito](../people/hirohito.md) — grandson of Emperor Meiji, who inherited the imperial order the Restoration created
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

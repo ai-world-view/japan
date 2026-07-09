@@ -94,6 +94,8 @@ The religion's political history—from syncretic medieval coexistence with Budd
 
 - [Meiji Restoration](../history/meiji-restoration.md) — political movement that elevated Shinto as a state ideology
 - [Major Islands](../geography/major-islands.md) — sacred geography underlying Shinto cosmology
+- [Hirohito](../people/hirohito.md) — emperor at the center of State Shinto ideology until his 1946 renunciation of divinity
+- [Diet of Japan](../government-politics/diet-of-japan.md) — legislature whose prewar politics intertwined with State Shinto and ultranationalism
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
