@@ -15,28 +15,38 @@ from the dated facts in each topic file.
 | 711 CE | Fushimi Inari-taisha founded | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 712 CE | *Kojiki* completed | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 720 CE | *Nihon Shoki* completed | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
+| 1180–1185 | Genpei War fought between the Taira and Minamoto clans | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
+| 1192 | Minamoto no Yoritomo becomes the first shogun; samurai rule begins | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1429 | Ryukyu Kingdom founded | Geography | [Major Islands](geography/major-islands.md) |
 | 1549 | Francis Xavier arrives at Kagoshima, introducing Christianity | Geography | [Major Islands](geography/major-islands.md) |
+| 1575 | Battle of Nagashino ends cavalry-dominated samurai warfare | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
+| 1600 | Battle of Sekigahara establishes Tokugawa supremacy | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
+| 1603 | Tokugawa Ieyasu establishes Edo as the shogunal capital | Geography | [Tokyo](geography/tokyo.md) |
 | 1609 | Satsuma domain annexes the Ryukyu Kingdom | Geography | [Major Islands](geography/major-islands.md) |
+| 1615 | Siege of Osaka; *Buke Shohatto* (Laws for Military Houses) issued | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1641 | Dutch East India Company confined to Dejima, Nagasaki | Geography | [Major Islands](geography/major-islands.md) |
 | 1707–1708 | Hōei eruption of Mount Fuji | Geography | [Major Islands](geography/major-islands.md) |
+| 1709–1716 | *Hagakure* dictated by Yamamoto Tsunetomo | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1792 | Shimabara catastrophe (Mount Unzen collapse and mega-tsunami) | Geography | [Major Islands](geography/major-islands.md) |
 | 1853 | Commodore Perry's "Black Ships" arrive at Uraga Bay | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1854 | Convention of Kanagawa opens Japanese ports | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1868-01-03 | Meiji Restoration proclaimed; imperial rule restored | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1868-01 | *Shinbutsu bunri* decree separates Shinto from Buddhism | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 1868-04-06 | Five Charter Oath sworn | History | [Meiji Restoration](history/meiji-restoration.md) |
+| 1868-09-03 | Edo renamed Tokyo (*Eastern Capital*) | Geography | [Tokyo](geography/tokyo.md) |
 | 1869 | Hokkaido Development Commission (*Kaitakushi*) established | Geography | [Major Islands](geography/major-islands.md) |
 | 1871 | Abolition of the domain system (*haihan chiken*); Iwakura Mission departs | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1871 | Yen introduced as Japan's national currency | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 1872-10-14 | Japan's first railway (Shimbashi–Yokohama) formally opens | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1873 | Conscription Ordinance and Land Tax Reform enacted | History | [Meiji Restoration](history/meiji-restoration.md) |
+| 1876 | *Haitorei* edict bans the wearing of swords; samurai stipends abolished | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1877 | Satsuma Rebellion led by Saigō Takamori | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1879 | Ryukyu Kingdom incorporated as Okinawa Prefecture | Geography | [Major Islands](geography/major-islands.md) |
 | 1882-10-10 | Bank of Japan established | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 1889-02-11 | Meiji Constitution promulgated | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1890 | Imperial Rescript on Education issued | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1894–1895 | First Sino-Japanese War; Treaty of Shimonoseki | History | [Meiji Restoration](history/meiji-restoration.md) |
+| 1900 | Nitobe Inazō publishes *Bushido: The Soul of Japan* | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1901-04-29 | Hirohito (Emperor Showa) born in Tokyo | People | [Hirohito](people/hirohito.md) |
 | 1904–1905 | Russo-Japanese War; Treaty of Portsmouth | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1905-05-27 | Battle of Tsushima | History | [Meiji Restoration](history/meiji-restoration.md) |
@@ -64,7 +74,9 @@ from the dated facts in each topic file.
 | 1946-01-01 | Hirohito's Declaration of Humanity (*Ningen-sengen*) | People | [Hirohito](people/hirohito.md) |
 | 1946-04 | First general election in which women vote; 39 women elected | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
 | 1947-05-03 | Constitution of Japan takes effect, establishing the modern Diet | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
+| 1947-05-03 | Postwar Imperial Household Law establishes male-only succession | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
 | 1955 | Liberal Democratic Party (LDP) founded | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
+| 1964 | Tokyo Summer Olympics; Tōkaidō Shinkansen opens | Geography | [Tokyo](geography/tokyo.md) |
 | 1971 | Hirohito becomes the first reigning Japanese emperor to visit Europe | People | [Hirohito](people/hirohito.md) |
 | 1972-05-15 | Okinawa returned to Japanese administration | Geography | [Major Islands](geography/major-islands.md) |
 | 1975 | Hirohito becomes the first reigning Japanese emperor to visit the United States | People | [Hirohito](people/hirohito.md) |
@@ -72,17 +84,22 @@ from the dated facts in each topic file.
 | 1988-03-13 | Seikan Tunnel opens beneath the Tsugaru Strait | Geography | [Major Islands](geography/major-islands.md) |
 | 1989-01-07 | Death of Hirohito ends the Showa era | People | [Hirohito](people/hirohito.md) |
 | 1989-12-29 | Nikkei 225 peaks at 38,915 | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 1991 | Tokyo Metropolitan Government building completed in Shinjuku | Geography | [Tokyo](geography/tokyo.md) |
 | 1994 | Parallel (mixed) electoral system adopted for the House of Representatives | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
 | 1995-01-17 | Great Hanshin (Kobe) Earthquake | Geography | [Major Islands](geography/major-islands.md) |
 | 1997 | Bank of Japan Act grants the central bank statutory independence | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 1999-02 | Zero Interest Rate Policy (ZIRP) introduced | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2001-03 | Quantitative easing launched (world's first) | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 2006-09-06 | Prince Hisahito born — first male imperial birth in 41 years | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
 | 2011-03-11 | Great East Japan Earthquake and tsunami | Geography | [Major Islands](geography/major-islands.md) |
 | 2013-04 | Quantitative and Qualitative Easing (QQE) begins under Governor Kuroda | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2013-10 | 62nd rebuilding of Ise Grand Shrine | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 2016-01 | Negative Interest Rate Policy (NIRP) adopted | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2016-06 | Voting age lowered from 20 to 18 | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
 | 2016-09 | Yield Curve Control (YCC) introduced | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 2019-04-30 | Emperor Akihito abdicates — first abdication since 1817 | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
+| 2019-05-01 | Naruhito ascends the Chrysanthemum Throne; Reiwa era begins | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
+| 2019-10-22 | Enthronement ceremony (*Sokui no Rei*) held in Tokyo | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
 | 2024-03 | Bank of Japan ends negative rates and abandons YCC | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2025-01 | Policy rate raised to 0.5%, the highest since 1995 | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 <!-- END GENERATED: timeline -->

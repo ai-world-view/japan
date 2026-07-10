@@ -97,4 +97,6 @@ Hirohito's legacy is divided:
 - [Shinto Religion](../culture-society/shinto-religion.md) — State Shinto's role in the imperial ideology of Hirohito's prewar reign, fusing reverence for the emperor with nationalist militarism
 - [Diet of Japan](../government-politics/diet-of-japan.md) — the postwar constitutional system that reduced Hirohito from divine sovereign to symbolic figurehead
 - [Bank of Japan](../economy/bank-of-japan.md) — the central bank of Japan's postwar economic recovery under Hirohito, and of the bubble era that defined the end of his reign
+- [Imperial Succession](../government-politics/imperial-succession.md) — the dynastic framework under which Hirohito's son Akihito succeeded him in 1989
+- [Samurai & Bushido](../culture-society/samurai-bushido.md) — the warrior code reinterpreted as loyalty to the emperor during Hirohito's militarist era
 <!-- END GENERATED: crossrefs -->

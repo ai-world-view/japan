@@ -13,6 +13,7 @@ A complete map of the knowledge base, grouped by category. See also the
 Category index: [geography/](geography/index.md)
 
 - [Major Islands](geography/major-islands.md)
+- [Tokyo](geography/tokyo.md)
 
 ## History
 
@@ -25,6 +26,7 @@ Category index: [history/](history/index.md)
 Category index: [government-politics/](government-politics/index.md)
 
 - [Diet of Japan](government-politics/diet-of-japan.md)
+- [Imperial Succession](government-politics/imperial-succession.md)
 
 ## Economy
 
@@ -37,6 +39,7 @@ Category index: [economy/](economy/index.md)
 Category index: [culture-society/](culture-society/index.md)
 
 - [Shinto Religion](culture-society/shinto-religion.md)
+- [Samurai & Bushido](culture-society/samurai-bushido.md)
 
 ## People
 

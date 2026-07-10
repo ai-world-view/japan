@@ -64,4 +64,5 @@ Ueda has framed further normalization as conditional on **wage-driven, sustained
 - [Meiji Restoration](../history/meiji-restoration.md) — the Meiji state's financial modernization, which established the Bank of Japan in 1882
 - [Diet of Japan](../government-politics/diet-of-japan.md) — the legislature whose 1997 Bank of Japan Act defines the bank's mandate and statutory independence
 - [Hirohito](../people/hirohito.md) — the Showa emperor's reign, spanning Japan's postwar economic ascent and the bubble era
+- [Tokyo](../geography/tokyo.md) — the bank's home since 1882, in the Nihonbashi district of Japan's financial capital
 <!-- END GENERATED: crossrefs -->

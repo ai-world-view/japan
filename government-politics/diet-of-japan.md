@@ -80,4 +80,5 @@ The postwar **1947 Constitution**—drafted by U.S. occupation staff in six days
 - [Shinto Religion](../culture-society/shinto-religion.md) — State Shinto's intertwining with Diet politics and ultranationalism before 1945
 - [Hirohito](../people/hirohito.md) — the Showa emperor's reign, spanning the Diet's transformation from imperial legislature to sovereign body
 - [Bank of Japan](../economy/bank-of-japan.md) — the central bank whose statutory independence rests on the 1997 Bank of Japan Act passed by the Diet
+- [Imperial Succession](imperial-succession.md) — the succession framework and the 2017 special abdication law enacted through the Diet
 <!-- END GENERATED: crossrefs -->
