@@ -11,4 +11,5 @@ Topics in the **Economy** category of the *the country japan* knowledge base.
 | Topic | Description |
 |-------|-------------|
 | [Bank of Japan](bank-of-japan.md) | The central bank of Japan, founded in 1882, whose monetary policy shaped the postwar economy, the 1980s asset bubble, the deflationary Lost Decades, and the current normalization. |
+| [Technology & Manufacturing](technology-manufacturing.md) | Japan's postwar industrial miracle — MITI industrial policy, the Toyota Production System, consumer-electronics giants, the DRAM wars, and the bubble and Lost Decade that followed. |
 <!-- END GENERATED: category-index -->

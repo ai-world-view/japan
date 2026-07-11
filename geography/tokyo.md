@@ -97,5 +97,7 @@ The city generates approximately 19 percent of Japan's GDP within the 23-ward co
 - [Meiji Restoration](../history/meiji-restoration.md) — The 1868 political transformation that elevated Tokyo from Edo, Tokugawa shogunal capital, to Japan's national political center and imperial seat.
 - [Bank of Japan](../economy/bank-of-japan.md) — Headquartered in the Nihonbashi district of Tokyo since 1882; central to Japan's monetary policy and financial stability.
 - [Samurai & Bushido](../culture-society/samurai-bushido.md) — Formerly Edo, Tokyo was the administrative center of Tokugawa samurai governance for over 250 years.
+- [Edo Period](../history/edo-period.md) — The Tokugawa era during which Edo grew into the world's largest city before its 1868 renaming as Tokyo.
+- [Technology & Manufacturing](../economy/technology-manufacturing.md) — The postwar industrial and corporate economy centered on Tokyo.
 
 <!-- END GENERATED: crossrefs -->

@@ -97,6 +97,7 @@ The religion's political history—from syncretic medieval coexistence with Budd
 - [Hirohito](../people/hirohito.md) — emperor at the center of State Shinto ideology until his 1946 renunciation of divinity
 - [Diet of Japan](../government-politics/diet-of-japan.md) — legislature whose prewar politics intertwined with State Shinto and ultranationalism
 - [Samurai & Bushido](samurai-bushido.md) — warrior culture whose shrine patronage and ritual practice were interwoven with Shinto tradition
+- [Murasaki Shikibu](../people/murasaki-shikibu.md) — the Heian court author whose *Tale of Genji* embodies the Buddhist-inflected aesthetic of *mono no aware*
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

@@ -15,21 +15,36 @@ from the dated facts in each topic file.
 | 711 CE | Fushimi Inari-taisha founded | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 712 CE | *Kojiki* completed | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 720 CE | *Nihon Shoki* completed | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
+| c. 973 CE | Murasaki Shikibu born in Heian-kyō (Kyoto) | People | [Murasaki Shikibu](people/murasaki-shikibu.md) |
+| c. 1008 | Murasaki Shikibu enters Empress Shōshi's court and begins her diary | People | [Murasaki Shikibu](people/murasaki-shikibu.md) |
+| c. 1008–1021 | *The Tale of Genji* composed and circulated at court | People | [Murasaki Shikibu](people/murasaki-shikibu.md) |
+| c. 1014 | Murasaki Shikibu dies (date uncertain) | People | [Murasaki Shikibu](people/murasaki-shikibu.md) |
 | 1180–1185 | Genpei War fought between the Taira and Minamoto clans | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1192 | Minamoto no Yoritomo becomes the first shogun; samurai rule begins | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1429 | Ryukyu Kingdom founded | Geography | [Major Islands](geography/major-islands.md) |
 | 1549 | Francis Xavier arrives at Kagoshima, introducing Christianity | Geography | [Major Islands](geography/major-islands.md) |
 | 1575 | Battle of Nagashino ends cavalry-dominated samurai warfare | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
+| 1582-06-21 | Oda Nobunaga assassinated at Honnō-ji temple, Kyoto | History | [Edo Period](history/edo-period.md) |
+| 1588 | Toyotomi Hideyoshi's Sword Hunt Edict disarms the peasantry | History | [Edo Period](history/edo-period.md) |
 | 1600 | Battle of Sekigahara establishes Tokugawa supremacy | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1603 | Tokugawa Ieyasu establishes Edo as the shogunal capital | Geography | [Tokyo](geography/tokyo.md) |
+| 1603-03-24 | Tokugawa Ieyasu appointed shogun; the Edo shogunate is founded | History | [Edo Period](history/edo-period.md) |
 | 1609 | Satsuma domain annexes the Ryukyu Kingdom | Geography | [Major Islands](geography/major-islands.md) |
 | 1615 | Siege of Osaka; *Buke Shohatto* (Laws for Military Houses) issued | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
+| 1635 | Sankin-kōtai (alternate attendance) system formalized under Iemitsu | History | [Edo Period](history/edo-period.md) |
+| 1637–1638 | Shimabara Rebellion suppressed | History | [Edo Period](history/edo-period.md) |
+| 1639 | Portuguese traders expelled, consolidating the *sakoku* isolation policy | History | [Edo Period](history/edo-period.md) |
 | 1641 | Dutch East India Company confined to Dejima, Nagasaki | Geography | [Major Islands](geography/major-islands.md) |
+| 1657-01 | Great Meireki Fire destroys much of Edo | History | [Edo Period](history/edo-period.md) |
+| 1697 | Dōjima Rice Exchange founded in Osaka — the first organized futures market | History | [Edo Period](history/edo-period.md) |
 | 1707–1708 | Hōei eruption of Mount Fuji | Geography | [Major Islands](geography/major-islands.md) |
 | 1709–1716 | *Hagakure* dictated by Yamamoto Tsunetomo | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
+| 1721 | Edo census records a population of roughly 1.1 million | History | [Edo Period](history/edo-period.md) |
 | 1792 | Shimabara catastrophe (Mount Unzen collapse and mega-tsunami) | Geography | [Major Islands](geography/major-islands.md) |
 | 1853 | Commodore Perry's "Black Ships" arrive at Uraga Bay | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1854 | Convention of Kanagawa opens Japanese ports | History | [Meiji Restoration](history/meiji-restoration.md) |
+| 1858-07-29 | Harris Treaty (Treaty of Amity and Commerce) signed | History | [Edo Period](history/edo-period.md) |
+| 1867-11-09 | *Taisei hōkan*: Tokugawa Yoshinobu returns governing power to the emperor | History | [Edo Period](history/edo-period.md) |
 | 1868-01-03 | Meiji Restoration proclaimed; imperial rule restored | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1868-01 | *Shinbutsu bunri* decree separates Shinto from Buddhism | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 1868-04-06 | Five Charter Oath sworn | History | [Meiji Restoration](history/meiji-restoration.md) |
@@ -75,12 +90,19 @@ from the dated facts in each topic file.
 | 1946-04 | First general election in which women vote; 39 women elected | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
 | 1947-05-03 | Constitution of Japan takes effect, establishing the modern Diet | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
 | 1947-05-03 | Postwar Imperial Household Law establishes male-only succession | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
+| 1949 | Ministry of International Trade and Industry (MITI) established | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
 | 1955 | Liberal Democratic Party (LDP) founded | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
+| 1955 | Sony's TR-55, Japan's first mass-produced transistor radio, released | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
 | 1964 | Tokyo Summer Olympics; Tōkaidō Shinkansen opens | Geography | [Tokyo](geography/tokyo.md) |
 | 1971 | Hirohito becomes the first reigning Japanese emperor to visit Europe | People | [Hirohito](people/hirohito.md) |
 | 1972-05-15 | Okinawa returned to Japanese administration | Geography | [Major Islands](geography/major-islands.md) |
 | 1975 | Hirohito becomes the first reigning Japanese emperor to visit the United States | People | [Hirohito](people/hirohito.md) |
+| 1976–1980 | VLSI Project advances Japanese semiconductor manufacturing | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
+| 1979-07-01 | Sony Walkman (TPS-L2) introduced, creating the personal-music market | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
+| 1980 | Japan becomes the world's largest automobile producer | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
+| 1983-07 | Nintendo Famicom (Family Computer) launches in Japan | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
 | 1985 | Plaza Accord drives yen appreciation and fuels the asset bubble | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 1986 | US–Japan Semiconductor Trade Agreement signed | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
 | 1988-03-13 | Seikan Tunnel opens beneath the Tsugaru Strait | Geography | [Major Islands](geography/major-islands.md) |
 | 1989-01-07 | Death of Hirohito ends the Showa era | People | [Hirohito](people/hirohito.md) |
 | 1989-12-29 | Nikkei 225 peaks at 38,915 | Economy | [Bank of Japan](economy/bank-of-japan.md) |

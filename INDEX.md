@@ -19,6 +19,7 @@ Category index: [geography/](geography/index.md)
 
 Category index: [history/](history/index.md)
 
+- [Edo Period](history/edo-period.md)
 - [Meiji Restoration](history/meiji-restoration.md)
 
 ## Government & Politics
@@ -33,6 +34,7 @@ Category index: [government-politics/](government-politics/index.md)
 Category index: [economy/](economy/index.md)
 
 - [Bank of Japan](economy/bank-of-japan.md)
+- [Technology & Manufacturing](economy/technology-manufacturing.md)
 
 ## Culture & Society
 
@@ -46,6 +48,7 @@ Category index: [culture-society/](culture-society/index.md)
 Category index: [people/](people/index.md)
 
 - [Hirohito](people/hirohito.md)
+- [Murasaki Shikibu](people/murasaki-shikibu.md)
 
 ---
 

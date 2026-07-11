@@ -99,4 +99,5 @@ Hirohito's legacy is divided:
 - [Bank of Japan](../economy/bank-of-japan.md) — the central bank of Japan's postwar economic recovery under Hirohito, and of the bubble era that defined the end of his reign
 - [Imperial Succession](../government-politics/imperial-succession.md) — the dynastic framework under which Hirohito's son Akihito succeeded him in 1989
 - [Samurai & Bushido](../culture-society/samurai-bushido.md) — the warrior code reinterpreted as loyalty to the emperor during Hirohito's militarist era
+- [Technology & Manufacturing](../economy/technology-manufacturing.md) — the postwar industrial miracle that unfolded across the second half of the Showa reign
 <!-- END GENERATED: crossrefs -->

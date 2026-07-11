@@ -81,5 +81,7 @@ Today, bushido survives in martial arts traditions (kendo, judo, and karate have
 - [Meiji Restoration](../history/meiji-restoration.md) — The 1868 transformation that abolished the samurai class, ended the shogunate, and launched Japan's modernization; directly caused the Satsuma Rebellion.
 - [Hirohito](../people/hirohito.md) — The Showa Emperor during Japan's militarist period, when bushido ethics were reinterpreted for imperial expansion and wartime sacrifice.
 - [Tokyo](../geography/tokyo.md) — Formerly Edo, the Tokugawa shogunate's capital from 1603 and the administrative heart of samurai governance for over 250 years.
+- [Edo Period](../history/edo-period.md) — The 264-year Tokugawa peace that transformed the samurai from warriors into stipended bureaucrats and administrators.
+- [Murasaki Shikibu](../people/murasaki-shikibu.md) — The Heian court author whose aristocratic world the rise of the samurai class ultimately displaced.
 
 <!-- END GENERATED: crossrefs -->
