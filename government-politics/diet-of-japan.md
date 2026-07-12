@@ -81,4 +81,5 @@ The postwar **1947 Constitution**—drafted by U.S. occupation staff in six days
 - [Hirohito](../people/hirohito.md) — the Showa emperor's reign, spanning the Diet's transformation from imperial legislature to sovereign body
 - [Bank of Japan](../economy/bank-of-japan.md) — the central bank whose statutory independence rests on the 1997 Bank of Japan Act passed by the Diet
 - [Imperial Succession](imperial-succession.md) — the succession framework and the 2017 special abdication law enacted through the Diet
+- [Postwar Constitution & Democracy](postwar-constitution.md) — the 1947 Constitution that established the Diet as the "highest organ of state power"
 <!-- END GENERATED: crossrefs -->

@@ -14,6 +14,7 @@ Category index: [geography/](geography/index.md)
 
 - [Major Islands](geography/major-islands.md)
 - [Tokyo](geography/tokyo.md)
+- [Kyoto](geography/kyoto.md)
 
 ## History
 
@@ -28,6 +29,7 @@ Category index: [government-politics/](government-politics/index.md)
 
 - [Diet of Japan](government-politics/diet-of-japan.md)
 - [Imperial Succession](government-politics/imperial-succession.md)
+- [Postwar Constitution & Democracy](government-politics/postwar-constitution.md)
 
 ## Economy
 
@@ -42,6 +44,7 @@ Category index: [culture-society/](culture-society/index.md)
 
 - [Shinto Religion](culture-society/shinto-religion.md)
 - [Samurai & Bushido](culture-society/samurai-bushido.md)
+- [Edo Culture & Arts](culture-society/edo-culture-arts.md)
 
 ## People
 

@@ -91,6 +91,7 @@ Japan's archipelago geography—islands strung along a tectonic boundary with vo
 - [Meiji Restoration](../history/meiji-restoration.md) — political transformation that reshaped how Japan organized its islands
 - [Shinto Religion](../culture-society/shinto-religion.md) — spiritual tradition rooted in the natural geography of the islands
 - [Tokyo](tokyo.md) — the capital on Honshu's Kantō Plain, the archipelago's largest lowland and demographic core
+- [Kyoto](kyoto.md) — the ancient imperial capital in the Yamashiro basin of central Honshū
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

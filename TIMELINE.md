@@ -15,13 +15,18 @@ from the dated facts in each topic file.
 | 711 CE | Fushimi Inari-taisha founded | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 712 CE | *Kojiki* completed | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 720 CE | *Nihon Shoki* completed | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
+| 794-11-08 | Emperor Kanmu moves the capital to Heian-kyō (Kyoto) | Geography | [Kyoto](geography/kyoto.md) |
 | c. 973 CE | Murasaki Shikibu born in Heian-kyō (Kyoto) | People | [Murasaki Shikibu](people/murasaki-shikibu.md) |
 | c. 1008 | Murasaki Shikibu enters Empress Shōshi's court and begins her diary | People | [Murasaki Shikibu](people/murasaki-shikibu.md) |
 | c. 1008–1021 | *The Tale of Genji* composed and circulated at court | People | [Murasaki Shikibu](people/murasaki-shikibu.md) |
 | c. 1014 | Murasaki Shikibu dies (date uncertain) | People | [Murasaki Shikibu](people/murasaki-shikibu.md) |
+| 1053 | Byōdō-in Phoenix Hall completed at Uji | Geography | [Kyoto](geography/kyoto.md) |
 | 1180–1185 | Genpei War fought between the Taira and Minamoto clans | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1192 | Minamoto no Yoritomo becomes the first shogun; samurai rule begins | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
+| 1397 | Kinkaku-ji (Golden Pavilion) built by Ashikaga Yoshimitsu | Geography | [Kyoto](geography/kyoto.md) |
 | 1429 | Ryukyu Kingdom founded | Geography | [Major Islands](geography/major-islands.md) |
+| 1467–1477 | Ōnin War devastates Kyoto, gutting the central city | Geography | [Kyoto](geography/kyoto.md) |
+| 1482 | Ginkaku-ji (Silver Pavilion) built by Ashikaga Yoshimasa | Geography | [Kyoto](geography/kyoto.md) |
 | 1549 | Francis Xavier arrives at Kagoshima, introducing Christianity | Geography | [Major Islands](geography/major-islands.md) |
 | 1575 | Battle of Nagashino ends cavalry-dominated samurai warfare | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1582-06-21 | Oda Nobunaga assassinated at Honnō-ji temple, Kyoto | History | [Edo Period](history/edo-period.md) |
@@ -29,18 +34,27 @@ from the dated facts in each topic file.
 | 1600 | Battle of Sekigahara establishes Tokugawa supremacy | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1603 | Tokugawa Ieyasu establishes Edo as the shogunal capital | Geography | [Tokyo](geography/tokyo.md) |
 | 1603-03-24 | Tokugawa Ieyasu appointed shogun; the Edo shogunate is founded | History | [Edo Period](history/edo-period.md) |
+| c. 1603 | Izumo no Okuni performs the first Kabuki in Kyoto's riverbed | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1609 | Satsuma domain annexes the Ryukyu Kingdom | Geography | [Major Islands](geography/major-islands.md) |
 | 1615 | Siege of Osaka; *Buke Shohatto* (Laws for Military Houses) issued | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
+| 1629 | Women banned from the Kabuki stage; *onnagata* tradition emerges | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1635 | Sankin-kōtai (alternate attendance) system formalized under Iemitsu | History | [Edo Period](history/edo-period.md) |
 | 1637–1638 | Shimabara Rebellion suppressed | History | [Edo Period](history/edo-period.md) |
 | 1639 | Portuguese traders expelled, consolidating the *sakoku* isolation policy | History | [Edo Period](history/edo-period.md) |
 | 1641 | Dutch East India Company confined to Dejima, Nagasaki | Geography | [Major Islands](geography/major-islands.md) |
 | 1657-01 | Great Meireki Fire destroys much of Edo | History | [Edo Period](history/edo-period.md) |
+| 1682 | Ihara Saikaku's *The Life of an Amorous Man* launches *ukiyo-zōshi* fiction | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
+| 1689 | Matsuo Bashō journeys the *Narrow Road to the Deep North* | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1697 | Dōjima Rice Exchange founded in Osaka — the first organized futures market | History | [Edo Period](history/edo-period.md) |
+| 1703 | Chikamatsu's *The Love Suicides at Sonezaki* premieres | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1707–1708 | Hōei eruption of Mount Fuji | Geography | [Major Islands](geography/major-islands.md) |
 | 1709–1716 | *Hagakure* dictated by Yamamoto Tsunetomo | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1721 | Edo census records a population of roughly 1.1 million | History | [Edo Period](history/edo-period.md) |
+| 1748 | *Kanadehon Chūshingura* (Treasury of Loyal Retainers) first staged | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
+| c. 1765 | Suzuki Harunobu develops full-color *nishiki-e* woodblock prints | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1792 | Shimabara catastrophe (Mount Unzen collapse and mega-tsunami) | Geography | [Major Islands](geography/major-islands.md) |
+| 1830–1832 | Hokusai's *Thirty-six Views of Mount Fuji* published | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
+| 1833–1834 | Hiroshige's *Fifty-three Stations of the Tōkaidō* published | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1853 | Commodore Perry's "Black Ships" arrive at Uraga Bay | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1854 | Convention of Kanagawa opens Japanese ports | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1858-07-29 | Harris Treaty (Treaty of Amity and Commerce) signed | History | [Edo Period](history/edo-period.md) |
@@ -85,14 +99,24 @@ from the dated facts in each topic file.
 | 1945-08-06 | Atomic bombing of Hiroshima | People | [Hirohito](people/hirohito.md) |
 | 1945-08-09 | Atomic bombing of Nagasaki | Geography | [Major Islands](geography/major-islands.md) |
 | 1945-08-15 | Jewel Voice Broadcast announces Japan's surrender | People | [Hirohito](people/hirohito.md) |
+| 1945-09-02 | Japan signs the Instrument of Surrender aboard USS *Missouri* | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 1945-12-15 | Shinto Directive abolishes State Shinto | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 1946-01-01 | Hirohito's Declaration of Humanity (*Ningen-sengen*) | People | [Hirohito](people/hirohito.md) |
+| 1946-02 | SCAP's Government Section drafts a new constitution in nine days | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 1946-04 | First general election in which women vote; 39 women elected | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
+| 1946-11-03 | Constitution of Japan promulgated | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
+| 1947-04-25 | First general election held under the new Constitution | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 1947-05-03 | Constitution of Japan takes effect, establishing the modern Diet | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
 | 1947-05-03 | Postwar Imperial Household Law establishes male-only succession | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
+| 1947-05-03 | Constitution of Japan takes effect — popular sovereignty and Article 9 pacifism | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 1949 | Ministry of International Trade and Industry (MITI) established | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
+| 1950 | National Police Reserve created — forerunner of the Self-Defense Forces | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
+| 1950-07-02 | Kinkaku-ji destroyed by arson (rebuilt 1955) | Geography | [Kyoto](geography/kyoto.md) |
+| 1951-09-08 | San Francisco Peace Treaty signed, ending the Allied occupation | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
+| 1954-07-01 | Japan Self-Defense Forces (JSDF) established | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 1955 | Liberal Democratic Party (LDP) founded | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
 | 1955 | Sony's TR-55, Japan's first mass-produced transistor radio, released | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
+| 1960 | U.S.–Japan Security Treaty revised amid mass *Anpo* protests | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 1964 | Tokyo Summer Olympics; Tōkaidō Shinkansen opens | Geography | [Tokyo](geography/tokyo.md) |
 | 1971 | Hirohito becomes the first reigning Japanese emperor to visit Europe | People | [Hirohito](people/hirohito.md) |
 | 1972-05-15 | Okinawa returned to Japanese administration | Geography | [Major Islands](geography/major-islands.md) |
@@ -108,14 +132,17 @@ from the dated facts in each topic file.
 | 1989-12-29 | Nikkei 225 peaks at 38,915 | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 1991 | Tokyo Metropolitan Government building completed in Shinjuku | Geography | [Tokyo](geography/tokyo.md) |
 | 1994 | Parallel (mixed) electoral system adopted for the House of Representatives | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
+| 1994 | "Historic Monuments of Ancient Kyoto" inscribed as UNESCO World Heritage | Geography | [Kyoto](geography/kyoto.md) |
 | 1995-01-17 | Great Hanshin (Kobe) Earthquake | Geography | [Major Islands](geography/major-islands.md) |
 | 1997 | Bank of Japan Act grants the central bank statutory independence | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 1997-12 | Kyoto Protocol adopted at COP3 in Kyoto | Geography | [Kyoto](geography/kyoto.md) |
 | 1999-02 | Zero Interest Rate Policy (ZIRP) introduced | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2001-03 | Quantitative easing launched (world's first) | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2006-09-06 | Prince Hisahito born — first male imperial birth in 41 years | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
 | 2011-03-11 | Great East Japan Earthquake and tsunami | Geography | [Major Islands](geography/major-islands.md) |
 | 2013-04 | Quantitative and Qualitative Easing (QQE) begins under Governor Kuroda | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2013-10 | 62nd rebuilding of Ise Grand Shrine | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
+| 2015 | Security Legislation permits the JSDF to exercise collective self-defense | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 2016-01 | Negative Interest Rate Policy (NIRP) adopted | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2016-06 | Voting age lowered from 20 to 18 | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
 | 2016-09 | Yield Curve Control (YCC) introduced | Economy | [Bank of Japan](economy/bank-of-japan.md) |

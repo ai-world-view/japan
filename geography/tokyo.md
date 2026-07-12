@@ -99,5 +99,7 @@ The city generates approximately 19 percent of Japan's GDP within the 23-ward co
 - [Samurai & Bushido](../culture-society/samurai-bushido.md) — Formerly Edo, Tokyo was the administrative center of Tokugawa samurai governance for over 250 years.
 - [Edo Period](../history/edo-period.md) — The Tokugawa era during which Edo grew into the world's largest city before its 1868 renaming as Tokyo.
 - [Technology & Manufacturing](../economy/technology-manufacturing.md) — The postwar industrial and corporate economy centered on Tokyo.
+- [Kyoto](kyoto.md) — Japan's former imperial capital and cultural counterpoint to Edo (Tokyo), the shogunal and modern seat of power.
+- [Edo Culture & Arts](../culture-society/edo-culture-arts.md) — The "floating world" culture that made Edo (Tokyo) the engine of Japan's early-modern arts and entertainment.
 
 <!-- END GENERATED: crossrefs -->

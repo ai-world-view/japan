@@ -12,4 +12,5 @@ Topics in the **Culture & Society** category of the *the country japan* knowledg
 |-------|-------------|
 | [Shinto Religion](shinto-religion.md) | Japan's indigenous spiritual tradition, centered on the veneration of *kami* and inseparable from the nation's geography, festivals, and identity. |
 | [Samurai & Bushido](samurai-bushido.md) | Japan's warrior aristocracy and its code of honor—from the 12th-century Kamakura shogunate through Edo-period codification to abolition in the 1870s and enduring cultural legacy. |
+| [Edo Culture & Arts](edo-culture-arts.md) | The flourishing urban "floating world" culture of the Tokugawa peace—*ukiyo-e* woodblock prints, Kabuki and bunraku theater, the tea ceremony, haiku, and popular fiction. |
 <!-- END GENERATED: category-index -->

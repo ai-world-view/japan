@@ -89,5 +89,6 @@ The succession question also touches Japan's deepest tensions between tradition 
 - [Hirohito](../people/hirohito.md) — The 124th Emperor (Shōwa, r. 1926–1989), whose 63-year reign established the postwar model of symbolic constitutional monarchy; father of Emperor Akihito.
 - [Meiji Restoration](../history/meiji-restoration.md) — The 1868 transformation that formalized the emperor's constitutional centrality and produced the 1889 Imperial House Law governing succession until 1947.
 - [Tokyo](../geography/tokyo.md) — The imperial seat since 1869; the Imperial Palace in Chiyoda ward is the residence of the emperor and the site of succession ceremonies.
+- [Postwar Constitution & Democracy](postwar-constitution.md) — The 1947 Constitution that redefined the Emperor as "the symbol of the State," deriving his position from the will of the people.
 
 <!-- END GENERATED: crossrefs -->

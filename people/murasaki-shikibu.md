@@ -115,4 +115,6 @@ Her court world was governed by the same Fujiwara regency whose administrative d
 - [Edo Period](../history/edo-period.md) — the era whose kabuki, ukiyo-e, and scholarship revived *The Tale of Genji* and kept it central to aristocratic education
 - [Samurai & Bushido](../culture-society/samurai-bushido.md) — the warrior class whose rise ended the Heian court culture that produced *Genji*
 - [Shinto Religion](../culture-society/shinto-religion.md) — the indigenous religious world, alongside Buddhism, that shaped the Heian aesthetic of *mono no aware*
+- [Kyoto](../geography/kyoto.md) — Heian-kyō, the imperial capital where Murasaki served at court and composed *The Tale of Genji*
+- [Edo Culture & Arts](../culture-society/edo-culture-arts.md) — the later popular culture that revived and reimagined *Genji* in print and on the Kabuki stage
 <!-- END GENERATED: crossrefs -->

@@ -83,5 +83,7 @@ Today, bushido survives in martial arts traditions (kendo, judo, and karate have
 - [Tokyo](../geography/tokyo.md) — Formerly Edo, the Tokugawa shogunate's capital from 1603 and the administrative heart of samurai governance for over 250 years.
 - [Edo Period](../history/edo-period.md) — The 264-year Tokugawa peace that transformed the samurai from warriors into stipended bureaucrats and administrators.
 - [Murasaki Shikibu](../people/murasaki-shikibu.md) — The Heian court author whose aristocratic world the rise of the samurai class ultimately displaced.
+- [Edo Culture & Arts](edo-culture-arts.md) — The Tokugawa-era arts—tea ceremony, Noh, and Kabuki—that samurai patronized and that expressed *bushido* aesthetics.
+- [Kyoto](../geography/kyoto.md) — The imperial capital whose court culture and Zen temples shaped samurai aesthetics and martial discipline.
 
 <!-- END GENERATED: crossrefs -->

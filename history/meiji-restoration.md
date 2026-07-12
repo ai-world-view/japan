@@ -79,6 +79,8 @@ Emperor Meiji died on July 30, 1912, ending the Meiji era. Japan had, in 44 year
 - [Imperial Succession](../government-politics/imperial-succession.md) — the 1889 Meiji Imperial House Law that governed dynastic succession until 1947
 - [Edo Period](edo-period.md) — the Tokugawa shogunate the Restoration overthrew, ending 264 years of feudal rule
 - [Technology & Manufacturing](../economy/technology-manufacturing.md) — the industrialization drive the Meiji reforms launched and the postwar economic miracle continued
+- [Kyoto](../geography/kyoto.md) — the former capital displaced when the Restoration moved the imperial seat to Tokyo in 1868
+- [Postwar Constitution & Democracy](../government-politics/postwar-constitution.md) — the 1947 charter that replaced the 1889 Meiji Constitution and the political order it created
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

@@ -100,4 +100,5 @@ Hirohito's legacy is divided:
 - [Imperial Succession](../government-politics/imperial-succession.md) — the dynastic framework under which Hirohito's son Akihito succeeded him in 1989
 - [Samurai & Bushido](../culture-society/samurai-bushido.md) — the warrior code reinterpreted as loyalty to the emperor during Hirohito's militarist era
 - [Technology & Manufacturing](../economy/technology-manufacturing.md) — the postwar industrial miracle that unfolded across the second half of the Showa reign
+- [Postwar Constitution & Democracy](../government-politics/postwar-constitution.md) — the 1947 Constitution, promulgated in Hirohito's name, that recast him from sovereign to symbolic monarch
 <!-- END GENERATED: crossrefs -->

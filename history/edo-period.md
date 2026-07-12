@@ -141,4 +141,6 @@ The aesthetic legacy — haiku, kabuki, ukiyo-e, the tea ceremony, *ikebana* flo
 - [Tokyo](../geography/tokyo.md) — Edo, the shogunal capital, which grew into the world's largest city before being renamed Tokyo
 - [Murasaki Shikibu](../people/murasaki-shikibu.md) — the Heian literary tradition whose *Tale of Genji* Edo kabuki, ukiyo-e, and scholarship revived and popularized
 - [Technology & Manufacturing](../economy/technology-manufacturing.md) — the literate population, commercial networks, and artisan traditions the Edo period bequeathed to later industrialization
+- [Edo Culture & Arts](../culture-society/edo-culture-arts.md) — the *ukiyo-e*, Kabuki, tea ceremony, and popular literature that flourished under the Tokugawa peace
+- [Kyoto](../geography/kyoto.md) — the imperial capital that remained the cultural and artisanal heart of Edo-period Japan
 <!-- END GENERATED: crossrefs -->
