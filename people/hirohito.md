@@ -101,4 +101,5 @@ Hirohito's legacy is divided:
 - [Samurai & Bushido](../culture-society/samurai-bushido.md) — the warrior code reinterpreted as loyalty to the emperor during Hirohito's militarist era
 - [Technology & Manufacturing](../economy/technology-manufacturing.md) — the postwar industrial miracle that unfolded across the second half of the Showa reign
 - [Postwar Constitution & Democracy](../government-politics/postwar-constitution.md) — the 1947 Constitution, promulgated in Hirohito's name, that recast him from sovereign to symbolic monarch
+- [World War II](../history/world-war-ii.md) — the Pacific War fought throughout Hirohito's reign, from Pearl Harbor to the surrender he announced in August 1945
 <!-- END GENERATED: crossrefs -->

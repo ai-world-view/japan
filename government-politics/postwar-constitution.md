@@ -153,4 +153,5 @@ As of 2025, formal constitutional revision remains on the LDP-Nippon Ishin coali
 - [Meiji Restoration](../history/meiji-restoration.md) — The earlier Meiji Constitution (1889) that the 1947 Constitution replaced, and the political culture it created.
 - [Samurai & Bushido](../culture-society/samurai-bushido.md) — The prewar militarist culture and warrior values that the pacifist Constitution was designed to suppress.
 - [Edo Period](../history/edo-period.md) — The preceding era of Tokugawa governance that shaped the social structures the postwar constitution dismantled.
+- [World War II](../history/world-war-ii.md) — The Pacific War and 1945 defeat that produced the Allied occupation and the pacifist 1947 Constitution.
 <!-- END GENERATED: crossrefs -->

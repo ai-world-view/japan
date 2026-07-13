@@ -66,4 +66,5 @@ Ueda has framed further normalization as conditional on **wage-driven, sustained
 - [Hirohito](../people/hirohito.md) — the Showa emperor's reign, spanning Japan's postwar economic ascent and the bubble era
 - [Tokyo](../geography/tokyo.md) — the bank's home since 1882, in the Nihonbashi district of Japan's financial capital
 - [Technology & Manufacturing](technology-manufacturing.md) — the export-driven manufacturing boom the bank's monetary policy underwrote, and the asset bubble that ended it
+- [1980s Bubble Economy](bubble-economy.md) — the asset bubble the bank's low rates inflated and its 1989–1990 tightening burst, opening the Lost Decades
 <!-- END GENERATED: crossrefs -->

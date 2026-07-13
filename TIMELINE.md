@@ -51,10 +51,13 @@ from the dated facts in each topic file.
 | 1709–1716 | *Hagakure* dictated by Yamamoto Tsunetomo | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1721 | Edo census records a population of roughly 1.1 million | History | [Edo Period](history/edo-period.md) |
 | 1748 | *Kanadehon Chūshingura* (Treasury of Loyal Retainers) first staged | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
+| 1760-10-31 | Katsushika Hokusai born in Edo | People | [Katsushika Hokusai](people/katsushika-hokusai.md) |
 | c. 1765 | Suzuki Harunobu develops full-color *nishiki-e* woodblock prints | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1792 | Shimabara catastrophe (Mount Unzen collapse and mega-tsunami) | Geography | [Major Islands](geography/major-islands.md) |
+| 1814 | First volume of the *Hokusai Manga* published | People | [Katsushika Hokusai](people/katsushika-hokusai.md) |
 | 1830–1832 | Hokusai's *Thirty-six Views of Mount Fuji* published | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1833–1834 | Hiroshige's *Fifty-three Stations of the Tōkaidō* published | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
+| 1849-05-10 | Katsushika Hokusai dies in Edo | People | [Katsushika Hokusai](people/katsushika-hokusai.md) |
 | 1853 | Commodore Perry's "Black Ships" arrive at Uraga Bay | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1854 | Convention of Kanagawa opens Japanese ports | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1858-07-29 | Harris Treaty (Treaty of Amity and Commerce) signed | History | [Edo Period](history/edo-period.md) |
@@ -89,14 +92,22 @@ from the dated facts in each topic file.
 | 1926-12-25 | Hirohito accedes to the Chrysanthemum Throne | People | [Hirohito](people/hirohito.md) |
 | 1927-01-01 | Showa era name formally proclaimed | People | [Hirohito](people/hirohito.md) |
 | 1927 | Bank Panic of 1927 (Shōwa financial crisis) | Economy | [Bank of Japan](economy/bank-of-japan.md) |
-| 1931-09 | Manchurian (Mukden) Incident | People | [Hirohito](people/hirohito.md) |
+| 1931-09-18 | Manchurian (Mukden) Incident; the Kwantung Army seizes Manchuria | History | [World War II](history/world-war-ii.md) |
+| 1933-03 | Japan withdraws from the League of Nations | History | [World War II](history/world-war-ii.md) |
 | 1936-02-26 | February 26 Incident (attempted military coup) | People | [Hirohito](people/hirohito.md) |
-| 1937-07 | Marco Polo Bridge Incident begins full-scale war with China | People | [Hirohito](people/hirohito.md) |
-| 1941-12-07 | Attack on Pearl Harbor | People | [Hirohito](people/hirohito.md) |
-| 1942-06-04 – 06-07 | Battle of Midway | People | [Hirohito](people/hirohito.md) |
-| 1945-03-09 – 03-10 | Firebombing of Tokyo | People | [Hirohito](people/hirohito.md) |
+| 1937-07 | Marco Polo Bridge Incident begins the Second Sino-Japanese War | History | [World War II](history/world-war-ii.md) |
+| 1937-12 | Nanjing Massacre | History | [World War II](history/world-war-ii.md) |
+| 1940-09-27 | Tripartite Pact allies Japan with Nazi Germany and Fascist Italy | History | [World War II](history/world-war-ii.md) |
+| 1941-12-07 | Attack on Pearl Harbor brings the United States into the war | History | [World War II](history/world-war-ii.md) |
+| 1942-02-15 | Fall of Singapore — the largest surrender in British military history | History | [World War II](history/world-war-ii.md) |
+| 1942-05-04 – 05-08 | Battle of the Coral Sea | History | [World War II](history/world-war-ii.md) |
+| 1942-06-04 – 06-07 | Battle of Midway — the decisive turning point of the Pacific War | History | [World War II](history/world-war-ii.md) |
+| 1942-08 – 1943-02 | Guadalcanal Campaign turns the Pacific tide | History | [World War II](history/world-war-ii.md) |
+| 1944-06-19 – 06-20 | Battle of the Philippine Sea ("Marianas Turkey Shoot") | History | [World War II](history/world-war-ii.md) |
+| 1945-03-09 – 03-10 | Firebombing of Tokyo — the deadliest air raid in history | History | [World War II](history/world-war-ii.md) |
 | 1945-04-01 – 06-22 | Battle of Okinawa | Geography | [Major Islands](geography/major-islands.md) |
-| 1945-08-06 | Atomic bombing of Hiroshima | People | [Hirohito](people/hirohito.md) |
+| 1945-08-06 | Atomic bombing of Hiroshima | History | [World War II](history/world-war-ii.md) |
+| 1945-08-08 | Soviet Union declares war on Japan and invades Manchuria | History | [World War II](history/world-war-ii.md) |
 | 1945-08-09 | Atomic bombing of Nagasaki | Geography | [Major Islands](geography/major-islands.md) |
 | 1945-08-15 | Jewel Voice Broadcast announces Japan's surrender | People | [Hirohito](people/hirohito.md) |
 | 1945-09-02 | Japan signs the Instrument of Surrender aboard USS *Missouri* | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
@@ -127,17 +138,21 @@ from the dated facts in each topic file.
 | 1983-07 | Nintendo Famicom (Family Computer) launches in Japan | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
 | 1985 | Plaza Accord drives yen appreciation and fuels the asset bubble | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 1986 | US–Japan Semiconductor Trade Agreement signed | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
+| 1987-02 | Bank of Japan cuts the official discount rate to a record-low 2.5% | Economy | [1980s Bubble Economy](economy/bubble-economy.md) |
 | 1988-03-13 | Seikan Tunnel opens beneath the Tsugaru Strait | Geography | [Major Islands](geography/major-islands.md) |
 | 1989-01-07 | Death of Hirohito ends the Showa era | People | [Hirohito](people/hirohito.md) |
-| 1989-12-29 | Nikkei 225 peaks at 38,915 | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 1989-12-29 | Nikkei 225 peaks at 38,915, the height of the asset bubble | Economy | [1980s Bubble Economy](economy/bubble-economy.md) |
+| 1990 | Nikkei 225 falls 38% as the asset bubble bursts | Economy | [1980s Bubble Economy](economy/bubble-economy.md) |
 | 1991 | Tokyo Metropolitan Government building completed in Shinjuku | Geography | [Tokyo](geography/tokyo.md) |
 | 1994 | Parallel (mixed) electoral system adopted for the House of Representatives | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
 | 1994 | "Historic Monuments of Ancient Kyoto" inscribed as UNESCO World Heritage | Geography | [Kyoto](geography/kyoto.md) |
 | 1995-01-17 | Great Hanshin (Kobe) Earthquake | Geography | [Major Islands](geography/major-islands.md) |
 | 1997 | Bank of Japan Act grants the central bank statutory independence | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 1997-11-24 | Yamaichi Securities collapses amid the post-bubble banking crisis | Economy | [1980s Bubble Economy](economy/bubble-economy.md) |
 | 1997-12 | Kyoto Protocol adopted at COP3 in Kyoto | Geography | [Kyoto](geography/kyoto.md) |
 | 1999-02 | Zero Interest Rate Policy (ZIRP) introduced | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2001-03 | Quantitative easing launched (world's first) | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 2003-04 | Nikkei 225 bottoms near 7,600, roughly 80% below its 1989 peak | Economy | [1980s Bubble Economy](economy/bubble-economy.md) |
 | 2006-09-06 | Prince Hisahito born — first male imperial birth in 41 years | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
 | 2011-03-11 | Great East Japan Earthquake and tsunami | Geography | [Major Islands](geography/major-islands.md) |
 | 2013-04 | Quantitative and Qualitative Easing (QQE) begins under Governor Kuroda | Economy | [Bank of Japan](economy/bank-of-japan.md) |
@@ -150,5 +165,6 @@ from the dated facts in each topic file.
 | 2019-05-01 | Naruhito ascends the Chrysanthemum Throne; Reiwa era begins | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
 | 2019-10-22 | Enthronement ceremony (*Sokui no Rei*) held in Tokyo | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
 | 2024-03 | Bank of Japan ends negative rates and abandons YCC | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 2024-07 | New ¥1,000 banknote features Hokusai's "The Great Wave" on its reverse | People | [Katsushika Hokusai](people/katsushika-hokusai.md) |
 | 2025-01 | Policy rate raised to 0.5%, the highest since 1995 | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 <!-- END GENERATED: timeline -->

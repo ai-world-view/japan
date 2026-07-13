@@ -22,6 +22,7 @@ Category index: [history/](history/index.md)
 
 - [Edo Period](history/edo-period.md)
 - [Meiji Restoration](history/meiji-restoration.md)
+- [World War II](history/world-war-ii.md)
 
 ## Government & Politics
 
@@ -37,6 +38,7 @@ Category index: [economy/](economy/index.md)
 
 - [Bank of Japan](economy/bank-of-japan.md)
 - [Technology & Manufacturing](economy/technology-manufacturing.md)
+- [1980s Bubble Economy](economy/bubble-economy.md)
 
 ## Culture & Society
 
@@ -52,6 +54,7 @@ Category index: [people/](people/index.md)
 
 - [Hirohito](people/hirohito.md)
 - [Murasaki Shikibu](people/murasaki-shikibu.md)
+- [Katsushika Hokusai](people/katsushika-hokusai.md)
 
 ---
 
