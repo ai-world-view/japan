@@ -78,6 +78,7 @@ Today, bushido survives in martial arts traditions (kendo, judo, and karate have
 ## Related
 
 - [Shinto Religion](shinto-religion.md) — Spiritual traditions coexisting with samurai martial culture, including ritual purification, shrine patronage, and nature-worship integral to samurai worldview.
+- [Tea Ceremony](tea-ceremony.md) — A refined aesthetic practice that samurai cultivated alongside martial training, embodying *bushido* principles of restraint, mindfulness, and spiritual cultivation.
 - [Meiji Restoration](../history/meiji-restoration.md) — The 1868 transformation that abolished the samurai class, ended the shogunate, and launched Japan's modernization; directly caused the Satsuma Rebellion.
 - [Hirohito](../people/hirohito.md) — The Showa Emperor during Japan's militarist period, when bushido ethics were reinterpreted for imperial expansion and wartime sacrifice.
 - [Tokyo](../geography/tokyo.md) — Formerly Edo, the Tokugawa shogunate's capital from 1603 and the administrative heart of samurai governance for over 250 years.

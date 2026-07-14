@@ -15,6 +15,7 @@ Category index: [geography/](geography/index.md)
 - [Major Islands](geography/major-islands.md)
 - [Tokyo](geography/tokyo.md)
 - [Kyoto](geography/kyoto.md)
+- [Noto Peninsula](geography/noto-peninsula.md)
 
 ## History
 
@@ -22,6 +23,7 @@ Category index: [history/](history/index.md)
 
 - [Edo Period](history/edo-period.md)
 - [Meiji Restoration](history/meiji-restoration.md)
+- [Sengoku Period](history/sengoku-period.md)
 - [World War II](history/world-war-ii.md)
 
 ## Government & Politics
@@ -47,6 +49,7 @@ Category index: [culture-society/](culture-society/index.md)
 - [Shinto Religion](culture-society/shinto-religion.md)
 - [Samurai & Bushido](culture-society/samurai-bushido.md)
 - [Edo Culture & Arts](culture-society/edo-culture-arts.md)
+- [Tea Ceremony](culture-society/tea-ceremony.md)
 
 ## People
 

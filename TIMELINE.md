@@ -24,9 +24,14 @@ from the dated facts in each topic file.
 | 1180–1185 | Genpei War fought between the Taira and Minamoto clans | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1192 | Minamoto no Yoritomo becomes the first shogun; samurai rule begins | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1397 | Kinkaku-ji (Golden Pavilion) built by Ashikaga Yoshimitsu | Geography | [Kyoto](geography/kyoto.md) |
+| c. 1400 | Tea ceremony tradition emerges from Zen monastic practice and Chinese influence | Culture & Society | [Tea Ceremony](culture-society/tea-ceremony.md) |
 | 1429 | Ryukyu Kingdom founded | Geography | [Major Islands](geography/major-islands.md) |
+| 1467–1615 | **Sengoku period** — 148 years of civil warfare, *daimyo* fragmentation, and military innovation | History | [Sengoku Period](history/sengoku-period.md) |
 | 1467–1477 | Ōnin War devastates Kyoto, gutting the central city | Geography | [Kyoto](geography/kyoto.md) |
 | 1482 | Ginkaku-ji (Silver Pavilion) built by Ashikaga Yoshimasa | Geography | [Kyoto](geography/kyoto.md) |
+| c. 1502–1555 | Takeno Jōō refines tea ceremony aesthetics and philosophy (*wabi-sabi* principle) | Culture & Society | [Tea Ceremony](culture-society/tea-ceremony.md) |
+| 1522–1591 | Sen no Rikyū, master tea practitioner, shapes tea ceremony philosophy and aesthetics | Culture & Society | [Tea Ceremony](culture-society/tea-ceremony.md) |
+| 1543 | Portuguese traders arrive at Tanegashima; firearms introduced to Japan | History | [Sengoku Period](history/sengoku-period.md) |
 | 1549 | Francis Xavier arrives at Kagoshima, introducing Christianity | Geography | [Major Islands](geography/major-islands.md) |
 | 1575 | Battle of Nagashino ends cavalry-dominated samurai warfare | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1582-06-21 | Oda Nobunaga assassinated at Honnō-ji temple, Kyoto | History | [Edo Period](history/edo-period.md) |

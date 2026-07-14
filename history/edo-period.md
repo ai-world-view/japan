@@ -136,6 +136,7 @@ The aesthetic legacy — haiku, kabuki, ukiyo-e, the tea ceremony, *ikebana* flo
 <!-- BEGIN GENERATED: crossrefs — maintained by build-structure; do not edit by hand -->
 ## Related
 
+- [Sengoku Period](sengoku-period.md) — the era of civil warfare (1467–1615) that immediately preceded Edo's unification
 - [Meiji Restoration](meiji-restoration.md) — the 1868 transformation that toppled the Tokugawa shogunate and opened Japan to the world
 - [Samurai & Bushido](../culture-society/samurai-bushido.md) — the warrior class that governed Edo society and whose peacetime role the long Tokugawa peace reshaped
 - [Tokyo](../geography/tokyo.md) — Edo, the shogunal capital, which grew into the world's largest city before being renamed Tokyo

@@ -89,6 +89,7 @@ Japan's archipelago geography—islands strung along a tectonic boundary with vo
 ## Related
 
 - [Meiji Restoration](../history/meiji-restoration.md) — political transformation that reshaped how Japan organized its islands
+- [Noto Peninsula](noto-peninsula.md) — a distinctive geographic region extending into the Sea of Japan with its own cultural traditions
 - [Shinto Religion](../culture-society/shinto-religion.md) — spiritual tradition rooted in the natural geography of the islands
 - [Tokyo](tokyo.md) — the capital on Honshu's Kantō Plain, the archipelago's largest lowland and demographic core
 - [Kyoto](kyoto.md) — the ancient imperial capital in the Yamashiro basin of central Honshū

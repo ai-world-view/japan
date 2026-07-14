@@ -120,6 +120,7 @@ The tea ceremony, by contrast, was revived and nationalized as a marker of Japan
 <!-- BEGIN GENERATED: crossrefs -->
 - [Edo Period](../history/edo-period.md) — The broader Tokugawa shogunate and the historical context for this cultural flowering.
 - [Samurai & Bushido](samurai-bushido.md) — The warrior code and aesthetics that intersected with tea ceremony and Kabuki performance.
+- [Tea Ceremony](tea-ceremony.md) — The ritualized aesthetic practice of *chanoyu* cultivated alongside Kabuki, haiku, and tea ceramics in Edo culture.
 - [Shinto Religion](shinto-religion.md) — The spiritual tradition underlying sumo, tea ceremony, and festival culture.
 - [Meiji Restoration](../history/meiji-restoration.md) — The transition that displaced Edo-era arts but preserved them as national heritage.
 - [Murasaki Shikibu](../people/murasaki-shikibu.md) — Classical literary precedent and the courtly tradition that Edo popular culture drew from and parodied.
