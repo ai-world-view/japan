@@ -16,6 +16,7 @@ Category index: [geography/](geography/index.md)
 - [Tokyo](geography/tokyo.md)
 - [Kyoto](geography/kyoto.md)
 - [Noto Peninsula](geography/noto-peninsula.md)
+- [Mount Fuji](geography/mount-fuji.md)
 
 ## History
 
@@ -33,6 +34,7 @@ Category index: [government-politics/](government-politics/index.md)
 - [Diet of Japan](government-politics/diet-of-japan.md)
 - [Imperial Succession](government-politics/imperial-succession.md)
 - [Postwar Constitution & Democracy](government-politics/postwar-constitution.md)
+- [The Imperial Household](government-politics/imperial-household.md)
 
 ## Economy
 
@@ -58,6 +60,7 @@ Category index: [people/](people/index.md)
 - [Hirohito](people/hirohito.md)
 - [Murasaki Shikibu](people/murasaki-shikibu.md)
 - [Katsushika Hokusai](people/katsushika-hokusai.md)
+- [Tokugawa Ieyasu](people/tokugawa-ieyasu.md)
 
 ---
 

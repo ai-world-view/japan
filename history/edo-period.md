@@ -145,4 +145,5 @@ The aesthetic legacy — haiku, kabuki, ukiyo-e, the tea ceremony, *ikebana* flo
 - [Edo Culture & Arts](../culture-society/edo-culture-arts.md) — the *ukiyo-e*, Kabuki, tea ceremony, and popular literature that flourished under the Tokugawa peace
 - [Kyoto](../geography/kyoto.md) — the imperial capital that remained the cultural and artisanal heart of Edo-period Japan
 - [Katsushika Hokusai](../people/katsushika-hokusai.md) — the *ukiyo-e* master whose popular prints epitomized the culture of the late-Edo merchant city
+- [Tokugawa Ieyasu](../people/tokugawa-ieyasu.md) — the founder of the Tokugawa shogunate whose *bakuhan* institutions defined the Edo period
 <!-- END GENERATED: crossrefs -->

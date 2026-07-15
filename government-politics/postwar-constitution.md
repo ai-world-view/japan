@@ -154,4 +154,5 @@ As of 2025, formal constitutional revision remains on the LDP-Nippon Ishin coali
 - [Samurai & Bushido](../culture-society/samurai-bushido.md) — The prewar militarist culture and warrior values that the pacifist Constitution was designed to suppress.
 - [Edo Period](../history/edo-period.md) — The preceding era of Tokugawa governance that shaped the social structures the postwar constitution dismantled.
 - [World War II](../history/world-war-ii.md) — The Pacific War and 1945 defeat that produced the Allied occupation and the pacifist 1947 Constitution.
+- [The Imperial Household](imperial-household.md) — The throne recast as constitutional "symbol of the State" under Articles 1–8 of the 1947 Constitution.
 <!-- END GENERATED: crossrefs -->

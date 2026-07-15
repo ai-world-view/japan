@@ -86,5 +86,6 @@ Today, bushido survives in martial arts traditions (kendo, judo, and karate have
 - [Murasaki Shikibu](../people/murasaki-shikibu.md) — The Heian court author whose aristocratic world the rise of the samurai class ultimately displaced.
 - [Edo Culture & Arts](edo-culture-arts.md) — The Tokugawa-era arts—tea ceremony, Noh, and Kabuki—that samurai patronized and that expressed *bushido* aesthetics.
 - [Kyoto](../geography/kyoto.md) — The imperial capital whose court culture and Zen temples shaped samurai aesthetics and martial discipline.
+- [Tokugawa Ieyasu](../people/tokugawa-ieyasu.md) — The warrior-founder of the Tokugawa peace that turned the samurai from warriors into administrators.
 
 <!-- END GENERATED: crossrefs -->

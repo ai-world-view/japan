@@ -16,6 +16,7 @@ from the dated facts in each topic file.
 | 712 CE | *Kojiki* completed | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 720 CE | *Nihon Shoki* completed | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 794-11-08 | Emperor Kanmu moves the capital to Heian-kyō (Kyoto) | Geography | [Kyoto](geography/kyoto.md) |
+| 864–866 | Jōgan eruption of Mount Fuji sends lava flows across the northern flank | Geography | [Mount Fuji](geography/mount-fuji.md) |
 | c. 973 CE | Murasaki Shikibu born in Heian-kyō (Kyoto) | People | [Murasaki Shikibu](people/murasaki-shikibu.md) |
 | c. 1008 | Murasaki Shikibu enters Empress Shōshi's court and begins her diary | People | [Murasaki Shikibu](people/murasaki-shikibu.md) |
 | c. 1008–1021 | *The Tale of Genji* composed and circulated at court | People | [Murasaki Shikibu](people/murasaki-shikibu.md) |
@@ -31,17 +32,22 @@ from the dated facts in each topic file.
 | 1482 | Ginkaku-ji (Silver Pavilion) built by Ashikaga Yoshimasa | Geography | [Kyoto](geography/kyoto.md) |
 | c. 1502–1555 | Takeno Jōō refines tea ceremony aesthetics and philosophy (*wabi-sabi* principle) | Culture & Society | [Tea Ceremony](culture-society/tea-ceremony.md) |
 | 1522–1591 | Sen no Rikyū, master tea practitioner, shapes tea ceremony philosophy and aesthetics | Culture & Society | [Tea Ceremony](culture-society/tea-ceremony.md) |
+| 1543-01-31 | Tokugawa Ieyasu born at Okazaki Castle, Mikawa Province | People | [Tokugawa Ieyasu](people/tokugawa-ieyasu.md) |
 | 1543 | Portuguese traders arrive at Tanegashima; firearms introduced to Japan | History | [Sengoku Period](history/sengoku-period.md) |
 | 1549 | Francis Xavier arrives at Kagoshima, introducing Christianity | Geography | [Major Islands](geography/major-islands.md) |
+| 1560-06-12 | Battle of Okehazama frees the young Ieyasu from Imagawa vassalage | People | [Tokugawa Ieyasu](people/tokugawa-ieyasu.md) |
 | 1575 | Battle of Nagashino ends cavalry-dominated samurai warfare | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1582-06-21 | Oda Nobunaga assassinated at Honnō-ji temple, Kyoto | History | [Edo Period](history/edo-period.md) |
 | 1588 | Toyotomi Hideyoshi's Sword Hunt Edict disarms the peasantry | History | [Edo Period](history/edo-period.md) |
 | 1600 | Battle of Sekigahara establishes Tokugawa supremacy | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
+| 1600-10-21 | Ieyasu's eastern coalition wins the decisive Battle of Sekigahara | People | [Tokugawa Ieyasu](people/tokugawa-ieyasu.md) |
 | 1603 | Tokugawa Ieyasu establishes Edo as the shogunal capital | Geography | [Tokyo](geography/tokyo.md) |
 | 1603-03-24 | Tokugawa Ieyasu appointed shogun; the Edo shogunate is founded | History | [Edo Period](history/edo-period.md) |
 | c. 1603 | Izumo no Okuni performs the first Kabuki in Kyoto's riverbed | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
+| 1605 | Ieyasu cedes the shogunate to his son Hidetada, fixing Tokugawa hereditary rule | People | [Tokugawa Ieyasu](people/tokugawa-ieyasu.md) |
 | 1609 | Satsuma domain annexes the Ryukyu Kingdom | Geography | [Major Islands](geography/major-islands.md) |
 | 1615 | Siege of Osaka; *Buke Shohatto* (Laws for Military Houses) issued | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
+| 1616-06-01 | Tokugawa Ieyasu dies at Sunpu; later deified as Tōshō Daigongen at Nikkō | People | [Tokugawa Ieyasu](people/tokugawa-ieyasu.md) |
 | 1629 | Women banned from the Kabuki stage; *onnagata* tradition emerges | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1635 | Sankin-kōtai (alternate attendance) system formalized under Iemitsu | History | [Edo Period](history/edo-period.md) |
 | 1637–1638 | Shimabara Rebellion suppressed | History | [Edo Period](history/edo-period.md) |
@@ -52,7 +58,8 @@ from the dated facts in each topic file.
 | 1689 | Matsuo Bashō journeys the *Narrow Road to the Deep North* | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1697 | Dōjima Rice Exchange founded in Osaka — the first organized futures market | History | [Edo Period](history/edo-period.md) |
 | 1703 | Chikamatsu's *The Love Suicides at Sonezaki* premieres | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
-| 1707–1708 | Hōei eruption of Mount Fuji | Geography | [Major Islands](geography/major-islands.md) |
+| 1707-10-28 | Hōei earthquake (M~8.6) strikes offshore, 49 days before Fuji erupts | Geography | [Mount Fuji](geography/mount-fuji.md) |
+| 1707-12-16 | Hōei eruption — the last and largest eruption of Mount Fuji in recorded history | Geography | [Mount Fuji](geography/mount-fuji.md) |
 | 1709–1716 | *Hagakure* dictated by Yamamoto Tsunetomo | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1721 | Edo census records a population of roughly 1.1 million | History | [Edo Period](history/edo-period.md) |
 | 1748 | *Kanadehon Chūshingura* (Treasury of Loyal Retainers) first staged | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
@@ -161,6 +168,7 @@ from the dated facts in each topic file.
 | 2006-09-06 | Prince Hisahito born — first male imperial birth in 41 years | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
 | 2011-03-11 | Great East Japan Earthquake and tsunami | Geography | [Major Islands](geography/major-islands.md) |
 | 2013-04 | Quantitative and Qualitative Easing (QQE) begins under Governor Kuroda | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 2013-06-22 | Mount Fuji inscribed as a UNESCO Cultural World Heritage Site | Geography | [Mount Fuji](geography/mount-fuji.md) |
 | 2013-10 | 62nd rebuilding of Ise Grand Shrine | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 2015 | Security Legislation permits the JSDF to exercise collective self-defense | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 2016-01 | Negative Interest Rate Policy (NIRP) adopted | Economy | [Bank of Japan](economy/bank-of-japan.md) |
@@ -169,7 +177,10 @@ from the dated facts in each topic file.
 | 2019-04-30 | Emperor Akihito abdicates — first abdication since 1817 | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
 | 2019-05-01 | Naruhito ascends the Chrysanthemum Throne; Reiwa era begins | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
 | 2019-10-22 | Enthronement ceremony (*Sokui no Rei*) held in Tokyo | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
+| 2019-11-14 | *Daijō-sai* (Great Thanksgiving Ceremony) performed for Emperor Naruhito | Government & Politics | [The Imperial Household](government-politics/imperial-household.md) |
+| 2021-12 | Government panel recommends limited measures to secure the imperial succession | Government & Politics | [The Imperial Household](government-politics/imperial-household.md) |
 | 2024-03 | Bank of Japan ends negative rates and abandons YCC | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2024-07 | New ¥1,000 banknote features Hokusai's "The Great Wave" on its reverse | People | [Katsushika Hokusai](people/katsushika-hokusai.md) |
+| 2024-07 | Yamanashi introduces a climbing fee and daily cap on Mount Fuji's Yoshida Trail | Geography | [Mount Fuji](geography/mount-fuji.md) |
 | 2025-01 | Policy rate raised to 0.5%, the highest since 1995 | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 <!-- END GENERATED: timeline -->

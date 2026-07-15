@@ -90,5 +90,6 @@ The succession question also touches Japan's deepest tensions between tradition 
 - [Meiji Restoration](../history/meiji-restoration.md) — The 1868 transformation that formalized the emperor's constitutional centrality and produced the 1889 Imperial House Law governing succession until 1947.
 - [Tokyo](../geography/tokyo.md) — The imperial seat since 1869; the Imperial Palace in Chiyoda ward is the residence of the emperor and the site of succession ceremonies.
 - [Postwar Constitution & Democracy](postwar-constitution.md) — The 1947 Constitution that redefined the Emperor as "the symbol of the State," deriving his position from the will of the people.
+- [The Imperial Household](imperial-household.md) — The wider institution — Imperial Household Agency, regalia, ceremonies, and family — within which the succession question sits.
 
 <!-- END GENERATED: crossrefs -->

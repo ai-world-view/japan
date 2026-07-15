@@ -104,5 +104,7 @@ The city generates approximately 19 percent of Japan's GDP within the 23-ward co
 - [World War II](../history/world-war-ii.md) — The March 1945 firebombing that destroyed much of the city, and the postwar reconstruction that shaped modern Tokyo.
 - [1980s Bubble Economy](../economy/bubble-economy.md) — The asset bubble whose Tokyo land-price mania and collapse reshaped the capital's real-estate market.
 - [Katsushika Hokusai](../people/katsushika-hokusai.md) — The *ukiyo-e* master born in Edo (Tokyo) who depicted the early-modern city's streets, bridges, and pleasure districts.
+- [Tokugawa Ieyasu](../people/tokugawa-ieyasu.md) — The shogun who made the fishing village of Edo his headquarters and the shogunal capital.
+- [Mount Fuji](mount-fuji.md) — The volcanic landmark in Tokyo's western viewshed whose Hōei-scale eruption remains a capital-area ashfall hazard.
 
 <!-- END GENERATED: crossrefs -->

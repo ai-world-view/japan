@@ -126,4 +126,5 @@ The tea ceremony, by contrast, was revived and nationalized as a marker of Japan
 - [Murasaki Shikibu](../people/murasaki-shikibu.md) — Classical literary precedent and the courtly tradition that Edo popular culture drew from and parodied.
 - [Kyoto](../geography/kyoto.md) — The ancient capital whose silk weavers, potters, tea masters, and geisha were central to Edo cultural production.
 - [Katsushika Hokusai](../people/katsushika-hokusai.md) — The *ukiyo-e* master whose *Great Wave* and Fuji series exemplified the floating-world woodblock tradition.
+- [Mount Fuji](../geography/mount-fuji.md) — The sacred mountain and *Fujikō* pilgrimage focus depicted across Edo-period *ukiyo-e*.
 <!-- END GENERATED: crossrefs -->

@@ -93,6 +93,7 @@ Japan's archipelago geography—islands strung along a tectonic boundary with vo
 - [Shinto Religion](../culture-society/shinto-religion.md) — spiritual tradition rooted in the natural geography of the islands
 - [Tokyo](tokyo.md) — the capital on Honshu's Kantō Plain, the archipelago's largest lowland and demographic core
 - [Kyoto](kyoto.md) — the ancient imperial capital in the Yamashiro basin of central Honshū
+- [Mount Fuji](mount-fuji.md) — Japan's tallest peak and most iconic active volcano, straddling Shizuoka and Yamanashi on Honshu
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
