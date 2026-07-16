@@ -114,4 +114,5 @@ The legacy of this era remains embedded in Japanese corporate culture and contin
 - [Edo Period](../history/edo-period.md) — the pre-industrial commercial and artisan foundations underlying Japan's rapid modernization
 - [Tokyo](../geography/tokyo.md) — the corporate and financial hub of Japan's postwar industrial economy
 - [1980s Bubble Economy](bubble-economy.md) — the speculative asset boom and collapse that ended Japan's high-growth era and opened the Lost Decades
+- [Lost Decade & Deflation](lost-decade.md) — the prolonged stagnation during which Japanese manufacturing lost its lead in semiconductors, consumer electronics, and digital platforms
 <!-- END GENERATED: crossrefs -->

@@ -16,17 +16,31 @@ from the dated facts in each topic file.
 | 712 CE | *Kojiki* completed | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 720 CE | *Nihon Shoki* completed | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 794-11-08 | Emperor Kanmu moves the capital to Heian-kyō (Kyoto) | Geography | [Kyoto](geography/kyoto.md) |
+| 794–1185 | **Heian period** — classical era of Fujiwara regency, court culture, and the *kana* literary flowering | History | [Heian Period](history/heian-period.md) |
+| 858 | Fujiwara no Yoshifusa becomes the first non-imperial regent (*sesshō*) | History | [Heian Period](history/heian-period.md) |
 | 864–866 | Jōgan eruption of Mount Fuji sends lava flows across the northern flank | Geography | [Mount Fuji](geography/mount-fuji.md) |
+| 894 | *Kentōshi* embassies to Tang China suspended, spurring native cultural forms | History | [Heian Period](history/heian-period.md) |
+| 905 | *Kokinshū* imperial poetry anthology compiled | History | [Heian Period](history/heian-period.md) |
+| 939 | Taira no Masakado rebels against the court in eastern Japan | History | [Heian Period](history/heian-period.md) |
 | c. 973 CE | Murasaki Shikibu born in Heian-kyō (Kyoto) | People | [Murasaki Shikibu](people/murasaki-shikibu.md) |
 | c. 1008 | Murasaki Shikibu enters Empress Shōshi's court and begins her diary | People | [Murasaki Shikibu](people/murasaki-shikibu.md) |
 | c. 1008–1021 | *The Tale of Genji* composed and circulated at court | People | [Murasaki Shikibu](people/murasaki-shikibu.md) |
 | c. 1014 | Murasaki Shikibu dies (date uncertain) | People | [Murasaki Shikibu](people/murasaki-shikibu.md) |
+| 1018 | Fujiwara no Michinaga's "full moon" poem marks the apex of Fujiwara regency power | History | [Heian Period](history/heian-period.md) |
 | 1053 | Byōdō-in Phoenix Hall completed at Uji | Geography | [Kyoto](geography/kyoto.md) |
+| 1086 | Emperor Shirakawa begins *insei* (cloistered rule), bypassing the Fujiwara | History | [Heian Period](history/heian-period.md) |
+| 1156 | Hōgen Rebellion — samurai settle an imperial succession dispute by force | History | [Heian Period](history/heian-period.md) |
+| 1160 | Heiji Rebellion elevates Taira no Kiyomori | History | [Heian Period](history/heian-period.md) |
+| 1167 | Taira no Kiyomori becomes Grand Minister (*Daijō-daijin*), first warrior to rule the court | History | [Heian Period](history/heian-period.md) |
 | 1180–1185 | Genpei War fought between the Taira and Minamoto clans | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1192 | Minamoto no Yoritomo becomes the first shogun; samurai rule begins | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
+| c. 1374 | Kan'ami performs Noh at Imagumano before Ashikaga Yoshimitsu, winning shogunal patronage | Culture & Society | [Noh Theater](culture-society/noh-theater.md) |
 | 1397 | Kinkaku-ji (Golden Pavilion) built by Ashikaga Yoshimitsu | Geography | [Kyoto](geography/kyoto.md) |
 | c. 1400 | Tea ceremony tradition emerges from Zen monastic practice and Chinese influence | Culture & Society | [Tea Ceremony](culture-society/tea-ceremony.md) |
+| c. 1400–1418 | Zeami composes *Fūshi Kaden*, the first systematic treatise on performance | Culture & Society | [Noh Theater](culture-society/noh-theater.md) |
 | 1429 | Ryukyu Kingdom founded | Geography | [Major Islands](geography/major-islands.md) |
+| 1434 | Zeami exiled to Sado Island by Shogun Ashikaga Yoshinori | Culture & Society | [Noh Theater](culture-society/noh-theater.md) |
+| 1443 | Zeami Motokiyo, codifier of Noh, dies | Culture & Society | [Noh Theater](culture-society/noh-theater.md) |
 | 1467–1615 | **Sengoku period** — 148 years of civil warfare, *daimyo* fragmentation, and military innovation | History | [Sengoku Period](history/sengoku-period.md) |
 | 1467–1477 | Ōnin War devastates Kyoto, gutting the central city | Geography | [Kyoto](geography/kyoto.md) |
 | 1482 | Ginkaku-ji (Silver Pavilion) built by Ashikaga Yoshimasa | Geography | [Kyoto](geography/kyoto.md) |
@@ -48,6 +62,7 @@ from the dated facts in each topic file.
 | 1609 | Satsuma domain annexes the Ryukyu Kingdom | Geography | [Major Islands](geography/major-islands.md) |
 | 1615 | Siege of Osaka; *Buke Shohatto* (Laws for Military Houses) issued | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1616-06-01 | Tokugawa Ieyasu dies at Sunpu; later deified as Tōshō Daigongen at Nikkō | People | [Tokugawa Ieyasu](people/tokugawa-ieyasu.md) |
+| 1618 | Kita school founded under Tokugawa patronage — the fifth Noh school | Culture & Society | [Noh Theater](culture-society/noh-theater.md) |
 | 1629 | Women banned from the Kabuki stage; *onnagata* tradition emerges | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1635 | Sankin-kōtai (alternate attendance) system formalized under Iemitsu | History | [Edo Period](history/edo-period.md) |
 | 1637–1638 | Shimabara Rebellion suppressed | History | [Edo Period](history/edo-period.md) |
@@ -156,16 +171,25 @@ from the dated facts in each topic file.
 | 1989-12-29 | Nikkei 225 peaks at 38,915, the height of the asset bubble | Economy | [1980s Bubble Economy](economy/bubble-economy.md) |
 | 1990 | Nikkei 225 falls 38% as the asset bubble bursts | Economy | [1980s Bubble Economy](economy/bubble-economy.md) |
 | 1991 | Tokyo Metropolitan Government building completed in Shinjuku | Geography | [Tokyo](geography/tokyo.md) |
+| 1992-08 | Nikkei 225 bottoms at 14,309, down 63% from its 1989 peak | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 1994 | Parallel (mixed) electoral system adopted for the House of Representatives | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
 | 1994 | "Historic Monuments of Ancient Kyoto" inscribed as UNESCO World Heritage | Geography | [Kyoto](geography/kyoto.md) |
 | 1995-01-17 | Great Hanshin (Kobe) Earthquake | Geography | [Major Islands](geography/major-islands.md) |
+| 1996 | *Jusen* housing-loan companies resolved at ¥685 billion taxpayer cost | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 1997 | Bank of Japan Act grants the central bank statutory independence | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 1997-04 | Consumption tax raised from 3% to 5%, deepening the recession | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
+| 1997-11-03 | Sanyo Securities fails — first default in Japan's interbank market since WWII | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 1997-11-24 | Yamaichi Securities collapses amid the post-bubble banking crisis | Economy | [1980s Bubble Economy](economy/bubble-economy.md) |
 | 1997-12 | Kyoto Protocol adopted at COP3 in Kyoto | Geography | [Kyoto](geography/kyoto.md) |
+| 1998-10 | Long-Term Credit Bank of Japan nationalized amid the banking crisis | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 1999-02 | Zero Interest Rate Policy (ZIRP) introduced | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2001-03 | Quantitative easing launched (world's first) | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 2002-10 | Takenaka Plan forces banks to write down non-performing loans | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 2003-04 | Nikkei 225 bottoms near 7,600, roughly 80% below its 1989 peak | Economy | [1980s Bubble Economy](economy/bubble-economy.md) |
+| 2005 | Japan Post privatization legislated under Prime Minister Koizumi | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 2006-09-06 | Prince Hisahito born — first male imperial birth in 41 years | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
+| 2008 | UNESCO inscribes Noh (with *kyōgen*) on the Intangible Cultural Heritage list | Culture & Society | [Noh Theater](culture-society/noh-theater.md) |
+| 2009-03-10 | Nikkei 225 falls to ~7,050, its lowest since 1982, in the global financial crisis | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 2011-03-11 | Great East Japan Earthquake and tsunami | Geography | [Major Islands](geography/major-islands.md) |
 | 2013-04 | Quantitative and Qualitative Easing (QQE) begins under Governor Kuroda | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2013-06-22 | Mount Fuji inscribed as a UNESCO Cultural World Heritage Site | Geography | [Mount Fuji](geography/mount-fuji.md) |
@@ -179,6 +203,7 @@ from the dated facts in each topic file.
 | 2019-10-22 | Enthronement ceremony (*Sokui no Rei*) held in Tokyo | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
 | 2019-11-14 | *Daijō-sai* (Great Thanksgiving Ceremony) performed for Emperor Naruhito | Government & Politics | [The Imperial Household](government-politics/imperial-household.md) |
 | 2021-12 | Government panel recommends limited measures to secure the imperial succession | Government & Politics | [The Imperial Household](government-politics/imperial-household.md) |
+| 2024-02 | Nikkei 225 surpasses its 1989 peak for the first time | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 2024-03 | Bank of Japan ends negative rates and abandons YCC | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2024-07 | New ¥1,000 banknote features Hokusai's "The Great Wave" on its reverse | People | [Katsushika Hokusai](people/katsushika-hokusai.md) |
 | 2024-07 | Yamanashi introduces a climbing fee and daily cap on Mount Fuji's Yoshida Trail | Geography | [Mount Fuji](geography/mount-fuji.md) |

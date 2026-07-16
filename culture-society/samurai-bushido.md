@@ -87,5 +87,7 @@ Today, bushido survives in martial arts traditions (kendo, judo, and karate have
 - [Edo Culture & Arts](edo-culture-arts.md) — The Tokugawa-era arts—tea ceremony, Noh, and Kabuki—that samurai patronized and that expressed *bushido* aesthetics.
 - [Kyoto](../geography/kyoto.md) — The imperial capital whose court culture and Zen temples shaped samurai aesthetics and martial discipline.
 - [Tokugawa Ieyasu](../people/tokugawa-ieyasu.md) — The warrior-founder of the Tokugawa peace that turned the samurai from warriors into administrators.
+- [Heian Period](../history/heian-period.md) — The classical era whose late rebellions and the Genpei War produced the samurai class that displaced the court aristocracy.
+- [Noh Theater](noh-theater.md) — The masked drama that samurai rulers adopted as official ceremonial art from the Muromachi period through the Edo shogunate.
 
 <!-- END GENERATED: crossrefs -->

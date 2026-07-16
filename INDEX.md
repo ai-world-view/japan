@@ -26,6 +26,7 @@ Category index: [history/](history/index.md)
 - [Meiji Restoration](history/meiji-restoration.md)
 - [Sengoku Period](history/sengoku-period.md)
 - [World War II](history/world-war-ii.md)
+- [Heian Period](history/heian-period.md)
 
 ## Government & Politics
 
@@ -43,6 +44,7 @@ Category index: [economy/](economy/index.md)
 - [Bank of Japan](economy/bank-of-japan.md)
 - [Technology & Manufacturing](economy/technology-manufacturing.md)
 - [1980s Bubble Economy](economy/bubble-economy.md)
+- [Lost Decade & Deflation](economy/lost-decade.md)
 
 ## Culture & Society
 
@@ -52,6 +54,7 @@ Category index: [culture-society/](culture-society/index.md)
 - [Samurai & Bushido](culture-society/samurai-bushido.md)
 - [Edo Culture & Arts](culture-society/edo-culture-arts.md)
 - [Tea Ceremony](culture-society/tea-ceremony.md)
+- [Noh Theater](culture-society/noh-theater.md)
 
 ## People
 

@@ -129,4 +129,6 @@ The ceremony's influence on [Edo Culture & Arts](edo-culture-arts.md) is pervasi
 - [Samurai & Bushido](samurai-bushido.md) — Warrior class who cultivated tea ceremony as a refinement and spiritual practice complementary to martial discipline
 - [Edo Culture & Arts](edo-culture-arts.md) — Urban culture within which tea ceremony flourished and spread from samurai elite to merchant class
 - [Noto Peninsula](../geography/noto-peninsula.md) — Source of Wajima lacquerware used in tea ceremony utensils throughout the Edo period
+- [Noh Theater](noh-theater.md) — The sister Muromachi-era art sharing tea's aesthetics of *wabi*, *ma*, and Zen-inflected restraint
+- [Heian Period](../history/heian-period.md) — The classical court era whose *shinden-zukuri* gardens and refined aesthetics form the distant background of the tea room's spatial sensibility
 <!-- END GENERATED: crossrefs -->

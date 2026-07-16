@@ -155,4 +155,6 @@ Beyond UNESCO designation, approximately 2,000 temples and shrines of varying si
 - [Samurai & Bushido](../culture-society/samurai-bushido.md) — The warrior tradition that intersected with Kyoto's aristocratic and artistic culture.
 - [Shinto Religion](../culture-society/shinto-religion.md) — The spiritual tradition preserved in Kyoto's countless shrines.
 - [Murasaki Shikibu](../people/murasaki-shikibu.md) — Author of *The Tale of Genji*, the seminal work of Heian-period Kyoto court culture.
+- [Heian Period](../history/heian-period.md) — The era (794–1185) when Kyoto, founded as Heian-kyō, was Japan's imperial capital and the seat of classical court culture.
+- [Noh Theater](../culture-society/noh-theater.md) — The classical masked drama whose outdoor *takigi nō* performances continue at Kyoto's historic shrines.
 <!-- END GENERATED: crossrefs -->
