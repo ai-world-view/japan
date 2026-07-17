@@ -84,6 +84,7 @@ from the dated facts in each topic file.
 | 1814 | First volume of the *Hokusai Manga* published | People | [Katsushika Hokusai](people/katsushika-hokusai.md) |
 | 1830–1832 | Hokusai's *Thirty-six Views of Mount Fuji* published | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1833–1834 | Hiroshige's *Fifty-three Stations of the Tōkaidō* published | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
+| 1849-05-09 | Ichijō Haruko, the future Empress Shōken (Empress Consort Meiji), born in Kyoto | People | [Empress Meiji](people/empress-meiji.md) |
 | 1849-05-10 | Katsushika Hokusai dies in Edo | People | [Katsushika Hokusai](people/katsushika-hokusai.md) |
 | 1853 | Commodore Perry's "Black Ships" arrive at Uraga Bay | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1854 | Convention of Kanagawa opens Japanese ports | History | [Meiji Restoration](history/meiji-restoration.md) |
@@ -93,6 +94,7 @@ from the dated facts in each topic file.
 | 1868-01 | *Shinbutsu bunri* decree separates Shinto from Buddhism | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 1868-04-06 | Five Charter Oath sworn | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1868-09-03 | Edo renamed Tokyo (*Eastern Capital*) | Geography | [Tokyo](geography/tokyo.md) |
+| 1869-02-09 | Ichijō Haruko elevated as empress consort (*Kōgō*) of Emperor Meiji | People | [Empress Meiji](people/empress-meiji.md) |
 | 1869 | Hokkaido Development Commission (*Kaitakushi*) established | Geography | [Major Islands](geography/major-islands.md) |
 | 1871 | Abolition of the domain system (*haihan chiken*); Iwakura Mission departs | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1871 | Yen introduced as Japan's national currency | Economy | [Bank of Japan](economy/bank-of-japan.md) |
@@ -111,6 +113,7 @@ from the dated facts in each topic file.
 | 1905-05-27 | Battle of Tsushima | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1910-08-22 | Annexation of Korea | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1912-07-30 | Death of Emperor Meiji ends the Meiji era | History | [Meiji Restoration](history/meiji-restoration.md) |
+| 1914-04-09 | Empress Shōken (Empress Consort Meiji) dies at the Numazu Imperial Villa | People | [Empress Meiji](people/empress-meiji.md) |
 | 1920-11 | Meiji Jingū completed in Tokyo | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 1921 | Hirohito becomes the first Japanese crown prince to travel abroad (Europe) | People | [Hirohito](people/hirohito.md) |
 | 1923-09-01 | Great Kantō Earthquake | Geography | [Major Islands](geography/major-islands.md) |
@@ -152,7 +155,8 @@ from the dated facts in each topic file.
 | 1950-07-02 | Kinkaku-ji destroyed by arson (rebuilt 1955) | Geography | [Kyoto](geography/kyoto.md) |
 | 1951-09-08 | San Francisco Peace Treaty signed, ending the Allied occupation | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 1954-07-01 | Japan Self-Defense Forces (JSDF) established | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
-| 1955 | Liberal Democratic Party (LDP) founded | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
+| 1954-09-21 | Abe Shinzo born in Tokyo | People | [Abe Shinzo](people/abe-shinzo.md) |
+| 1955-11-22 | Liberal Democratic Party (LDP) founded, launching the 1955 System | Government & Politics | [Liberal Democratic Party](government-politics/liberal-democratic-party.md) |
 | 1955 | Sony's TR-55, Japan's first mass-produced transistor radio, released | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
 | 1960 | U.S.–Japan Security Treaty revised amid mass *Anpo* protests | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 1964 | Tokyo Summer Olympics; Tōkaidō Shinkansen opens | Geography | [Tokyo](geography/tokyo.md) |
@@ -172,6 +176,7 @@ from the dated facts in each topic file.
 | 1990 | Nikkei 225 falls 38% as the asset bubble bursts | Economy | [1980s Bubble Economy](economy/bubble-economy.md) |
 | 1991 | Tokyo Metropolitan Government building completed in Shinjuku | Geography | [Tokyo](geography/tokyo.md) |
 | 1992-08 | Nikkei 225 bottoms at 14,309, down 63% from its 1989 peak | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
+| 1993-07 | LDP loses its lower-house majority, ending the 1955 System | Government & Politics | [Liberal Democratic Party](government-politics/liberal-democratic-party.md) |
 | 1994 | Parallel (mixed) electoral system adopted for the House of Representatives | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
 | 1994 | "Historic Monuments of Ancient Kyoto" inscribed as UNESCO World Heritage | Geography | [Kyoto](geography/kyoto.md) |
 | 1995-01-17 | Great Hanshin (Kobe) Earthquake | Geography | [Major Islands](geography/major-islands.md) |
@@ -188,12 +193,16 @@ from the dated facts in each topic file.
 | 2003-04 | Nikkei 225 bottoms near 7,600, roughly 80% below its 1989 peak | Economy | [1980s Bubble Economy](economy/bubble-economy.md) |
 | 2005 | Japan Post privatization legislated under Prime Minister Koizumi | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 2006-09-06 | Prince Hisahito born — first male imperial birth in 41 years | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
+| 2006-09-26 | Abe Shinzo becomes prime minister, the youngest of the postwar era | People | [Abe Shinzo](people/abe-shinzo.md) |
 | 2008 | UNESCO inscribes Noh (with *kyōgen*) on the Intangible Cultural Heritage list | Culture & Society | [Noh Theater](culture-society/noh-theater.md) |
 | 2009-03-10 | Nikkei 225 falls to ~7,050, its lowest since 1982, in the global financial crisis | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
+| 2009-08-30 | LDP loses power to the Democratic Party of Japan in a landslide defeat | Government & Politics | [Liberal Democratic Party](government-politics/liberal-democratic-party.md) |
 | 2011-03-11 | Great East Japan Earthquake and tsunami | Geography | [Major Islands](geography/major-islands.md) |
+| 2012-12-26 | Abe Shinzo returns as prime minister, beginning a record second tenure | People | [Abe Shinzo](people/abe-shinzo.md) |
 | 2013-04 | Quantitative and Qualitative Easing (QQE) begins under Governor Kuroda | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2013-06-22 | Mount Fuji inscribed as a UNESCO Cultural World Heritage Site | Geography | [Mount Fuji](geography/mount-fuji.md) |
 | 2013-10 | 62nd rebuilding of Ise Grand Shrine | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
+| 2014-07-01 | Abe cabinet reinterprets Article 9 to permit collective self-defense | People | [Abe Shinzo](people/abe-shinzo.md) |
 | 2015 | Security Legislation permits the JSDF to exercise collective self-defense | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 2016-01 | Negative Interest Rate Policy (NIRP) adopted | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2016-06 | Voting age lowered from 20 to 18 | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
@@ -202,10 +211,13 @@ from the dated facts in each topic file.
 | 2019-05-01 | Naruhito ascends the Chrysanthemum Throne; Reiwa era begins | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
 | 2019-10-22 | Enthronement ceremony (*Sokui no Rei*) held in Tokyo | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
 | 2019-11-14 | *Daijō-sai* (Great Thanksgiving Ceremony) performed for Emperor Naruhito | Government & Politics | [The Imperial Household](government-politics/imperial-household.md) |
+| 2020-09-16 | Abe Shinzo resigns as prime minister, citing ill health | People | [Abe Shinzo](people/abe-shinzo.md) |
 | 2021-12 | Government panel recommends limited measures to secure the imperial succession | Government & Politics | [The Imperial Household](government-politics/imperial-household.md) |
+| 2022-07-08 | Abe Shinzo assassinated while campaigning in Nara | People | [Abe Shinzo](people/abe-shinzo.md) |
 | 2024-02 | Nikkei 225 surpasses its 1989 peak for the first time | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 2024-03 | Bank of Japan ends negative rates and abandons YCC | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2024-07 | New ¥1,000 banknote features Hokusai's "The Great Wave" on its reverse | People | [Katsushika Hokusai](people/katsushika-hokusai.md) |
 | 2024-07 | Yamanashi introduces a climbing fee and daily cap on Mount Fuji's Yoshida Trail | Geography | [Mount Fuji](geography/mount-fuji.md) |
+| 2024-10-27 | LDP-Komeito coalition loses its lower-house majority under Ishiba | Government & Politics | [Liberal Democratic Party](government-politics/liberal-democratic-party.md) |
 | 2025-01 | Policy rate raised to 0.5%, the highest since 1995 | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 <!-- END GENERATED: timeline -->

@@ -89,4 +89,5 @@ The broader legacy connects to [postwar economic governance](../government-polit
 - [Tokyo](../geography/tokyo.md) — the capital whose real-estate market epitomized the land-price bubble and its collapse
 - [Postwar Constitution & Democracy](../government-politics/postwar-constitution.md) — the postwar political order and 1955 system within which the bubble unfolded
 - [Lost Decade & Deflation](../economy/lost-decade.md) — the post-bubble stagnation, banking crisis, and entrenched deflation that the 1990–1991 collapse directly set off
+- [Liberal Democratic Party](../government-politics/liberal-democratic-party.md) — the governing party whose monetary and fiscal policy inflated the late-1980s asset bubble
 <!-- END GENERATED: crossrefs -->

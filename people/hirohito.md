@@ -103,4 +103,6 @@ Hirohito's legacy is divided:
 - [Postwar Constitution & Democracy](../government-politics/postwar-constitution.md) — the 1947 Constitution, promulgated in Hirohito's name, that recast him from sovereign to symbolic monarch
 - [World War II](../history/world-war-ii.md) — the Pacific War fought throughout Hirohito's reign, from Pearl Harbor to the surrender he announced in August 1945
 - [The Imperial Household](../government-politics/imperial-household.md) — the imperial institution across whose wartime and postwar transformation Hirohito reigned
+- [Abe Shinzo](abe-shinzo.md) — the postwar prime minister who sought to revise the pacifist constitutional order established during Hirohito's reign
+- [Empress Meiji](empress-meiji.md) — consort of Emperor Meiji, Hirohito's grandfather, and formal custodian of Hirohito's father, the future Emperor Taishō
 <!-- END GENERATED: crossrefs -->

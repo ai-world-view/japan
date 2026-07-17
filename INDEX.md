@@ -36,6 +36,7 @@ Category index: [government-politics/](government-politics/index.md)
 - [Imperial Succession](government-politics/imperial-succession.md)
 - [Postwar Constitution & Democracy](government-politics/postwar-constitution.md)
 - [The Imperial Household](government-politics/imperial-household.md)
+- [Liberal Democratic Party](government-politics/liberal-democratic-party.md)
 
 ## Economy
 
@@ -64,6 +65,8 @@ Category index: [people/](people/index.md)
 - [Murasaki Shikibu](people/murasaki-shikibu.md)
 - [Katsushika Hokusai](people/katsushika-hokusai.md)
 - [Tokugawa Ieyasu](people/tokugawa-ieyasu.md)
+- [Empress Meiji](people/empress-meiji.md)
+- [Abe Shinzo](people/abe-shinzo.md)
 
 ---
 

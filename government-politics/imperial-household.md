@@ -122,4 +122,5 @@ The contrast between the Tokugawa era — during which the Emperor was confined 
 - [Diet of Japan](diet-of-japan.md) — The legislature the Emperor convenes as a ceremonial act
 - [Hirohito](../people/hirohito.md) — The Shōwa Emperor who reigned across the throne's wartime and postwar transformation
 - [Shinto Religion](../culture-society/shinto-religion.md) — The imperial ancestral worship and State Shinto tied to the throne
+- [Empress Meiji](../people/empress-meiji.md) — Empress Shōken, whose precedent-setting public role helped define the modern imperial consort's place in the household
 <!-- END GENERATED: crossrefs -->

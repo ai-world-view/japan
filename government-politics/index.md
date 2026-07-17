@@ -14,4 +14,5 @@ Topics in the **Government & Politics** category of the *the country japan* know
 | [Imperial Succession](imperial-succession.md) | The 1947 Constitution and Imperial Household Law governing the world's oldest hereditary monarchy—male-only succession, the 2019 Akihito abdication and Reiwa era, and the female-succession debate. |
 | [Postwar Constitution & Democracy](postwar-constitution.md) | Japan's 1947 Constitution—popular sovereignty, an enumerated bill of rights, the pacifist Article 9, and the Allied-occupation reforms that built the postwar democracy. |
 | [The Imperial Household](imperial-household.md) | The world's oldest hereditary monarchy—the Emperor as constitutional symbol of state, the Imperial Household Agency, the Three Sacred Treasures, the ceremonial calendar, and the male-line succession crisis. |
+| [Liberal Democratic Party](liberal-democratic-party.md) | Japan's dominant conservative party (founded 1955)—the "1955 System," factional politics, the postwar developmental economy, and near-continuous rule through the 2024 loss of its lower-house majority. |
 <!-- END GENERATED: category-index -->

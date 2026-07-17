@@ -68,4 +68,6 @@ Ueda has framed further normalization as conditional on **wage-driven, sustained
 - [Technology & Manufacturing](technology-manufacturing.md) — the export-driven manufacturing boom the bank's monetary policy underwrote, and the asset bubble that ended it
 - [1980s Bubble Economy](bubble-economy.md) — the asset bubble the bank's low rates inflated and its 1989–1990 tightening burst, opening the Lost Decades
 - [Lost Decade & Deflation](lost-decade.md) — the post-bubble deflationary stagnation in which the bank pioneered zero interest rates and quantitative easing
+- [Liberal Democratic Party](../government-politics/liberal-democratic-party.md) — the governing party whose administrations set the fiscal backdrop for the bank's monetary policy, from the high-growth era through Abenomics
+- [Abe Shinzo](../people/abe-shinzo.md) — the prime minister whose Abenomics program directed the bank's aggressive easing under Governor Kuroda
 <!-- END GENERATED: crossrefs -->

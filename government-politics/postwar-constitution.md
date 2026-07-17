@@ -155,4 +155,6 @@ As of 2025, formal constitutional revision remains on the LDP-Nippon Ishin coali
 - [Edo Period](../history/edo-period.md) — The preceding era of Tokugawa governance that shaped the social structures the postwar constitution dismantled.
 - [World War II](../history/world-war-ii.md) — The Pacific War and 1945 defeat that produced the Allied occupation and the pacifist 1947 Constitution.
 - [The Imperial Household](imperial-household.md) — The throne recast as constitutional "symbol of the State" under Articles 1–8 of the 1947 Constitution.
+- [Liberal Democratic Party](liberal-democratic-party.md) — The party that governed under the 1947 Constitution for most of the postwar era and pursued the Article 9 reinterpretation.
+- [Abe Shinzo](../people/abe-shinzo.md) — The prime minister who reinterpreted Article 9 to permit collective self-defense through a 2014 Cabinet Decision.
 <!-- END GENERATED: crossrefs -->

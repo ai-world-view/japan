@@ -136,4 +136,6 @@ The period connects directly to the policy environment described in [Postwar Con
 - [Technology & Manufacturing](../economy/technology-manufacturing.md) — the export-led industrial sector most affected by the strong yen and the loss of semiconductor and electronics leadership during the stagnation
 - [Postwar Constitution & Democracy](../government-politics/postwar-constitution.md) — the political system whose LDP-bureaucracy consensus proved ill-suited to decisive crisis response
 - [Hirohito](../people/hirohito.md) — the Shōwa Emperor whose death in January 1989 coincided with the final peak of the bubble, marking the transition between eras
+- [Abe Shinzo](../people/abe-shinzo.md) — the prime minister whose Abenomics program was designed to break the deflation entrenched during the Lost Decade
+- [Liberal Democratic Party](../government-politics/liberal-democratic-party.md) — the governing party whose delayed banking reform prolonged the post-bubble stagnation
 <!-- END GENERATED: crossrefs -->
