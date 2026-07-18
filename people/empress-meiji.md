@@ -84,4 +84,5 @@ Her name has drawn renewed attention in the 21st century through discussions of 
 - [Hirohito](hirohito.md) — Emperor Shōwa, Empress Shōken's step-grandson through the Taishō line; his empress Kōjun is sometimes confused with Shōken
 - [Heian Period](../history/heian-period.md) — the classical court culture of waka poetry and Fujiwara noble families from which her Ichijō house descended
 - [Tokyo](../geography/tokyo.md) — the imperial capital from 1869, home to the Meiji court and the Meiji Shrine that commemorates her
+- [Women in Japanese Society](../culture-society/women-in-japanese-society.md) — the evolving status of women in which her patronage of girls' education and the Red Cross marks a Meiji-era milestone
 <!-- END GENERATED: crossrefs -->

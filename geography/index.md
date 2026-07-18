@@ -15,4 +15,5 @@ Topics in the **Geography** category of the *the country japan* knowledge base.
 | [Kyoto](kyoto.md) | Japan's imperial capital for over a millennium (794–1868)—home to 17 UNESCO World Heritage Sites, classical arts and gardens, geisha districts, and traditional crafts. |
 | [Noto Peninsula](noto-peninsula.md) | A mountainous peninsula extending into the Sea of Japan in Ishikawa Prefecture, notable for its distinctive geology, coastal beauty, traditional crafts, and designation as a Japanese Geopark. |
 | [Mount Fuji](mount-fuji.md) | Japan's tallest mountain at 3,776 meters—an active stratovolcano straddling Shizuoka and Yamanashi, a millennium-old pilgrimage site, artistic icon, and UNESCO Cultural World Heritage Site. |
+| [Osaka](osaka.md) | Japan's third-largest city and the commercial heart of the Kansai region—from Hideyoshi's castle and the Edo-era "kitchen of the realm" with its Dōjima rice futures market to a modern industrial, culinary, and Expo host city on Osaka Bay. |
 <!-- END GENERATED: category-index -->

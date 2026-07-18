@@ -15,4 +15,5 @@ Topics in the **Culture & Society** category of the *the country japan* knowledg
 | [Edo Culture & Arts](edo-culture-arts.md) | The flourishing urban "floating world" culture of the Tokugawa peace—*ukiyo-e* woodblock prints, Kabuki and bunraku theater, the tea ceremony, haiku, and popular fiction. |
 | [Tea Ceremony](tea-ceremony.md) | A ritualized aesthetic practice (*chanoyu*) embodying Zen Buddhist philosophy, cultivated by samurai, and refined into a cornerstone of Japanese cultural identity and international cultural exchange. |
 | [Noh Theater](noh-theater.md) | Japan's oldest surviving theatrical tradition, brought to classical form by Zeami in the 14th century under Ashikaga patronage—a sparse, symbolic drama of masked performers, *yūgen* aesthetics, and Zen restraint. |
+| [Women in Japanese Society](women-in-japanese-society.md) | The evolving roles and status of women from Heian court literacy through Edo patriarchy and Meiji modernization to postwar legal equality—and the persistent gaps in pay, politics, and workplace that shape Japan's demographic present. |
 <!-- END GENERATED: category-index -->

@@ -103,4 +103,5 @@ The Tokugawa shogunate's fall in the [Meiji Restoration](../history/meiji-restor
 - [Samurai & Bushido](../culture-society/samurai-bushido.md) — The warrior class whose transformation into administrators he presided over
 - [Tokyo](../geography/tokyo.md) — Edo, the fishing village he made his headquarters and the shogunal capital
 - [The Imperial Household](../government-politics/imperial-household.md) — The throne he subordinated to shogunal authority in 1603
+- [Osaka](../geography/osaka.md) — The Toyotomi stronghold he took in the 1614–1615 sieges, extinguishing Hideyoshi's line
 <!-- END GENERATED: crossrefs -->

@@ -119,4 +119,5 @@ Her court world was governed by the same Fujiwara regency whose administrative d
 - [Edo Culture & Arts](../culture-society/edo-culture-arts.md) — the later popular culture that revived and reimagined *Genji* in print and on the Kabuki stage
 - [Heian Period](../history/heian-period.md) — the classical era whose Fujiwara court and *kana* literary culture Murasaki lived within and defined through *The Tale of Genji*
 - [Noh Theater](../culture-society/noh-theater.md) — the later dramatic art whose *mono no aware* register and several plot sources descend from *Genji* and Heian court aesthetics
+- [Women in Japanese Society](../culture-society/women-in-japanese-society.md) — the long arc of women's status in which Murasaki exemplifies the literary agency of Heian court ladies
 <!-- END GENERATED: crossrefs -->

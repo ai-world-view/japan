@@ -17,6 +17,7 @@ Category index: [geography/](geography/index.md)
 - [Kyoto](geography/kyoto.md)
 - [Noto Peninsula](geography/noto-peninsula.md)
 - [Mount Fuji](geography/mount-fuji.md)
+- [Osaka](geography/osaka.md)
 
 ## History
 
@@ -27,6 +28,7 @@ Category index: [history/](history/index.md)
 - [Sengoku Period](history/sengoku-period.md)
 - [World War II](history/world-war-ii.md)
 - [Heian Period](history/heian-period.md)
+- [Taishō Period](history/taisho-period.md)
 
 ## Government & Politics
 
@@ -56,6 +58,7 @@ Category index: [culture-society/](culture-society/index.md)
 - [Edo Culture & Arts](culture-society/edo-culture-arts.md)
 - [Tea Ceremony](culture-society/tea-ceremony.md)
 - [Noh Theater](culture-society/noh-theater.md)
+- [Women in Japanese Society](culture-society/women-in-japanese-society.md)
 
 ## People
 

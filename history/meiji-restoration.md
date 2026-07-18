@@ -84,6 +84,7 @@ Emperor Meiji died on July 30, 1912, ending the Meiji era. Japan had, in 44 year
 - [Postwar Constitution & Democracy](../government-politics/postwar-constitution.md) — the 1947 charter that replaced the 1889 Meiji Constitution and the political order it created
 - [World War II](world-war-ii.md) — the collapse of the imperial military state the Restoration built, ending in the 1945 defeat and Allied occupation
 - [Empress Meiji](../people/empress-meiji.md) — Empress Shōken, consort of Emperor Meiji and a symbol of the Restoration-era Westernization of the imperial court
+- [Taishō Period](taisho-period.md) — the era (1912–1926) that followed Meiji, experimenting with party democracy within the constitutional order the Restoration built
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

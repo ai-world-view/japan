@@ -52,6 +52,7 @@ from the dated facts in each topic file.
 | 1560-06-12 | Battle of Okehazama frees the young Ieyasu from Imagawa vassalage | People | [Tokugawa Ieyasu](people/tokugawa-ieyasu.md) |
 | 1575 | Battle of Nagashino ends cavalry-dominated samurai warfare | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1582-06-21 | Oda Nobunaga assassinated at Honnō-ji temple, Kyoto | History | [Edo Period](history/edo-period.md) |
+| 1583 | Toyotomi Hideyoshi begins building Osaka Castle on the Ishiyama Hongan-ji site | Geography | [Osaka](geography/osaka.md) |
 | 1588 | Toyotomi Hideyoshi's Sword Hunt Edict disarms the peasantry | History | [Edo Period](history/edo-period.md) |
 | 1600 | Battle of Sekigahara establishes Tokugawa supremacy | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1600-10-21 | Ieyasu's eastern coalition wins the decisive Battle of Sekigahara | People | [Tokugawa Ieyasu](people/tokugawa-ieyasu.md) |
@@ -61,6 +62,7 @@ from the dated facts in each topic file.
 | 1605 | Ieyasu cedes the shogunate to his son Hidetada, fixing Tokugawa hereditary rule | People | [Tokugawa Ieyasu](people/tokugawa-ieyasu.md) |
 | 1609 | Satsuma domain annexes the Ryukyu Kingdom | Geography | [Major Islands](geography/major-islands.md) |
 | 1615 | Siege of Osaka; *Buke Shohatto* (Laws for Military Houses) issued | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
+| 1614–1615 | Winter and Summer Campaigns of Osaka end the Toyotomi line; Osaka becomes a Tokugawa domain | Geography | [Osaka](geography/osaka.md) |
 | 1616-06-01 | Tokugawa Ieyasu dies at Sunpu; later deified as Tōshō Daigongen at Nikkō | People | [Tokugawa Ieyasu](people/tokugawa-ieyasu.md) |
 | 1618 | Kita school founded under Tokugawa patronage — the fifth Noh school | Culture & Society | [Noh Theater](culture-society/noh-theater.md) |
 | 1629 | Women banned from the Kabuki stage; *onnagata* tradition emerges | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
@@ -71,7 +73,7 @@ from the dated facts in each topic file.
 | 1657-01 | Great Meireki Fire destroys much of Edo | History | [Edo Period](history/edo-period.md) |
 | 1682 | Ihara Saikaku's *The Life of an Amorous Man* launches *ukiyo-zōshi* fiction | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1689 | Matsuo Bashō journeys the *Narrow Road to the Deep North* | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
-| 1697 | Dōjima Rice Exchange founded in Osaka — the first organized futures market | History | [Edo Period](history/edo-period.md) |
+| 1697 | Dōjima Rice Exchange founded in Osaka — the first organized futures market | Geography | [Osaka](geography/osaka.md) |
 | 1703 | Chikamatsu's *The Love Suicides at Sonezaki* premieres | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1707-10-28 | Hōei earthquake (M~8.6) strikes offshore, 49 days before Fuji erupts | Geography | [Mount Fuji](geography/mount-fuji.md) |
 | 1707-12-16 | Hōei eruption — the last and largest eruption of Mount Fuji in recorded history | Geography | [Mount Fuji](geography/mount-fuji.md) |
@@ -103,22 +105,31 @@ from the dated facts in each topic file.
 | 1876 | *Haitorei* edict bans the wearing of swords; samurai stipends abolished | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1877 | Satsuma Rebellion led by Saigō Takamori | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1879 | Ryukyu Kingdom incorporated as Okinawa Prefecture | Geography | [Major Islands](geography/major-islands.md) |
+| 1882 | Osaka Cotton Spinning Company founded — Japan's first large-scale mechanized textile mill | Geography | [Osaka](geography/osaka.md) |
 | 1882-10-10 | Bank of Japan established | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 1889-02-11 | Meiji Constitution promulgated | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1890 | Imperial Rescript on Education issued | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1894–1895 | First Sino-Japanese War; Treaty of Shimonoseki | History | [Meiji Restoration](history/meiji-restoration.md) |
+| 1898 | Meiji Civil Code codifies the patriarchal *ie* household system | Culture & Society | [Women in Japanese Society](culture-society/women-in-japanese-society.md) |
 | 1900 | Nitobe Inazō publishes *Bushido: The Soul of Japan* | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1901-04-29 | Hirohito (Emperor Showa) born in Tokyo | People | [Hirohito](people/hirohito.md) |
+| 1903 | Fifth National Industrial Exposition held at Osaka's Tennōji Park | Geography | [Osaka](geography/osaka.md) |
 | 1904–1905 | Russo-Japanese War; Treaty of Portsmouth | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1905-05-27 | Battle of Tsushima | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1910-08-22 | Annexation of Korea | History | [Meiji Restoration](history/meiji-restoration.md) |
+| 1911-09 | Hiratsuka Raichō founds *Seitō* (Bluestocking), launching the Taishō women's movement | Culture & Society | [Women in Japanese Society](culture-society/women-in-japanese-society.md) |
 | 1912-07-30 | Death of Emperor Meiji ends the Meiji era | History | [Meiji Restoration](history/meiji-restoration.md) |
+| 1912-07-30 – 1926-12-25 | **Taishō period** — party government, "Taishō democracy," mass culture, and the drift toward militarism | History | [Taishō Period](history/taisho-period.md) |
 | 1914-04-09 | Empress Shōken (Empress Consort Meiji) dies at the Numazu Imperial Villa | People | [Empress Meiji](people/empress-meiji.md) |
+| 1918-08 | Rice Riots (*Kome Sōdō*) — over 700,000 protest surging rice prices nationwide | History | [Taishō Period](history/taisho-period.md) |
 | 1920-11 | Meiji Jingū completed in Tokyo | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 1921 | Hirohito becomes the first Japanese crown prince to travel abroad (Europe) | People | [Hirohito](people/hirohito.md) |
-| 1923-09-01 | Great Kantō Earthquake | Geography | [Major Islands](geography/major-islands.md) |
+| 1921-11-04 | Prime Minister Hara Takashi assassinated at Tokyo Station | History | [Taishō Period](history/taisho-period.md) |
+| 1922 | Ban on women's political participation (1900 Public Peace Police Law, Art. 5) partially lifted | Culture & Society | [Women in Japanese Society](culture-society/women-in-japanese-society.md) |
+| 1923-09-01 | Great Kantō Earthquake devastates Tokyo and Yokohama, killing ~142,000 | History | [Taishō Period](history/taisho-period.md) |
 | 1923-12-27 | Toranomon Incident (assassination attempt on Regent Hirohito) | People | [Hirohito](people/hirohito.md) |
 | 1925 | Universal Manhood Suffrage Act extends the vote to all men over 25 | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
+| 1925 | Peace Preservation Law (*Chian Ijihō*) criminalizes challenges to the *kokutai* | History | [Taishō Period](history/taisho-period.md) |
 | 1926-12-25 | Hirohito accedes to the Chrysanthemum Throne | People | [Hirohito](people/hirohito.md) |
 | 1927-01-01 | Showa era name formally proclaimed | People | [Hirohito](people/hirohito.md) |
 | 1927 | Bank Panic of 1927 (Shōwa financial crisis) | Economy | [Bank of Japan](economy/bank-of-japan.md) |
@@ -135,6 +146,7 @@ from the dated facts in each topic file.
 | 1942-08 – 1943-02 | Guadalcanal Campaign turns the Pacific tide | History | [World War II](history/world-war-ii.md) |
 | 1944-06-19 – 06-20 | Battle of the Philippine Sea ("Marianas Turkey Shoot") | History | [World War II](history/world-war-ii.md) |
 | 1945-03-09 – 03-10 | Firebombing of Tokyo — the deadliest air raid in history | History | [World War II](history/world-war-ii.md) |
+| 1945-03-13 – 03-14 | Great Osaka Air Raid — 274 B-29s destroy much of the city's core | Geography | [Osaka](geography/osaka.md) |
 | 1945-04-01 – 06-22 | Battle of Okinawa | Geography | [Major Islands](geography/major-islands.md) |
 | 1945-08-06 | Atomic bombing of Hiroshima | History | [World War II](history/world-war-ii.md) |
 | 1945-08-08 | Soviet Union declares war on Japan and invades Manchuria | History | [World War II](history/world-war-ii.md) |
@@ -160,6 +172,7 @@ from the dated facts in each topic file.
 | 1955 | Sony's TR-55, Japan's first mass-produced transistor radio, released | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
 | 1960 | U.S.–Japan Security Treaty revised amid mass *Anpo* protests | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 1964 | Tokyo Summer Olympics; Tōkaidō Shinkansen opens | Geography | [Tokyo](geography/tokyo.md) |
+| 1970-03 | Expo '70 opens in Osaka, drawing a record 64 million visitors | Geography | [Osaka](geography/osaka.md) |
 | 1971 | Hirohito becomes the first reigning Japanese emperor to visit Europe | People | [Hirohito](people/hirohito.md) |
 | 1972-05-15 | Okinawa returned to Japanese administration | Geography | [Major Islands](geography/major-islands.md) |
 | 1975 | Hirohito becomes the first reigning Japanese emperor to visit the United States | People | [Hirohito](people/hirohito.md) |
@@ -168,7 +181,9 @@ from the dated facts in each topic file.
 | 1980 | Japan becomes the world's largest automobile producer | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
 | 1983-07 | Nintendo Famicom (Family Computer) launches in Japan | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
 | 1985 | Plaza Accord drives yen appreciation and fuels the asset bubble | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 1985 | Equal Employment Opportunity Law enacted, barring overt sex discrimination in employment | Culture & Society | [Women in Japanese Society](culture-society/women-in-japanese-society.md) |
 | 1986 | US–Japan Semiconductor Trade Agreement signed | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
+| 1986-09 | Doi Takako becomes the first woman to lead a major Japanese political party (JSP) | Culture & Society | [Women in Japanese Society](culture-society/women-in-japanese-society.md) |
 | 1987-02 | Bank of Japan cuts the official discount rate to a record-low 2.5% | Economy | [1980s Bubble Economy](economy/bubble-economy.md) |
 | 1988-03-13 | Seikan Tunnel opens beneath the Tsugaru Strait | Geography | [Major Islands](geography/major-islands.md) |
 | 1989-01-07 | Death of Hirohito ends the Showa era | People | [Hirohito](people/hirohito.md) |
@@ -179,6 +194,7 @@ from the dated facts in each topic file.
 | 1993-07 | LDP loses its lower-house majority, ending the 1955 System | Government & Politics | [Liberal Democratic Party](government-politics/liberal-democratic-party.md) |
 | 1994 | Parallel (mixed) electoral system adopted for the House of Representatives | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
 | 1994 | "Historic Monuments of Ancient Kyoto" inscribed as UNESCO World Heritage | Geography | [Kyoto](geography/kyoto.md) |
+| 1994-09-04 | Kansai International Airport opens on an artificial island in Osaka Bay | Geography | [Osaka](geography/osaka.md) |
 | 1995-01-17 | Great Hanshin (Kobe) Earthquake | Geography | [Major Islands](geography/major-islands.md) |
 | 1996 | *Jusen* housing-loan companies resolved at ¥685 billion taxpayer cost | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 1997 | Bank of Japan Act grants the central bank statutory independence | Economy | [Bank of Japan](economy/bank-of-japan.md) |
@@ -214,10 +230,12 @@ from the dated facts in each topic file.
 | 2020-09-16 | Abe Shinzo resigns as prime minister, citing ill health | People | [Abe Shinzo](people/abe-shinzo.md) |
 | 2021-12 | Government panel recommends limited measures to secure the imperial succession | Government & Politics | [The Imperial Household](government-politics/imperial-household.md) |
 | 2022-07-08 | Abe Shinzo assassinated while campaigning in Nara | People | [Abe Shinzo](people/abe-shinzo.md) |
+| 2023 | Total fertility rate falls to a record-low 1.20; Japan ranks 125th on the WEF gender-gap index | Culture & Society | [Women in Japanese Society](culture-society/women-in-japanese-society.md) |
 | 2024-02 | Nikkei 225 surpasses its 1989 peak for the first time | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 2024-03 | Bank of Japan ends negative rates and abandons YCC | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2024-07 | New ¥1,000 banknote features Hokusai's "The Great Wave" on its reverse | People | [Katsushika Hokusai](people/katsushika-hokusai.md) |
 | 2024-07 | Yamanashi introduces a climbing fee and daily cap on Mount Fuji's Yoshida Trail | Geography | [Mount Fuji](geography/mount-fuji.md) |
 | 2024-10-27 | LDP-Komeito coalition loses its lower-house majority under Ishiba | Government & Politics | [Liberal Democratic Party](government-politics/liberal-democratic-party.md) |
 | 2025-01 | Policy rate raised to 0.5%, the highest since 1995 | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 2025-04-13 | Expo 2025 opens on the Yumeshima artificial island in Osaka Bay | Geography | [Osaka](geography/osaka.md) |
 <!-- END GENERATED: timeline -->

@@ -146,4 +146,5 @@ The aesthetic legacy — haiku, kabuki, ukiyo-e, the tea ceremony, *ikebana* flo
 - [Kyoto](../geography/kyoto.md) — the imperial capital that remained the cultural and artisanal heart of Edo-period Japan
 - [Katsushika Hokusai](../people/katsushika-hokusai.md) — the *ukiyo-e* master whose popular prints epitomized the culture of the late-Edo merchant city
 - [Tokugawa Ieyasu](../people/tokugawa-ieyasu.md) — the founder of the Tokugawa shogunate whose *bakuhan* institutions defined the Edo period
+- [Osaka](../geography/osaka.md) — the "kitchen of the realm" whose Dōjima Rice Exchange and merchant houses anchored the Edo commercial economy
 <!-- END GENERATED: crossrefs -->

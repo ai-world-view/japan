@@ -105,4 +105,5 @@ The destruction of [Tokyo](../geography/tokyo.md) and other major cities in 1944
 - [Postwar Constitution & Democracy](../government-politics/postwar-constitution.md) — the 1947 charter, including the pacifist Article 9, that the war's outcome produced
 - [Tokyo](../geography/tokyo.md) — the capital devastated by the March 1945 firebombing and rebuilt after the war
 - [Edo Period](../history/edo-period.md) — the Tokugawa era whose surviving architecture was largely erased by the 1945 air raids
+- [Taishō Period](taisho-period.md) — the preceding era of party democracy whose institutional weaknesses gave way to the militarism that led to war
 <!-- END GENERATED: crossrefs -->

@@ -105,4 +105,5 @@ The three great unifiers personify the era's strategic diversity: Nobunaga's rad
 - [Tea Ceremony](../culture-society/tea-ceremony.md) — Aesthetic practice refined and patronized by Sengoku warlords, especially under Sen no Rikyū
 - [Major Islands](../geography/major-islands.md) — Geographic theater of Sengoku campaigns, from Kyushu's Portuguese contacts to Hokkaido's frontier
 - [Tokugawa Ieyasu](../people/tokugawa-ieyasu.md) — The third unifier who won Sekigahara and founded the shogunate that ended the Sengoku era
+- [Osaka](../geography/osaka.md) — The city Hideyoshi made his capital, building Osaka Castle in 1583 before the final siege of 1615
 <!-- END GENERATED: crossrefs -->
