@@ -106,4 +106,5 @@ The destruction of [Tokyo](../geography/tokyo.md) and other major cities in 1944
 - [Tokyo](../geography/tokyo.md) — the capital devastated by the March 1945 firebombing and rebuilt after the war
 - [Edo Period](../history/edo-period.md) — the Tokugawa era whose surviving architecture was largely erased by the 1945 air raids
 - [Taishō Period](taisho-period.md) — the preceding era of party democracy whose institutional weaknesses gave way to the militarism that led to war
+- [Postwar Recovery & Economic Growth](../economy/postwar-recovery-growth.md) — the reconstruction from the war's devastation that rebuilt Japan into an economic power
 <!-- END GENERATED: crossrefs -->

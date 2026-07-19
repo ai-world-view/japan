@@ -157,4 +157,5 @@ As of 2025, formal constitutional revision remains on the LDP-Nippon Ishin coali
 - [The Imperial Household](imperial-household.md) — The throne recast as constitutional "symbol of the State" under Articles 1–8 of the 1947 Constitution.
 - [Liberal Democratic Party](liberal-democratic-party.md) — The party that governed under the 1947 Constitution for most of the postwar era and pursued the Article 9 reinterpretation.
 - [Abe Shinzo](../people/abe-shinzo.md) — The prime minister who reinterpreted Article 9 to permit collective self-defense through a 2014 Cabinet Decision.
+- [Supreme Court of Japan](supreme-court.md) — The constitutional court the 1947 charter created, and its restrained review of Article 9 and the Self-Defense Forces.
 <!-- END GENERATED: crossrefs -->

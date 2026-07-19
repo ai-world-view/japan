@@ -18,6 +18,7 @@ Category index: [geography/](geography/index.md)
 - [Noto Peninsula](geography/noto-peninsula.md)
 - [Mount Fuji](geography/mount-fuji.md)
 - [Osaka](geography/osaka.md)
+- [Hokkaido](geography/hokkaido.md)
 
 ## History
 
@@ -39,6 +40,7 @@ Category index: [government-politics/](government-politics/index.md)
 - [Postwar Constitution & Democracy](government-politics/postwar-constitution.md)
 - [The Imperial Household](government-politics/imperial-household.md)
 - [Liberal Democratic Party](government-politics/liberal-democratic-party.md)
+- [Supreme Court of Japan](government-politics/supreme-court.md)
 
 ## Economy
 
@@ -48,6 +50,7 @@ Category index: [economy/](economy/index.md)
 - [Technology & Manufacturing](economy/technology-manufacturing.md)
 - [1980s Bubble Economy](economy/bubble-economy.md)
 - [Lost Decade & Deflation](economy/lost-decade.md)
+- [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md)
 
 ## Culture & Society
 

@@ -97,12 +97,13 @@ from the dated facts in each topic file.
 | 1868-04-06 | Five Charter Oath sworn | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1868-09-03 | Edo renamed Tokyo (*Eastern Capital*) | Geography | [Tokyo](geography/tokyo.md) |
 | 1869-02-09 | Ichijō Haruko elevated as empress consort (*Kōgō*) of Emperor Meiji | People | [Empress Meiji](people/empress-meiji.md) |
-| 1869 | Hokkaido Development Commission (*Kaitakushi*) established | Geography | [Major Islands](geography/major-islands.md) |
+| 1869 | Ezo renamed Hokkaido; the Development Commission (*Kaitakushi*) begins colonization | Geography | [Hokkaido](geography/hokkaido.md) |
 | 1871 | Abolition of the domain system (*haihan chiken*); Iwakura Mission departs | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1871 | Yen introduced as Japan's national currency | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 1872-10-14 | Japan's first railway (Shimbashi–Yokohama) formally opens | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1873 | Conscription Ordinance and Land Tax Reform enacted | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1876 | *Haitorei* edict bans the wearing of swords; samurai stipends abolished | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
+| 1876 | Sapporo Agricultural College founded; William S. Clark introduces American agronomy | Geography | [Hokkaido](geography/hokkaido.md) |
 | 1877 | Satsuma Rebellion led by Saigō Takamori | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1879 | Ryukyu Kingdom incorporated as Okinawa Prefecture | Geography | [Major Islands](geography/major-islands.md) |
 | 1882 | Osaka Cotton Spinning Company founded — Japan's first large-scale mechanized textile mill | Geography | [Osaka](geography/osaka.md) |
@@ -111,6 +112,7 @@ from the dated facts in each topic file.
 | 1890 | Imperial Rescript on Education issued | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1894–1895 | First Sino-Japanese War; Treaty of Shimonoseki | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1898 | Meiji Civil Code codifies the patriarchal *ie* household system | Culture & Society | [Women in Japanese Society](culture-society/women-in-japanese-society.md) |
+| 1899 | Former Natives Protection Act assimilates the Ainu and strips their land and fishing rights | Geography | [Hokkaido](geography/hokkaido.md) |
 | 1900 | Nitobe Inazō publishes *Bushido: The Soul of Japan* | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1901-04-29 | Hirohito (Emperor Showa) born in Tokyo | People | [Hirohito](people/hirohito.md) |
 | 1903 | Fifth National Industrial Exposition held at Osaka's Tennōji Park | Geography | [Osaka](geography/osaka.md) |
@@ -157,24 +159,35 @@ from the dated facts in each topic file.
 | 1946-01-01 | Hirohito's Declaration of Humanity (*Ningen-sengen*) | People | [Hirohito](people/hirohito.md) |
 | 1946-02 | SCAP's Government Section drafts a new constitution in nine days | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 1946-04 | First general election in which women vote; 39 women elected | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
+| 1946–1947 | Occupation land reform redistributes ~2 million hectares to tenant farmers | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
 | 1946-11-03 | Constitution of Japan promulgated | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 1947-04-25 | First general election held under the new Constitution | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 1947-05-03 | Constitution of Japan takes effect, establishing the modern Diet | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
 | 1947-05-03 | Postwar Imperial Household Law establishes male-only succession | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
 | 1947-05-03 | Constitution of Japan takes effect — popular sovereignty and Article 9 pacifism | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
+| 1947-05-03 | Supreme Court of Japan established with the Article 81 power of constitutional review | Government & Politics | [Supreme Court of Japan](government-politics/supreme-court.md) |
 | 1949 | Ministry of International Trade and Industry (MITI) established | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
+| 1949 | Dodge Line imposes fiscal austerity and fixes the yen at 360 to the US dollar | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
+| 1950–1953 | Korean War special procurement (*tokuju*) ignites Japan's industrial recovery | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
 | 1950 | National Police Reserve created — forerunner of the Self-Defense Forces | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 1950-07-02 | Kinkaku-ji destroyed by arson (rebuilt 1955) | Geography | [Kyoto](geography/kyoto.md) |
 | 1951-09-08 | San Francisco Peace Treaty signed, ending the Allied occupation | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
+| 1952-04-28 | Occupation ends; Japan regains sovereignty and pursues export-led growth | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
 | 1954-07-01 | Japan Self-Defense Forces (JSDF) established | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 1954-09-21 | Abe Shinzo born in Tokyo | People | [Abe Shinzo](people/abe-shinzo.md) |
 | 1955-11-22 | Liberal Democratic Party (LDP) founded, launching the 1955 System | Government & Politics | [Liberal Democratic Party](government-politics/liberal-democratic-party.md) |
 | 1955 | Sony's TR-55, Japan's first mass-produced transistor radio, released | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
+| 1959-12-16 | *Sunakawa* ruling adopts the political-question doctrine, upholding the US–Japan Security Treaty | Government & Politics | [Supreme Court of Japan](government-politics/supreme-court.md) |
 | 1960 | U.S.–Japan Security Treaty revised amid mass *Anpo* protests | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
+| 1960 | Ikeda cabinet launches the Income Doubling Plan (*Shotoku Baizō Keikaku*) | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
 | 1964 | Tokyo Summer Olympics; Tōkaidō Shinkansen opens | Geography | [Tokyo](geography/tokyo.md) |
+| 1964 | Japan joins the OECD, recognized as an advanced industrial economy | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
+| 1968 | Japan overtakes West Germany to become the world's second-largest economy | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
 | 1970-03 | Expo '70 opens in Osaka, drawing a record 64 million visitors | Geography | [Osaka](geography/osaka.md) |
 | 1971 | Hirohito becomes the first reigning Japanese emperor to visit Europe | People | [Hirohito](people/hirohito.md) |
+| 1972-02 | Sapporo hosts the Winter Olympics, the first held in Asia | Geography | [Hokkaido](geography/hokkaido.md) |
 | 1972-05-15 | Okinawa returned to Japanese administration | Geography | [Major Islands](geography/major-islands.md) |
+| 1973-04-04 | *Patricide* ruling strikes down Penal Code Art. 200 — the Court's first unconstitutional-statute holding | Government & Politics | [Supreme Court of Japan](government-politics/supreme-court.md) |
 | 1975 | Hirohito becomes the first reigning Japanese emperor to visit the United States | People | [Hirohito](people/hirohito.md) |
 | 1976–1980 | VLSI Project advances Japanese semiconductor manufacturing | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
 | 1979-07-01 | Sony Walkman (TPS-L2) introduced, creating the personal-music market | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
@@ -192,6 +205,7 @@ from the dated facts in each topic file.
 | 1991 | Tokyo Metropolitan Government building completed in Shinjuku | Geography | [Tokyo](geography/tokyo.md) |
 | 1992-08 | Nikkei 225 bottoms at 14,309, down 63% from its 1989 peak | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 1993-07 | LDP loses its lower-house majority, ending the 1955 System | Government & Politics | [Liberal Democratic Party](government-politics/liberal-democratic-party.md) |
+| 1993-07-12 | Southwest Hokkaido earthquake (M7.8) and tsunami kill ~230, devastating Okushiri Island | Geography | [Hokkaido](geography/hokkaido.md) |
 | 1994 | Parallel (mixed) electoral system adopted for the House of Representatives | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
 | 1994 | "Historic Monuments of Ancient Kyoto" inscribed as UNESCO World Heritage | Geography | [Kyoto](geography/kyoto.md) |
 | 1994-09-04 | Kansai International Airport opens on an artificial island in Osaka Bay | Geography | [Osaka](geography/osaka.md) |
@@ -217,20 +231,25 @@ from the dated facts in each topic file.
 | 2012-12-26 | Abe Shinzo returns as prime minister, beginning a record second tenure | People | [Abe Shinzo](people/abe-shinzo.md) |
 | 2013-04 | Quantitative and Qualitative Easing (QQE) begins under Governor Kuroda | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2013-06-22 | Mount Fuji inscribed as a UNESCO Cultural World Heritage Site | Geography | [Mount Fuji](geography/mount-fuji.md) |
+| 2013-09-04 | Supreme Court voids unequal inheritance shares for children born out of wedlock (Art. 14) | Government & Politics | [Supreme Court of Japan](government-politics/supreme-court.md) |
 | 2013-10 | 62nd rebuilding of Ise Grand Shrine | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 2014-07-01 | Abe cabinet reinterprets Article 9 to permit collective self-defense | People | [Abe Shinzo](people/abe-shinzo.md) |
 | 2015 | Security Legislation permits the JSDF to exercise collective self-defense | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 2016-01 | Negative Interest Rate Policy (NIRP) adopted | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2016-06 | Voting age lowered from 20 to 18 | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
 | 2016-09 | Yield Curve Control (YCC) introduced | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 2018-09-06 | Hokkaido Eastern Iburi earthquake (M6.7) triggers landslides and an island-wide blackout | Geography | [Hokkaido](geography/hokkaido.md) |
+| 2019-04-26 | Ainu People's Support Act recognizes the Ainu as an indigenous people for the first time in law | Geography | [Hokkaido](geography/hokkaido.md) |
 | 2019-04-30 | Emperor Akihito abdicates — first abdication since 1817 | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
 | 2019-05-01 | Naruhito ascends the Chrysanthemum Throne; Reiwa era begins | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
 | 2019-10-22 | Enthronement ceremony (*Sokui no Rei*) held in Tokyo | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
 | 2019-11-14 | *Daijō-sai* (Great Thanksgiving Ceremony) performed for Emperor Naruhito | Government & Politics | [The Imperial Household](government-politics/imperial-household.md) |
+| 2020-07-12 | Upopoy National Ainu Museum opens in Shiraoi, Japan's first national Ainu facility | Geography | [Hokkaido](geography/hokkaido.md) |
 | 2020-09-16 | Abe Shinzo resigns as prime minister, citing ill health | People | [Abe Shinzo](people/abe-shinzo.md) |
 | 2021-12 | Government panel recommends limited measures to secure the imperial succession | Government & Politics | [The Imperial Household](government-politics/imperial-household.md) |
 | 2022-07-08 | Abe Shinzo assassinated while campaigning in Nara | People | [Abe Shinzo](people/abe-shinzo.md) |
 | 2023 | Total fertility rate falls to a record-low 1.20; Japan ranks 125th on the WEF gender-gap index | Culture & Society | [Women in Japanese Society](culture-society/women-in-japanese-society.md) |
+| 2023-10-25 | Supreme Court rules the surgical-sterilization requirement for legal gender change unconstitutional | Government & Politics | [Supreme Court of Japan](government-politics/supreme-court.md) |
 | 2024-02 | Nikkei 225 surpasses its 1989 peak for the first time | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 2024-03 | Bank of Japan ends negative rates and abandons YCC | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2024-07 | New ¥1,000 banknote features Hokusai's "The Great Wave" on its reverse | People | [Katsushika Hokusai](people/katsushika-hokusai.md) |

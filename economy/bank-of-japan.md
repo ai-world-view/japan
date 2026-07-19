@@ -70,4 +70,5 @@ Ueda has framed further normalization as conditional on **wage-driven, sustained
 - [Lost Decade & Deflation](lost-decade.md) — the post-bubble deflationary stagnation in which the bank pioneered zero interest rates and quantitative easing
 - [Liberal Democratic Party](../government-politics/liberal-democratic-party.md) — the governing party whose administrations set the fiscal backdrop for the bank's monetary policy, from the high-growth era through Abenomics
 - [Abe Shinzo](../people/abe-shinzo.md) — the prime minister whose Abenomics program directed the bank's aggressive easing under Governor Kuroda
+- [Postwar Recovery & Economic Growth](postwar-recovery-growth.md) — the high-growth decades during which the bank's "overloan" credit policy financed industrial investment
 <!-- END GENERATED: crossrefs -->

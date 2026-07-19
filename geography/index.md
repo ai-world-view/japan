@@ -16,4 +16,5 @@ Topics in the **Geography** category of the *the country japan* knowledge base.
 | [Noto Peninsula](noto-peninsula.md) | A mountainous peninsula extending into the Sea of Japan in Ishikawa Prefecture, notable for its distinctive geology, coastal beauty, traditional crafts, and designation as a Japanese Geopark. |
 | [Mount Fuji](mount-fuji.md) | Japan's tallest mountain at 3,776 meters—an active stratovolcano straddling Shizuoka and Yamanashi, a millennium-old pilgrimage site, artistic icon, and UNESCO Cultural World Heritage Site. |
 | [Osaka](osaka.md) | Japan's third-largest city and the commercial heart of the Kansai region—from Hideyoshi's castle and the Edo-era "kitchen of the realm" with its Dōjima rice futures market to a modern industrial, culinary, and Expo host city on Osaka Bay. |
+| [Hokkaido](hokkaido.md) | Japan's northernmost and second-largest island—a subarctic frontier of Ainu heritage and Meiji-era colonization whose agriculture, fisheries, coal, and winter tourism anchor its modern economy. |
 <!-- END GENERATED: category-index -->

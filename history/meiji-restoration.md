@@ -85,6 +85,7 @@ Emperor Meiji died on July 30, 1912, ending the Meiji era. Japan had, in 44 year
 - [World War II](world-war-ii.md) — the collapse of the imperial military state the Restoration built, ending in the 1945 defeat and Allied occupation
 - [Empress Meiji](../people/empress-meiji.md) — Empress Shōken, consort of Emperor Meiji and a symbol of the Restoration-era Westernization of the imperial court
 - [Taishō Period](taisho-period.md) — the era (1912–1926) that followed Meiji, experimenting with party democracy within the constitutional order the Restoration built
+- [Hokkaido](../geography/hokkaido.md) — the northern frontier the Meiji state colonized through the Kaitakushi from 1869
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

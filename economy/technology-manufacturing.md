@@ -116,4 +116,5 @@ The legacy of this era remains embedded in Japanese corporate culture and contin
 - [1980s Bubble Economy](bubble-economy.md) — the speculative asset boom and collapse that ended Japan's high-growth era and opened the Lost Decades
 - [Lost Decade & Deflation](lost-decade.md) — the prolonged stagnation during which Japanese manufacturing lost its lead in semiconductors, consumer electronics, and digital platforms
 - [Liberal Democratic Party](../government-politics/liberal-democratic-party.md) — the governing party whose MITI-led industrial policy steered the postwar manufacturing miracle
+- [Postwar Recovery & Economic Growth](postwar-recovery-growth.md) — the 1945–1970 reconstruction and high-growth era that laid the foundation for the manufacturing miracle
 <!-- END GENERATED: crossrefs -->

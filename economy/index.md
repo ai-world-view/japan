@@ -14,4 +14,5 @@ Topics in the **Economy** category of the *the country japan* knowledge base.
 | [Technology & Manufacturing](technology-manufacturing.md) | Japan's postwar industrial miracle — MITI industrial policy, the Toyota Production System, consumer-electronics giants, the DRAM wars, and the bubble and Lost Decade that followed. |
 | [1980s Bubble Economy](bubble-economy.md) | The unprecedented asset-price inflation of 1986–1989, when the Nikkei peaked at 38,915, and the historic collapse that triggered the banking crisis and the deflationary Lost Decades. |
 | [Lost Decade & Deflation](lost-decade.md) | Japan's post-bubble stagnation (1990s–2000s)—the balance-sheet recession, banking crisis, and entrenched deflation that pioneered ZIRP and quantitative easing and reshaped labor and monetary policy. |
+| [Postwar Recovery & Economic Growth](postwar-recovery-growth.md) | Japan's rise from wartime ruin to the world's second-largest economy (1945–1970)—the Allied occupation reforms, the Dodge Line, the Korean War boom, MITI industrial policy, and the high-growth "economic miracle." |
 <!-- END GENERATED: category-index -->

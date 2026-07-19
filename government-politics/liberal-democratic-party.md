@@ -147,4 +147,6 @@ As of the mid-2020s:
 - [Lost Decade & Deflation](../economy/lost-decade.md) — the prolonged stagnation following the 1989 collapse, shaped by the LDP's delayed banking reform
 - [Technology & Manufacturing](../economy/technology-manufacturing.md) — the industrial-policy successes under MITI coordination and LDP stewardship from the 1950s through the 1990s
 - [The Imperial Household](imperial-household.md) — the constitutional monarchy that the LDP's postwar policy has preserved
+- [Supreme Court of Japan](supreme-court.md) — the constitutional court whose restraint has rarely disturbed the LDP's legislative output
+- [Postwar Recovery & Economic Growth](../economy/postwar-recovery-growth.md) — the high-growth era over which the LDP presided through MITI-coordinated industrial policy
 <!-- END GENERATED: crossrefs -->
