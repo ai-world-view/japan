@@ -138,4 +138,5 @@ The period connects directly to the policy environment described in [Postwar Con
 - [Hirohito](../people/hirohito.md) — the Shōwa Emperor whose death in January 1989 coincided with the final peak of the bubble, marking the transition between eras
 - [Abe Shinzo](../people/abe-shinzo.md) — the prime minister whose Abenomics program was designed to break the deflation entrenched during the Lost Decade
 - [Liberal Democratic Party](../government-politics/liberal-democratic-party.md) — the governing party whose delayed banking reform prolonged the post-bubble stagnation
+- [Japanese Financial System](financial-system.md) — the banking crisis, non-performing-loan resolution, and Big Bang deregulation that reshaped Japanese finance during the stagnation
 <!-- END GENERATED: crossrefs -->

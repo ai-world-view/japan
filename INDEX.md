@@ -30,6 +30,7 @@ Category index: [history/](history/index.md)
 - [World War II](history/world-war-ii.md)
 - [Heian Period](history/heian-period.md)
 - [Taishō Period](history/taisho-period.md)
+- [Kamakura Period](history/kamakura-period.md)
 
 ## Government & Politics
 
@@ -51,6 +52,7 @@ Category index: [economy/](economy/index.md)
 - [1980s Bubble Economy](economy/bubble-economy.md)
 - [Lost Decade & Deflation](economy/lost-decade.md)
 - [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md)
+- [Japanese Financial System](economy/financial-system.md)
 
 ## Culture & Society
 
@@ -62,6 +64,7 @@ Category index: [culture-society/](culture-society/index.md)
 - [Tea Ceremony](culture-society/tea-ceremony.md)
 - [Noh Theater](culture-society/noh-theater.md)
 - [Women in Japanese Society](culture-society/women-in-japanese-society.md)
+- [Martial Arts & Budo](culture-society/martial-arts-budo.md)
 
 ## People
 

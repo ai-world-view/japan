@@ -146,4 +146,5 @@ The Noh community numbers approximately 1,500 professional performers in Japan t
 - [Edo Culture & Arts](../culture-society/edo-culture-arts.md) — the broader Tokugawa cultural world in which Noh coexisted with popular arts such as Kabuki and *ukiyo-e*
 - [Murasaki Shikibu](../people/murasaki-shikibu.md) — the Heian court author whose literary aesthetic of *mono no aware* prefigures and informs Noh's emotional register
 - [Kyoto](../geography/kyoto.md) — the former imperial capital and the location of major Noh stages; outdoor Noh (*takigi nō*) continues at Kyoto's historic shrines
+- [Martial Arts & Budo](martial-arts-budo.md) — a fellow classical "way" sharing Zen aesthetics, warrior patronage, and the disciplines of form and *zanshin*
 <!-- END GENERATED: crossrefs -->

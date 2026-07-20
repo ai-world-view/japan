@@ -131,4 +131,5 @@ The ceremony's influence on [Edo Culture & Arts](edo-culture-arts.md) is pervasi
 - [Noto Peninsula](../geography/noto-peninsula.md) — Source of Wajima lacquerware used in tea ceremony utensils throughout the Edo period
 - [Noh Theater](noh-theater.md) — The sister Muromachi-era art sharing tea's aesthetics of *wabi*, *ma*, and Zen-inflected restraint
 - [Heian Period](../history/heian-period.md) — The classical court era whose *shinden-zukuri* gardens and refined aesthetics form the distant background of the tea room's spatial sensibility
+- [Martial Arts & Budo](martial-arts-budo.md) — a parallel Zen-rooted "way" (*dō*); *chadō* and *budō* share aesthetics of discipline, form, and presence
 <!-- END GENERATED: crossrefs -->

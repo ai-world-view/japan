@@ -98,4 +98,5 @@ The end of the Heian period—with the rise of the Minamoto and the foundation o
 - [Sengoku Period](../history/sengoku-period.md) — the age of warring states that followed Heian political collapse and the rise of the samurai
 - [Edo Period](../history/edo-period.md) — the Tokugawa peace that institutionalized samurai culture and preserved Heian classical arts in formal curricula
 - [Women in Japanese Society](../culture-society/women-in-japanese-society.md) — the era's court ladies produced the foundational works of Japanese literature, the high point of women's literary agency
+- [Kamakura Period](kamakura-period.md) — the warrior government that superseded the Heian court, ending the aristocratic age with the Genpei War
 <!-- END GENERATED: crossrefs -->

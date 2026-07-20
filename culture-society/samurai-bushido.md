@@ -90,4 +90,6 @@ Today, bushido survives in martial arts traditions (kendo, judo, and karate have
 - [Heian Period](../history/heian-period.md) — The classical era whose late rebellions and the Genpei War produced the samurai class that displaced the court aristocracy.
 - [Noh Theater](noh-theater.md) — The masked drama that samurai rulers adopted as official ceremonial art from the Muromachi period through the Edo shogunate.
 
+- [Kamakura Period](../history/kamakura-period.md) — the first warrior government, where the samurai ethos and its institutions of loyalty and land tenure crystallized
+- [Martial Arts & Budo](martial-arts-budo.md) — the combat disciplines of the samurai, transformed after the Meiji abolition into modern paths of *budō*
 <!-- END GENERATED: crossrefs -->

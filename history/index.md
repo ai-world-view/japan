@@ -16,4 +16,5 @@ Topics in the **History** category of the *the country japan* knowledge base.
 | [World War II](world-war-ii.md) | Japan's imperial expansion, alliance with the Axis, the Pacific War (1941–1945), the atomic bombings, and the 1945 surrender that ended imperial militarism and opened the Allied occupation. |
 | [Heian Period](heian-period.md) | Japan's classical era (794–1185)—the founding of Heian-kyō, the Fujiwara regency, the *kana* literary flowering of *The Tale of Genji*, and the rise of the warrior clans that ended aristocratic rule. |
 | [Taishō Period](taisho-period.md) | The era of social transformation (1912–1926) between Meiji modernization and Shōwa militarism—"Taishō democracy," universal male suffrage (1925), Western-influenced mass culture, and the 1923 Great Kantō Earthquake. |
+| [Kamakura Period](kamakura-period.md) | Japan's first warrior government (1185–1333)—the Minamoto shogunate and Hōjō regency, the *Jōei Shikimoku* legal code, the spread of Zen and Pure Land Buddhism, and the repulse of the Mongol invasions that laid the foundations of samurai rule. |
 <!-- END GENERATED: category-index -->

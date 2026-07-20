@@ -33,7 +33,13 @@ from the dated facts in each topic file.
 | 1160 | Heiji Rebellion elevates Taira no Kiyomori | History | [Heian Period](history/heian-period.md) |
 | 1167 | Taira no Kiyomori becomes Grand Minister (*Daijō-daijin*), first warrior to rule the court | History | [Heian Period](history/heian-period.md) |
 | 1180–1185 | Genpei War fought between the Taira and Minamoto clans | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
-| 1192 | Minamoto no Yoritomo becomes the first shogun; samurai rule begins | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
+| 1185-04-25 | Battle of Dan-no-Ura ends the Genpei War; the Taira clan is destroyed | History | [Kamakura Period](history/kamakura-period.md) |
+| 1185–1333 | **Kamakura period** — Japan's first warrior government, the Hōjō regency, and the Mongol invasions | History | [Kamakura Period](history/kamakura-period.md) |
+| 1192 | Minamoto no Yoritomo appointed *sei-i taishōgun*, founding the Kamakura shogunate | History | [Kamakura Period](history/kamakura-period.md) |
+| 1232 | Hōjō Yasutoki promulgates the *Jōei Shikimoku*, Japan's first warrior legal code | History | [Kamakura Period](history/kamakura-period.md) |
+| 1274 | First Mongol invasion repulsed at Hakata Bay | History | [Kamakura Period](history/kamakura-period.md) |
+| 1281 | Second Mongol invasion destroyed by the *kamikaze* ("divine wind") typhoon | History | [Kamakura Period](history/kamakura-period.md) |
+| 1333 | Kamakura shogunate falls; the Hōjō regency ends and the Kenmu Restoration begins | History | [Kamakura Period](history/kamakura-period.md) |
 | c. 1374 | Kan'ami performs Noh at Imagumano before Ashikaga Yoshimitsu, winning shogunal patronage | Culture & Society | [Noh Theater](culture-society/noh-theater.md) |
 | 1397 | Kinkaku-ji (Golden Pavilion) built by Ashikaga Yoshimitsu | Geography | [Kyoto](geography/kyoto.md) |
 | c. 1400 | Tea ceremony tradition emerges from Zen monastic practice and Chinese influence | Culture & Society | [Tea Ceremony](culture-society/tea-ceremony.md) |
@@ -105,8 +111,10 @@ from the dated facts in each topic file.
 | 1876 | *Haitorei* edict bans the wearing of swords; samurai stipends abolished | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1876 | Sapporo Agricultural College founded; William S. Clark introduces American agronomy | Geography | [Hokkaido](geography/hokkaido.md) |
 | 1877 | Satsuma Rebellion led by Saigō Takamori | History | [Meiji Restoration](history/meiji-restoration.md) |
+| 1878-05 | Tokyo Stock Exchange established under the Meiji government | Economy | [Japanese Financial System](economy/financial-system.md) |
 | 1879 | Ryukyu Kingdom incorporated as Okinawa Prefecture | Geography | [Major Islands](geography/major-islands.md) |
 | 1882 | Osaka Cotton Spinning Company founded — Japan's first large-scale mechanized textile mill | Geography | [Osaka](geography/osaka.md) |
+| 1882-02 | Jigorō Kanō founds judo and the Kōdōkan in Tokyo | Culture & Society | [Martial Arts & Budo](culture-society/martial-arts-budo.md) |
 | 1882-10-10 | Bank of Japan established | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 1889-02-11 | Meiji Constitution promulgated | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1890 | Imperial Rescript on Education issued | History | [Meiji Restoration](history/meiji-restoration.md) |
@@ -128,6 +136,7 @@ from the dated facts in each topic file.
 | 1921 | Hirohito becomes the first Japanese crown prince to travel abroad (Europe) | People | [Hirohito](people/hirohito.md) |
 | 1921-11-04 | Prime Minister Hara Takashi assassinated at Tokyo Station | History | [Taishō Period](history/taisho-period.md) |
 | 1922 | Ban on women's political participation (1900 Public Peace Police Law, Art. 5) partially lifted | Culture & Society | [Women in Japanese Society](culture-society/women-in-japanese-society.md) |
+| 1922-05 | Gichin Funakoshi gives the first mainland demonstration of Okinawan karate in Tokyo | Culture & Society | [Martial Arts & Budo](culture-society/martial-arts-budo.md) |
 | 1923-09-01 | Great Kantō Earthquake devastates Tokyo and Yokohama, killing ~142,000 | History | [Taishō Period](history/taisho-period.md) |
 | 1923-12-27 | Toranomon Incident (assassination attempt on Regent Hirohito) | People | [Hirohito](people/hirohito.md) |
 | 1925 | Universal Manhood Suffrage Act extends the vote to all men over 25 | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
@@ -166,6 +175,7 @@ from the dated facts in each topic file.
 | 1947-05-03 | Postwar Imperial Household Law establishes male-only succession | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
 | 1947-05-03 | Constitution of Japan takes effect — popular sovereignty and Article 9 pacifism | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 1947-05-03 | Supreme Court of Japan established with the Article 81 power of constitutional review | Government & Politics | [Supreme Court of Japan](government-politics/supreme-court.md) |
+| 1948 | Securities and Exchange Law establishes the postwar capital-market framework | Economy | [Japanese Financial System](economy/financial-system.md) |
 | 1949 | Ministry of International Trade and Industry (MITI) established | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
 | 1949 | Dodge Line imposes fiscal austerity and fixes the yen at 360 to the US dollar | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
 | 1950–1953 | Korean War special procurement (*tokuju*) ignites Japan's industrial recovery | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
@@ -181,6 +191,7 @@ from the dated facts in each topic file.
 | 1960 | U.S.–Japan Security Treaty revised amid mass *Anpo* protests | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 1960 | Ikeda cabinet launches the Income Doubling Plan (*Shotoku Baizō Keikaku*) | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
 | 1964 | Tokyo Summer Olympics; Tōkaidō Shinkansen opens | Geography | [Tokyo](geography/tokyo.md) |
+| 1964 | Judo debuts as an Olympic sport at the Tokyo Games | Culture & Society | [Martial Arts & Budo](culture-society/martial-arts-budo.md) |
 | 1964 | Japan joins the OECD, recognized as an advanced industrial economy | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
 | 1968 | Japan overtakes West Germany to become the world's second-largest economy | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
 | 1970-03 | Expo '70 opens in Osaka, drawing a record 64 million visitors | Geography | [Osaka](geography/osaka.md) |
@@ -211,6 +222,7 @@ from the dated facts in each topic file.
 | 1994-09-04 | Kansai International Airport opens on an artificial island in Osaka Bay | Geography | [Osaka](geography/osaka.md) |
 | 1995-01-17 | Great Hanshin (Kobe) Earthquake | Geography | [Major Islands](geography/major-islands.md) |
 | 1996 | *Jusen* housing-loan companies resolved at ¥685 billion taxpayer cost | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
+| 1996-11 | Prime Minister Hashimoto launches the financial "Big Bang" deregulation | Economy | [Japanese Financial System](economy/financial-system.md) |
 | 1997 | Bank of Japan Act grants the central bank statutory independence | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 1997-04 | Consumption tax raised from 3% to 5%, deepening the recession | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 1997-11-03 | Sanyo Securities fails — first default in Japan's interbank market since WWII | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
@@ -246,10 +258,12 @@ from the dated facts in each topic file.
 | 2019-11-14 | *Daijō-sai* (Great Thanksgiving Ceremony) performed for Emperor Naruhito | Government & Politics | [The Imperial Household](government-politics/imperial-household.md) |
 | 2020-07-12 | Upopoy National Ainu Museum opens in Shiraoi, Japan's first national Ainu facility | Geography | [Hokkaido](geography/hokkaido.md) |
 | 2020-09-16 | Abe Shinzo resigns as prime minister, citing ill health | People | [Abe Shinzo](people/abe-shinzo.md) |
+| 2021-08 | Karate makes its Olympic debut at the Tokyo Games (held 2021) | Culture & Society | [Martial Arts & Budo](culture-society/martial-arts-budo.md) |
 | 2021-12 | Government panel recommends limited measures to secure the imperial succession | Government & Politics | [The Imperial Household](government-politics/imperial-household.md) |
 | 2022-07-08 | Abe Shinzo assassinated while campaigning in Nara | People | [Abe Shinzo](people/abe-shinzo.md) |
 | 2023 | Total fertility rate falls to a record-low 1.20; Japan ranks 125th on the WEF gender-gap index | Culture & Society | [Women in Japanese Society](culture-society/women-in-japanese-society.md) |
 | 2023-10-25 | Supreme Court rules the surgical-sterilization requirement for legal gender change unconstitutional | Government & Politics | [Supreme Court of Japan](government-politics/supreme-court.md) |
+| 2024-01 | Expanded "New NISA" tax-free investment accounts launch, spurring record retail inflows | Economy | [Japanese Financial System](economy/financial-system.md) |
 | 2024-02 | Nikkei 225 surpasses its 1989 peak for the first time | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 2024-03 | Bank of Japan ends negative rates and abandons YCC | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2024-07 | New ¥1,000 banknote features Hokusai's "The Great Wave" on its reverse | People | [Katsushika Hokusai](people/katsushika-hokusai.md) |

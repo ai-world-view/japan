@@ -90,4 +90,5 @@ The broader legacy connects to [postwar economic governance](../government-polit
 - [Postwar Constitution & Democracy](../government-politics/postwar-constitution.md) — the postwar political order and 1955 system within which the bubble unfolded
 - [Lost Decade & Deflation](../economy/lost-decade.md) — the post-bubble stagnation, banking crisis, and entrenched deflation that the 1990–1991 collapse directly set off
 - [Liberal Democratic Party](../government-politics/liberal-democratic-party.md) — the governing party whose monetary and fiscal policy inflated the late-1980s asset bubble
+- [Japanese Financial System](financial-system.md) — the banking sector and securities markets whose over-lending inflated the bubble and absorbed its collapse
 <!-- END GENERATED: crossrefs -->
