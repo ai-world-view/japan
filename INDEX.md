@@ -19,6 +19,8 @@ Category index: [geography/](geography/index.md)
 - [Mount Fuji](geography/mount-fuji.md)
 - [Osaka](geography/osaka.md)
 - [Hokkaido](geography/hokkaido.md)
+- [Kyushu](geography/kyushu.md)
+- [Shikoku](geography/shikoku.md)
 
 ## History
 
@@ -42,6 +44,7 @@ Category index: [government-politics/](government-politics/index.md)
 - [The Imperial Household](government-politics/imperial-household.md)
 - [Liberal Democratic Party](government-politics/liberal-democratic-party.md)
 - [Supreme Court of Japan](government-politics/supreme-court.md)
+- [Ministry of Economy, Trade and Industry (METI)](government-politics/ministry-economy-trade-industry.md)
 
 ## Economy
 

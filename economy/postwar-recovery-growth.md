@@ -82,4 +82,5 @@ Japan's postwar recovery redefined economic development strategy for the postwar
 - [Liberal Democratic Party](../government-politics/liberal-democratic-party.md) — Political stability enabling economic growth
 - [Tokyo](../geography/tokyo.md) — Capital city transformed by rapid industrialization and the 1964 Olympics
 - [Supreme Court](../government-politics/supreme-court.md) — Judicial framework co-established under the 1947 constitutional order
+- [Ministry of Economy, Trade and Industry (METI)](../government-politics/ministry-economy-trade-industry.md) — MITI's industrial policy and administrative guidance during the high-growth decades
 <!-- END GENERATED: crossrefs -->

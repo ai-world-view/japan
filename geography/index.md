@@ -17,4 +17,6 @@ Topics in the **Geography** category of the *the country japan* knowledge base.
 | [Mount Fuji](mount-fuji.md) | Japan's tallest mountain at 3,776 meters—an active stratovolcano straddling Shizuoka and Yamanashi, a millennium-old pilgrimage site, artistic icon, and UNESCO Cultural World Heritage Site. |
 | [Osaka](osaka.md) | Japan's third-largest city and the commercial heart of the Kansai region—from Hideyoshi's castle and the Edo-era "kitchen of the realm" with its Dōjima rice futures market to a modern industrial, culinary, and Expo host city on Osaka Bay. |
 | [Hokkaido](hokkaido.md) | Japan's northernmost and second-largest island—a subarctic frontier of Ainu heritage and Meiji-era colonization whose agriculture, fisheries, coal, and winter tourism anchor its modern economy. |
+| [Kyushu](kyushu.md) | Japan's third-largest island and southwesternmost landmass—a volcanic, seismically active region with major industrial zones, agricultural heritage, and a historic role as Japan's gateway to Asia and site of early Christian missions. |
+| [Shikoku](shikoku.md) | Japan's smallest main island—home to the 1,200-kilometer Kōbo Daishi pilgrimage of 88 Buddhist temples, the pristine Shimanto River, and a rural economy facing acute demographic decline. |
 <!-- END GENERATED: category-index -->

@@ -149,4 +149,5 @@ As of the mid-2020s:
 - [The Imperial Household](imperial-household.md) — the constitutional monarchy that the LDP's postwar policy has preserved
 - [Supreme Court of Japan](supreme-court.md) — the constitutional court whose restraint has rarely disturbed the LDP's legislative output
 - [Postwar Recovery & Economic Growth](../economy/postwar-recovery-growth.md) — the high-growth era over which the LDP presided through MITI-coordinated industrial policy
+- [Ministry of Economy, Trade and Industry (METI)](ministry-economy-trade-industry.md) — the economic ministry (formerly MITI) at the center of the LDP's developmental-state coalition with business
 <!-- END GENERATED: crossrefs -->

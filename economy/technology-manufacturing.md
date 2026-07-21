@@ -117,4 +117,6 @@ The legacy of this era remains embedded in Japanese corporate culture and contin
 - [Lost Decade & Deflation](lost-decade.md) — the prolonged stagnation during which Japanese manufacturing lost its lead in semiconductors, consumer electronics, and digital platforms
 - [Liberal Democratic Party](../government-politics/liberal-democratic-party.md) — the governing party whose MITI-led industrial policy steered the postwar manufacturing miracle
 - [Postwar Recovery & Economic Growth](postwar-recovery-growth.md) — the 1945–1970 reconstruction and high-growth era that laid the foundation for the manufacturing miracle
+- [Ministry of Economy, Trade and Industry (METI)](../government-politics/ministry-economy-trade-industry.md) — the ministry (formerly MITI) whose industrial policy and administrative guidance shaped these industries
+- [Kyushu](../geography/kyushu.md) — the "Silicon Island" semiconductor cluster, including the TSMC/JASM investment
 <!-- END GENERATED: crossrefs -->

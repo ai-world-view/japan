@@ -95,6 +95,8 @@ Japan's archipelago geography—islands strung along a tectonic boundary with vo
 - [Kyoto](kyoto.md) — the ancient imperial capital in the Yamashiro basin of central Honshū
 - [Mount Fuji](mount-fuji.md) — Japan's tallest peak and most iconic active volcano, straddling Shizuoka and Yamanashi on Honshu
 - [Hokkaido](hokkaido.md) — the northernmost of the four main islands, incorporated and colonized after the Meiji Restoration
+- [Kyushu](kyushu.md) — the third-largest main island and Japan's historic southwestern gateway to Asia
+- [Shikoku](shikoku.md) — the smallest of the four main islands, ringed by the 88-temple pilgrimage
 <!-- END GENERATED: crossrefs -->
 
 ## Sources
