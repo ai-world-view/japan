@@ -147,6 +147,7 @@ from the dated facts in each topic file.
 | 1922-05 | Gichin Funakoshi gives the first mainland demonstration of Okinawan karate in Tokyo | Culture & Society | [Martial Arts & Budo](culture-society/martial-arts-budo.md) |
 | 1923-09-01 | Great Kantō Earthquake devastates Tokyo and Yokohama, killing ~142,000 | History | [Taishō Period](history/taisho-period.md) |
 | 1923-12-27 | Toranomon Incident (assassination attempt on Regent Hirohito) | People | [Hirohito](people/hirohito.md) |
+| 1925-01-14 | Yukio Mishima (Kimitake Hiraoka), author and nationalist, born in Tokyo | People | [Yukio Mishima](people/yukio-mishima.md) |
 | 1925 | Universal Manhood Suffrage Act extends the vote to all men over 25 | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
 | 1925 | Peace Preservation Law (*Chian Ijihō*) criminalizes challenges to the *kokutai* | History | [Taishō Period](history/taisho-period.md) |
 | 1926-12-25 | Hirohito accedes to the Chrysanthemum Throne | People | [Hirohito](people/hirohito.md) |
@@ -185,6 +186,7 @@ from the dated facts in each topic file.
 | 1947-05-03 | Supreme Court of Japan established with the Article 81 power of constitutional review | Government & Politics | [Supreme Court of Japan](government-politics/supreme-court.md) |
 | 1948 | Securities and Exchange Law establishes the postwar capital-market framework | Economy | [Japanese Financial System](economy/financial-system.md) |
 | 1949 | Dodge Line imposes fiscal austerity and fixes the yen at 360 to the US dollar | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
+| 1949 | Mishima's *Confessions of a Mask* establishes him as a leading postwar novelist | People | [Yukio Mishima](people/yukio-mishima.md) |
 | 1949-06-04 | Ministry of International Trade and Industry (MITI) established | Government & Politics | [Ministry of Economy, Trade and Industry (METI)](government-politics/ministry-economy-trade-industry.md) |
 | 1950–1953 | Korean War special procurement (*tokuju*) ignites Japan's industrial recovery | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
 | 1950 | National Police Reserve created — forerunner of the Self-Defense Forces | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
@@ -195,6 +197,7 @@ from the dated facts in each topic file.
 | 1954-09-21 | Abe Shinzo born in Tokyo | People | [Abe Shinzo](people/abe-shinzo.md) |
 | 1955-11-22 | Liberal Democratic Party (LDP) founded, launching the 1955 System | Government & Politics | [Liberal Democratic Party](government-politics/liberal-democratic-party.md) |
 | 1955 | Sony's TR-55, Japan's first mass-produced transistor radio, released | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
+| 1955 | First *Shunto* spring wage offensive coordinated by the Sōhyō labor federation | Economy | [Labor Market & Employment](economy/labor-market-and-employment.md) |
 | 1959-12-16 | *Sunakawa* ruling adopts the political-question doctrine, upholding the US–Japan Security Treaty | Government & Politics | [Supreme Court of Japan](government-politics/supreme-court.md) |
 | 1960 | U.S.–Japan Security Treaty revised amid mass *Anpo* protests | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 1960 | Ikeda cabinet launches the Income Doubling Plan (*Shotoku Baizō Keikaku*) | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
@@ -202,7 +205,9 @@ from the dated facts in each topic file.
 | 1964 | Judo debuts as an Olympic sport at the Tokyo Games | Culture & Society | [Martial Arts & Budo](culture-society/martial-arts-budo.md) |
 | 1964 | Japan joins the OECD, recognized as an advanced industrial economy | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
 | 1968 | Japan overtakes West Germany to become the world's second-largest economy | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
+| 1968-10 | Mishima founds the *Tate no Kai* (Shield Society), a private paramilitary corps | People | [Yukio Mishima](people/yukio-mishima.md) |
 | 1970-03 | Expo '70 opens in Osaka, drawing a record 64 million visitors | Geography | [Osaka](geography/osaka.md) |
+| 1970-11-25 | Yukio Mishima commits *seppuku* at the JSDF Ichigaya headquarters after a failed coup appeal | People | [Yukio Mishima](people/yukio-mishima.md) |
 | 1971 | Hirohito becomes the first reigning Japanese emperor to visit Europe | People | [Hirohito](people/hirohito.md) |
 | 1972-02 | Sapporo hosts the Winter Olympics, the first held in Asia | Geography | [Hokkaido](geography/hokkaido.md) |
 | 1972-05-15 | Okinawa returned to Japanese administration | Geography | [Major Islands](geography/major-islands.md) |
@@ -241,6 +246,7 @@ from the dated facts in each topic file.
 | 1997-12 | Kyoto Protocol adopted at COP3 in Kyoto | Geography | [Kyoto](geography/kyoto.md) |
 | 1998-10 | Long-Term Credit Bank of Japan nationalized amid the banking crisis | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 1999-02 | Zero Interest Rate Policy (ZIRP) introduced | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 2000-07 | Financial Services Agency (FSA) established as Japan's unified financial regulator | Economy | [Financial Sector Regulation](economy/financial-sector-regulation.md) |
 | 2001-01 | MITI reorganized into the Ministry of Economy, Trade and Industry (METI) | Government & Politics | [Ministry of Economy, Trade and Industry (METI)](government-politics/ministry-economy-trade-industry.md) |
 | 2001-03 | Quantitative easing launched (world's first) | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2002-10 | Takenaka Plan forces banks to write down non-performing loans | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
@@ -262,11 +268,14 @@ from the dated facts in each topic file.
 | 2014-07-01 | Abe cabinet reinterprets Article 9 to permit collective self-defense | People | [Abe Shinzo](people/abe-shinzo.md) |
 | 2015 | UNESCO inscribes the "Sites of Japan's Meiji Industrial Revolution," including Kyushu's Yawata Works | Geography | [Kyushu](geography/kyushu.md) |
 | 2015 | Security Legislation permits the JSDF to exercise collective self-defense | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
+| 2015-12-25 | Dentsu employee Matsuri Takahashi's *karoshi* suicide galvanizes work-style reform | Economy | [Labor Market & Employment](economy/labor-market-and-employment.md) |
 | 2016-01 | Negative Interest Rate Policy (NIRP) adopted | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2016-06 | Voting age lowered from 20 to 18 | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
 | 2016-09 | Yield Curve Control (YCC) introduced | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 2018-01 | Coincheck exchange hacked—¥58 billion in cryptocurrency stolen, prompting tighter crypto rules | Economy | [Financial Sector Regulation](economy/financial-sector-regulation.md) |
 | 2018 | Hidden Christian Sites of Nagasaki inscribed as a UNESCO World Heritage Site | Geography | [Kyushu](geography/kyushu.md) |
 | 2018-09-06 | Hokkaido Eastern Iburi earthquake (M6.7) triggers landslides and an island-wide blackout | Geography | [Hokkaido](geography/hokkaido.md) |
+| 2019-04 | Work Style Reform Law takes effect, capping overtime and mandating equal pay for equal work | Economy | [Labor Market & Employment](economy/labor-market-and-employment.md) |
 | 2019-04-26 | Ainu People's Support Act recognizes the Ainu as an indigenous people for the first time in law | Geography | [Hokkaido](geography/hokkaido.md) |
 | 2019-04-30 | Emperor Akihito abdicates — first abdication since 1817 | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
 | 2019-05-01 | Naruhito ascends the Chrysanthemum Throne; Reiwa era begins | Government & Politics | [Imperial Succession](government-politics/imperial-succession.md) |
@@ -280,11 +289,14 @@ from the dated facts in each topic file.
 | 2022-07-08 | Abe Shinzo assassinated while campaigning in Nara | People | [Abe Shinzo](people/abe-shinzo.md) |
 | 2022-08 | METI backs the Rapidus consortium to mass-produce 2nm chips in Hokkaido by 2027 | Government & Politics | [Ministry of Economy, Trade and Industry (METI)](government-politics/ministry-economy-trade-industry.md) |
 | 2023 | Total fertility rate falls to a record-low 1.20; Japan ranks 125th on the WEF gender-gap index | Culture & Society | [Women in Japanese Society](culture-society/women-in-japanese-society.md) |
+| 2023 | Japan enacts the first comprehensive stablecoin framework among the G7 nations | Economy | [Financial Sector Regulation](economy/financial-sector-regulation.md) |
+| 2023 | *Shunto* round delivers a 3.58% average wage increase, the largest in three decades | Economy | [Labor Market & Employment](economy/labor-market-and-employment.md) |
 | 2023-10-25 | Supreme Court rules the surgical-sterilization requirement for legal gender change unconstitutional | Government & Politics | [Supreme Court of Japan](government-politics/supreme-court.md) |
 | 2024-01 | Expanded "New NISA" tax-free investment accounts launch, spurring record retail inflows | Economy | [Japanese Financial System](economy/financial-system.md) |
 | 2024-02 | Nikkei 225 surpasses its 1989 peak for the first time | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 2024-02 | TSMC's JASM semiconductor fab opens in Kumamoto, Kyushu, backed by METI subsidies | Geography | [Kyushu](geography/kyushu.md) |
 | 2024-03 | Bank of Japan ends negative rates and abandons YCC | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 2024-03 | *Shunto* round yields a 5.10% average wage increase, the largest since 1991 | Economy | [Labor Market & Employment](economy/labor-market-and-employment.md) |
 | 2024-07 | New ¥1,000 banknote features Hokusai's "The Great Wave" on its reverse | People | [Katsushika Hokusai](people/katsushika-hokusai.md) |
 | 2024-07 | Yamanashi introduces a climbing fee and daily cap on Mount Fuji's Yoshida Trail | Geography | [Mount Fuji](geography/mount-fuji.md) |
 | 2024-10-27 | LDP-Komeito coalition loses its lower-house majority under Ishiba | Government & Politics | [Liberal Democratic Party](government-politics/liberal-democratic-party.md) |

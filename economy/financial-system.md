@@ -156,4 +156,5 @@ The financial system remains central to Japan's postwar development model (see [
 - [Abe Shinzo](../people/abe-shinzo.md) — the architect of Abenomics whose three-arrow economic program reshaped monetary policy and corporate governance
 - [Meiji Restoration](../history/meiji-restoration.md) — the historical origin of Japan's modern financial institutions, including the Bank of Japan (1882) and Tokyo Stock Exchange (1878)
 - [World War II](../history/world-war-ii.md) — the wartime controlled economy and Allied occupation reforms that restructured Japanese finance
+- [Financial Sector Regulation](financial-sector-regulation.md) — the FSA supervisory framework, the Big Bang deregulation, and the macroprudential regime governing the institutions of this system
 <!-- END GENERATED: crossrefs -->

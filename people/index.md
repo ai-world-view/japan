@@ -16,4 +16,5 @@ Topics in the **People** category of the *the country japan* knowledge base.
 | [Tokugawa Ieyasu](tokugawa-ieyasu.md) | The third great unifier (1543–1616) who won at Sekigahara, founded the Tokugawa shogunate, and built the *bakuhan* institutions that gave Japan 265 years of Edo-period peace. |
 | [Empress Meiji](empress-meiji.md) | Empress consort Shōken (1849–1914), wife of Emperor Meiji—a symbol of Japan's Westernizing modernization, patron of women's education and the Red Cross, and a prolific *waka* poet enshrined at Meiji Shrine. |
 | [Abe Shinzo](abe-shinzo.md) | Japan's longest-serving prime minister (in office 2006–2007 and 2012–2020)—architect of "Abenomics," the reinterpretation of Article 9, and the Free and Open Indo-Pacific, assassinated in 2022. |
+| [Yukio Mishima](yukio-mishima.md) | Japan's most celebrated and controversial postwar author (1925–1970)—the novelist of *Confessions of a Mask*, *The Temple of the Golden Pavilion*, and the *Sea of Fertility* tetralogy, whose ultranationalist Shield Society and 1970 *seppuku* at Ichigaya shocked the nation. |
 <!-- END GENERATED: category-index -->

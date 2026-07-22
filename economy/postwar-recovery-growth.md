@@ -83,4 +83,6 @@ Japan's postwar recovery redefined economic development strategy for the postwar
 - [Tokyo](../geography/tokyo.md) — Capital city transformed by rapid industrialization and the 1964 Olympics
 - [Supreme Court](../government-politics/supreme-court.md) — Judicial framework co-established under the 1947 constitutional order
 - [Ministry of Economy, Trade and Industry (METI)](../government-politics/ministry-economy-trade-industry.md) — MITI's industrial policy and administrative guidance during the high-growth decades
+- [Labor Market & Employment](labor-market-and-employment.md) — the lifetime-employment and seniority-wage system that anchored the high-growth workforce
+- [Financial Sector Regulation](financial-sector-regulation.md) — the convoy-system era of Ministry of Finance-guided regulation that preceded the Big Bang
 <!-- END GENERATED: crossrefs -->

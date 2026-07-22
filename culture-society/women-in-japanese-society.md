@@ -96,6 +96,7 @@ Japan's contemporary situation — formal equality combined with deep structural
 - [Heian Period](../history/heian-period.md) — The aristocratic court era (794–1185) in which women authors produced the foundational works of Japanese literature
 - [Edo Culture & Arts](edo-culture-arts.md) — The chōnin urban culture of the Edo period including the *geisha* institution and popular literature
 - [Abe Shinzō](../people/abe-shinzo.md) — Prime Minister whose "Womenomics" policy (2013–2020) sought to increase female workforce participation
+- [Labor Market & Employment](../economy/labor-market-and-employment.md) — the gendered precarity, motherhood penalty, and wage gap that shape women's participation in the workforce
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

@@ -118,5 +118,6 @@ The legacy of this era remains embedded in Japanese corporate culture and contin
 - [Liberal Democratic Party](../government-politics/liberal-democratic-party.md) — the governing party whose MITI-led industrial policy steered the postwar manufacturing miracle
 - [Postwar Recovery & Economic Growth](postwar-recovery-growth.md) — the 1945–1970 reconstruction and high-growth era that laid the foundation for the manufacturing miracle
 - [Ministry of Economy, Trade and Industry (METI)](../government-politics/ministry-economy-trade-industry.md) — the ministry (formerly MITI) whose industrial policy and administrative guidance shaped these industries
+- [Labor Market & Employment](labor-market-and-employment.md) — the lifetime-employment and *kaisha no tame ni* labor practices pioneered by Toyota, Sony, and the manufacturing giants
 - [Kyushu](../geography/kyushu.md) — the "Silicon Island" semiconductor cluster, including the TSMC/JASM investment
 <!-- END GENERATED: crossrefs -->

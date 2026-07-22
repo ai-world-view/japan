@@ -71,5 +71,6 @@ Ueda has framed further normalization as conditional on **wage-driven, sustained
 - [Liberal Democratic Party](../government-politics/liberal-democratic-party.md) — the governing party whose administrations set the fiscal backdrop for the bank's monetary policy, from the high-growth era through Abenomics
 - [Abe Shinzo](../people/abe-shinzo.md) — the prime minister whose Abenomics program directed the bank's aggressive easing under Governor Kuroda
 - [Postwar Recovery & Economic Growth](postwar-recovery-growth.md) — the high-growth decades during which the bank's "overloan" credit policy financed industrial investment
+- [Financial Sector Regulation](financial-sector-regulation.md) — the FSA's prudential supervision and the bank's coordination of macroprudential policy and stress testing
 - [Japanese Financial System](financial-system.md) — the banking, insurance, pension, and securities system within which the central bank operates
 <!-- END GENERATED: crossrefs -->

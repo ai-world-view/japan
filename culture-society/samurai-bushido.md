@@ -92,4 +92,5 @@ Today, bushido survives in martial arts traditions (kendo, judo, and karate have
 
 - [Kamakura Period](../history/kamakura-period.md) — the first warrior government, where the samurai ethos and its institutions of loyalty and land tenure crystallized
 - [Martial Arts & Budo](martial-arts-budo.md) — the combat disciplines of the samurai, transformed after the Meiji abolition into modern paths of *budō*
+- [Yukio Mishima](../people/yukio-mishima.md) — the postwar author who sought to resurrect the *bushidō* warrior ideal through the Shield Society and his own *seppuku*
 <!-- END GENERATED: crossrefs -->

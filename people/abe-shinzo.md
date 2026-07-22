@@ -113,4 +113,5 @@ Abe Shinzo's legacy is contested but undeniably transformative:
 - [Hirohito](hirohito.md) — the Shōwa Emperor whose postwar reign established the pacifist constitutional framework Abe sought to reform
 - [World War II](../history/world-war-ii.md) — the war and its constitutional aftermath (Article 9) that defined the security constraints Abe challenged
 - [Tokyo](../geography/tokyo.md) — the capital where Abe's government sat; host of the 2020 Summer Olympics (held 2021) that he secured for Japan in 2013
+- [Labor Market & Employment](../economy/labor-market-and-employment.md) — the Womenomics initiative and the 2019 Work Style Reform Law that reshaped female participation and overtime law
 <!-- END GENERATED: crossrefs -->

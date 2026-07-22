@@ -93,6 +93,7 @@ The Taishō period represents the clearest "road not taken" moment in modern Jap
 - [Shinto Religion](../culture-society/shinto-religion.md) — State Shinto was systematized and eventually weaponized during the transition from Taishō democracy to Shōwa militarism
 - [Diet of Japan](../government-politics/diet-of-japan.md) — Universal male suffrage (1925) expanded the electorate from ~3 million to ~14 million voters
 - [Edo Culture & Arts](../culture-society/edo-culture-arts.md) — The merchant culture traditions of Edo fed into Taishō mass consumer culture
+- [Yukio Mishima](../people/yukio-mishima.md) — The author whose *Spring Snow* immortalized the aristocratic society of the early Taishō era
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

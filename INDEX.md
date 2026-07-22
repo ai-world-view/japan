@@ -56,6 +56,8 @@ Category index: [economy/](economy/index.md)
 - [Lost Decade & Deflation](economy/lost-decade.md)
 - [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md)
 - [Japanese Financial System](economy/financial-system.md)
+- [Financial Sector Regulation](economy/financial-sector-regulation.md)
+- [Labor Market & Employment](economy/labor-market-and-employment.md)
 
 ## Culture & Society
 
@@ -79,6 +81,7 @@ Category index: [people/](people/index.md)
 - [Tokugawa Ieyasu](people/tokugawa-ieyasu.md)
 - [Empress Meiji](people/empress-meiji.md)
 - [Abe Shinzo](people/abe-shinzo.md)
+- [Yukio Mishima](people/yukio-mishima.md)
 
 ---
 
