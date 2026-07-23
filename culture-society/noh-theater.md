@@ -148,4 +148,6 @@ The Noh community numbers approximately 1,500 professional performers in Japan t
 - [Kyoto](../geography/kyoto.md) — the former imperial capital and the location of major Noh stages; outdoor Noh (*takigi nō*) continues at Kyoto's historic shrines
 - [Martial Arts & Budo](martial-arts-budo.md) — a fellow classical "way" sharing Zen aesthetics, warrior patronage, and the disciplines of form and *zanshin*
 - [Yukio Mishima](../people/yukio-mishima.md) — the modern author who adapted classical Noh subjects into his *Kindai Nōgaku Shū* (Modern Noh Plays)
+- [Ashikaga Takauji](../people/ashikaga-takauji.md) — founder of the Muromachi shogunate whose patronage nurtured the emergence of Noh
+- [Ryoan-ji Temple](ryoan-ji-temple.md) — the Zen rock garden expressing the same Muromachi aesthetics of restraint and *ma* that shaped Noh
 <!-- END GENERATED: crossrefs -->

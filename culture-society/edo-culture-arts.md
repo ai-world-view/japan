@@ -128,4 +128,5 @@ The tea ceremony, by contrast, was revived and nationalized as a marker of Japan
 - [Katsushika Hokusai](../people/katsushika-hokusai.md) — The *ukiyo-e* master whose *Great Wave* and Fuji series exemplified the floating-world woodblock tradition.
 - [Mount Fuji](../geography/mount-fuji.md) — The sacred mountain and *Fujikō* pilgrimage focus depicted across Edo-period *ukiyo-e*.
 - [Noh Theater](noh-theater.md) — The classical masked drama, older than Kabuki, that the Tokugawa shogunate maintained as official ceremonial art alongside the popular floating-world arts.
+- [Ryoan-ji Temple](ryoan-ji-temple.md) — The Muromachi Zen rock garden whose *karesansui* aesthetics fed the wider Japanese artistic tradition the Edo arts inherited.
 <!-- END GENERATED: crossrefs -->

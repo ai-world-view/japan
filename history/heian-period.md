@@ -99,4 +99,5 @@ The end of the Heian period—with the rise of the Minamoto and the foundation o
 - [Edo Period](../history/edo-period.md) — the Tokugawa peace that institutionalized samurai culture and preserved Heian classical arts in formal curricula
 - [Women in Japanese Society](../culture-society/women-in-japanese-society.md) — the era's court ladies produced the foundational works of Japanese literature, the high point of women's literary agency
 - [Kamakura Period](kamakura-period.md) — the warrior government that superseded the Heian court, ending the aristocratic age with the Genpei War
+- [Minamoto no Yoritomo](../people/minamoto-no-yoritomo.md) — the Minamoto leader whose victory in the Genpei War ended Heian aristocratic rule
 <!-- END GENERATED: crossrefs -->

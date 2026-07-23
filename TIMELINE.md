@@ -32,17 +32,25 @@ from the dated facts in each topic file.
 | 1018 | Fujiwara no Michinaga's "full moon" poem marks the apex of Fujiwara regency power | History | [Heian Period](history/heian-period.md) |
 | 1053 | Byōdō-in Phoenix Hall completed at Uji | Geography | [Kyoto](geography/kyoto.md) |
 | 1086 | Emperor Shirakawa begins *insei* (cloistered rule), bypassing the Fujiwara | History | [Heian Period](history/heian-period.md) |
+| 1147-05-09 | Minamoto no Yoritomo, founder of the Kamakura shogunate, born (traditional date) | People | [Minamoto no Yoritomo](people/minamoto-no-yoritomo.md) |
 | 1156 | Hōgen Rebellion — samurai settle an imperial succession dispute by force | History | [Heian Period](history/heian-period.md) |
 | 1160 | Heiji Rebellion elevates Taira no Kiyomori | History | [Heian Period](history/heian-period.md) |
 | 1167 | Taira no Kiyomori becomes Grand Minister (*Daijō-daijin*), first warrior to rule the court | History | [Heian Period](history/heian-period.md) |
 | 1180–1185 | Genpei War fought between the Taira and Minamoto clans | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
+| 1180 | Minamoto no Yoritomo raises the Minamoto banner in Izu and, after the defeat at Ishibashiyama, consolidates the Kantō from Kamakura | People | [Minamoto no Yoritomo](people/minamoto-no-yoritomo.md) |
 | 1185-04-25 | Battle of Dan-no-Ura ends the Genpei War; the Taira clan is destroyed | History | [Kamakura Period](history/kamakura-period.md) |
 | 1185–1333 | **Kamakura period** — Japan's first warrior government, the Hōjō regency, and the Mongol invasions | History | [Kamakura Period](history/kamakura-period.md) |
-| 1192 | Minamoto no Yoritomo appointed *sei-i taishōgun*, founding the Kamakura shogunate | History | [Kamakura Period](history/kamakura-period.md) |
+| 1192 | Minamoto no Yoritomo appointed *sei-i taishōgun*, founding the Kamakura shogunate | People | [Minamoto no Yoritomo](people/minamoto-no-yoritomo.md) |
+| 1199-02-09 | Minamoto no Yoritomo dies at Kamakura; power soon passes to the Hōjō *shikken* regents | People | [Minamoto no Yoritomo](people/minamoto-no-yoritomo.md) |
 | 1232 | Hōjō Yasutoki promulgates the *Jōei Shikimoku*, Japan's first warrior legal code | History | [Kamakura Period](history/kamakura-period.md) |
 | 1274 | First Mongol invasion repulsed at Hakata Bay | History | [Kamakura Period](history/kamakura-period.md) |
 | 1281 | Second Mongol invasion destroyed by the *kamikaze* ("divine wind") typhoon | History | [Kamakura Period](history/kamakura-period.md) |
+| 1305-08-18 | Ashikaga Takauji, founder of the Muromachi shogunate, born in Shimotsuke Province | People | [Ashikaga Takauji](people/ashikaga-takauji.md) |
 | 1333 | Kamakura shogunate falls; the Hōjō regency ends and the Kenmu Restoration begins | History | [Kamakura Period](history/kamakura-period.md) |
+| 1336 | Ashikaga Takauji wins the Battle of Minatogawa, installs the Northern Court, and issues the *Kenmu Shikimoku* governing code | People | [Ashikaga Takauji](people/ashikaga-takauji.md) |
+| 1336–1392 | Nanboku-chō era — rival Northern and Southern Courts contest imperial legitimacy | People | [Ashikaga Takauji](people/ashikaga-takauji.md) |
+| 1338 | Ashikaga Takauji appointed *sei-i taishōgun*, founding the Muromachi shogunate | People | [Ashikaga Takauji](people/ashikaga-takauji.md) |
+| 1358-06-07 | Ashikaga Takauji dies in Kyoto; succeeded by his son Yoshiakira | People | [Ashikaga Takauji](people/ashikaga-takauji.md) |
 | c. 1374 | Kan'ami performs Noh at Imagumano before Ashikaga Yoshimitsu, winning shogunal patronage | Culture & Society | [Noh Theater](culture-society/noh-theater.md) |
 | 1397 | Kinkaku-ji (Golden Pavilion) built by Ashikaga Yoshimitsu | Geography | [Kyoto](geography/kyoto.md) |
 | c. 1400 | Tea ceremony tradition emerges from Zen monastic practice and Chinese influence | Culture & Society | [Tea Ceremony](culture-society/tea-ceremony.md) |
@@ -50,9 +58,11 @@ from the dated facts in each topic file.
 | 1429 | Ryukyu Kingdom founded | Geography | [Major Islands](geography/major-islands.md) |
 | 1434 | Zeami exiled to Sado Island by Shogun Ashikaga Yoshinori | Culture & Society | [Noh Theater](culture-society/noh-theater.md) |
 | 1443 | Zeami Motokiyo, codifier of Noh, dies | Culture & Society | [Noh Theater](culture-society/noh-theater.md) |
+| 1450 | Hosokawa Katsumoto founds Ryōan-ji as a Rinzai Zen monastery in Kyoto | Culture & Society | [Ryoan-ji Temple](culture-society/ryoan-ji-temple.md) |
 | 1467–1615 | **Sengoku period** — 148 years of civil warfare, *daimyo* fragmentation, and military innovation | History | [Sengoku Period](history/sengoku-period.md) |
 | 1467–1477 | Ōnin War devastates Kyoto, gutting the central city | Geography | [Kyoto](geography/kyoto.md) |
 | 1482 | Ginkaku-ji (Silver Pavilion) built by Ashikaga Yoshimasa | Geography | [Kyoto](geography/kyoto.md) |
+| c. 1490–1513 | Ryōan-ji's *karesansui* rock garden created during Hosokawa Masamoto's post-Ōnin reconstruction | Culture & Society | [Ryoan-ji Temple](culture-society/ryoan-ji-temple.md) |
 | c. 1502–1555 | Takeno Jōō refines tea ceremony aesthetics and philosophy (*wabi-sabi* principle) | Culture & Society | [Tea Ceremony](culture-society/tea-ceremony.md) |
 | 1522–1591 | Sen no Rikyū, master tea practitioner, shapes tea ceremony philosophy and aesthetics | Culture & Society | [Tea Ceremony](culture-society/tea-ceremony.md) |
 | 1543-01-31 | Tokugawa Ieyasu born at Okazaki Castle, Mikawa Province | People | [Tokugawa Ieyasu](people/tokugawa-ieyasu.md) |

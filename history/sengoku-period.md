@@ -107,4 +107,6 @@ The three great unifiers personify the era's strategic diversity: Nobunaga's rad
 - [Tokugawa Ieyasu](../people/tokugawa-ieyasu.md) — The third unifier who won Sekigahara and founded the shogunate that ended the Sengoku era
 - [Osaka](../geography/osaka.md) — The city Hideyoshi made his capital, building Osaka Castle in 1583 before the final siege of 1615
 - [Kamakura Period](kamakura-period.md) — the first shogunate, whose institutional collapse and the ensuing Muromachi fragmentation opened the way to the Sengoku wars
+- [Ashikaga Takauji](../people/ashikaga-takauji.md) — founder of the Muromachi shogunate whose eventual decline unleashed the Sengoku wars
+- [Minamoto no Yoritomo](../people/minamoto-no-yoritomo.md) — founder of the shogunal system of warrior rule that the Sengoku daimyo fought to inherit
 <!-- END GENERATED: crossrefs -->

@@ -70,6 +70,7 @@ Category index: [culture-society/](culture-society/index.md)
 - [Noh Theater](culture-society/noh-theater.md)
 - [Women in Japanese Society](culture-society/women-in-japanese-society.md)
 - [Martial Arts & Budo](culture-society/martial-arts-budo.md)
+- [Ryoan-ji Temple](culture-society/ryoan-ji-temple.md)
 
 ## People
 
@@ -82,6 +83,8 @@ Category index: [people/](people/index.md)
 - [Empress Meiji](people/empress-meiji.md)
 - [Abe Shinzo](people/abe-shinzo.md)
 - [Yukio Mishima](people/yukio-mishima.md)
+- [Minamoto no Yoritomo](people/minamoto-no-yoritomo.md)
+- [Ashikaga Takauji](people/ashikaga-takauji.md)
 
 ---
 

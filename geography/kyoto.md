@@ -157,4 +157,5 @@ Beyond UNESCO designation, approximately 2,000 temples and shrines of varying si
 - [Murasaki Shikibu](../people/murasaki-shikibu.md) — Author of *The Tale of Genji*, the seminal work of Heian-period Kyoto court culture.
 - [Heian Period](../history/heian-period.md) — The era (794–1185) when Kyoto, founded as Heian-kyō, was Japan's imperial capital and the seat of classical court culture.
 - [Noh Theater](../culture-society/noh-theater.md) — The classical masked drama whose outdoor *takigi nō* performances continue at Kyoto's historic shrines.
+- [Ryoan-ji Temple](../culture-society/ryoan-ji-temple.md) — The Zen rock garden in Kyoto's Ukyō Ward, one of the city's most celebrated cultural landmarks and UNESCO monuments.
 <!-- END GENERATED: crossrefs -->

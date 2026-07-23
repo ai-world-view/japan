@@ -115,4 +115,6 @@ The Kamakura period demonstrated that military power, not imperial prestige or c
 - [Noh Theater](../culture-society/noh-theater.md) — dramatic art form that drew extensively on Kamakura-period warrior legends
 - [Tea Ceremony](../culture-society/tea-ceremony.md) — cultural practice introduced via Zen Buddhism in this period
 - [Martial Arts & Budo](../culture-society/martial-arts-budo.md) — the martial disciplines whose philosophical roots extend to Kamakura-era warrior culture
+- [Minamoto no Yoritomo](../people/minamoto-no-yoritomo.md) — founder of the Kamakura shogunate whose institutions defined this period
+- [Ashikaga Takauji](../people/ashikaga-takauji.md) — the general whose 1333 defection helped topple Kamakura before he founded the succeeding Muromachi shogunate
 <!-- END GENERATED: crossrefs -->

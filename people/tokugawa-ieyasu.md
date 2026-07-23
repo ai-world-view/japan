@@ -104,4 +104,6 @@ The Tokugawa shogunate's fall in the [Meiji Restoration](../history/meiji-restor
 - [Tokyo](../geography/tokyo.md) — Edo, the fishing village he made his headquarters and the shogunal capital
 - [The Imperial Household](../government-politics/imperial-household.md) — The throne he subordinated to shogunal authority in 1603
 - [Osaka](../geography/osaka.md) — The Toyotomi stronghold he took in the 1614–1615 sieges, extinguishing Hideyoshi's line
+- [Minamoto no Yoritomo](minamoto-no-yoritomo.md) — the first shogun, whose Kamakura precedent Ieyasu invoked in founding his own dynasty
+- [Ashikaga Takauji](ashikaga-takauji.md) — founder of the preceding Muromachi shogunate, whose collapse produced the Sengoku wars Ieyasu ended
 <!-- END GENERATED: crossrefs -->
