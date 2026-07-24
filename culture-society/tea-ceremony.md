@@ -133,4 +133,5 @@ The ceremony's influence on [Edo Culture & Arts](edo-culture-arts.md) is pervasi
 - [Heian Period](../history/heian-period.md) — The classical court era whose *shinden-zukuri* gardens and refined aesthetics form the distant background of the tea room's spatial sensibility
 - [Martial Arts & Budo](martial-arts-budo.md) — a parallel Zen-rooted "way" (*dō*); *chadō* and *budō* share aesthetics of discipline, form, and presence
 - [Ryoan-ji Temple](ryoan-ji-temple.md) — the Zen rock garden sharing the *wabi* aesthetics of restraint and emptiness embodied in the tea room
+- [Buddhist Schools & Traditions](buddhist-schools.md) — the Zen Buddhist tradition, brought by Eisai with tea itself, whose philosophy shaped *chanoyu*
 <!-- END GENERATED: crossrefs -->

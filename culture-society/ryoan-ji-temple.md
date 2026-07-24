@@ -71,4 +71,5 @@ The temple remains an active Zen monastery of the Rinzai sect, Myōshinji branch
 - [Samurai & Bushido](../culture-society/samurai-bushido.md) — warrior culture of the daimyo patrons like Hosokawa Katsumoto
 - [Ashikaga Takauji](../people/ashikaga-takauji.md) — founder of the Muromachi shogunate under which Ryoan-ji was established
 - [Edo Culture & Arts](../culture-society/edo-culture-arts.md) — Zen-influenced aesthetics that evolved from Muromachi traditions
+- [Buddhist Schools & Traditions](buddhist-schools.md) — the Rinzai Zen tradition whose meditative philosophy the temple's *karesansui* garden embodies
 <!-- END GENERATED: crossrefs -->

@@ -21,6 +21,7 @@ Category index: [geography/](geography/index.md)
 - [Hokkaido](geography/hokkaido.md)
 - [Kyushu](geography/kyushu.md)
 - [Shikoku](geography/shikoku.md)
+- [Kobe](geography/kobe.md)
 
 ## History
 
@@ -71,6 +72,7 @@ Category index: [culture-society/](culture-society/index.md)
 - [Women in Japanese Society](culture-society/women-in-japanese-society.md)
 - [Martial Arts & Budo](culture-society/martial-arts-budo.md)
 - [Ryoan-ji Temple](culture-society/ryoan-ji-temple.md)
+- [Buddhist Schools & Traditions](culture-society/buddhist-schools.md)
 
 ## People
 
@@ -85,6 +87,7 @@ Category index: [people/](people/index.md)
 - [Yukio Mishima](people/yukio-mishima.md)
 - [Minamoto no Yoritomo](people/minamoto-no-yoritomo.md)
 - [Ashikaga Takauji](people/ashikaga-takauji.md)
+- [Emperor Meiji](people/emperor-meiji.md)
 
 ---
 

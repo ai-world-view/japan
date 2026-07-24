@@ -91,6 +91,7 @@ Osaka's food culture (*kuidaore*, "eat yourself bankrupt") centers on *takoyaki*
 - [Technology & Manufacturing](../economy/technology-manufacturing.md) — Osaka was the center of Japan's textile and later heavy-industrial development
 - [World War II](../history/world-war-ii.md) — Osaka suffered repeated firebombing in 1945 that destroyed approximately 35% of the city
 - [Edo Culture & Arts](../culture-society/edo-culture-arts.md) — Bunraku puppet theater and chōnin popular culture centered on Osaka
+- [Kobe](kobe.md) — Osaka's immediate neighbor and port city to the west; together they anchor the Hanshin conurbation
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

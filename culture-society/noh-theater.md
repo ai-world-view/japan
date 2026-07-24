@@ -150,4 +150,5 @@ The Noh community numbers approximately 1,500 professional performers in Japan t
 - [Yukio Mishima](../people/yukio-mishima.md) — the modern author who adapted classical Noh subjects into his *Kindai Nōgaku Shū* (Modern Noh Plays)
 - [Ashikaga Takauji](../people/ashikaga-takauji.md) — founder of the Muromachi shogunate whose patronage nurtured the emergence of Noh
 - [Ryoan-ji Temple](ryoan-ji-temple.md) — the Zen rock garden expressing the same Muromachi aesthetics of restraint and *ma* that shaped Noh
+- [Buddhist Schools & Traditions](buddhist-schools.md) — the Zen Buddhist aesthetics of *yūgen* and emptiness that infused Noh's dramaturgy
 <!-- END GENERATED: crossrefs -->

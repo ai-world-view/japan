@@ -100,6 +100,7 @@ The religion's political history—from syncretic medieval coexistence with Budd
 - [Murasaki Shikibu](../people/murasaki-shikibu.md) — the Heian court author whose *Tale of Genji* embodies the Buddhist-inflected aesthetic of *mono no aware*
 - [Edo Culture & Arts](edo-culture-arts.md) — the sumo, festival, and tea traditions with roots in Shinto ritual and purification
 - [Mount Fuji](../geography/mount-fuji.md) — the sacred volcano worshipped through the Sengen shrines and *Fujikō* confraternities
+- [Buddhist Schools & Traditions](buddhist-schools.md) — the imported tradition that merged with Shinto in *shinbutsu-shūgō* syncretism until the 1868 *shinbutsu-bunri* separation
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

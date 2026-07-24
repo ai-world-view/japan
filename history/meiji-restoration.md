@@ -86,6 +86,8 @@ Emperor Meiji died on July 30, 1912, ending the Meiji era. Japan had, in 44 year
 - [Empress Meiji](../people/empress-meiji.md) — Empress Shōken, consort of Emperor Meiji and a symbol of the Restoration-era Westernization of the imperial court
 - [Taishō Period](taisho-period.md) — the era (1912–1926) that followed Meiji, experimenting with party democracy within the constitutional order the Restoration built
 - [Hokkaido](../geography/hokkaido.md) — the northern frontier the Meiji state colonized through the Kaitakushi from 1869
+- [Emperor Meiji](../people/emperor-meiji.md) — the sovereign in whose name the Restoration was carried out and whose 45-year reign it inaugurated
+- [Kobe](../geography/kobe.md) — the treaty port that opened on January 1, 1868, in the same year the Restoration transformed Japan
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

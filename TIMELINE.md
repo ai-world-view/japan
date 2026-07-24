@@ -10,14 +10,18 @@ from the dated facts in each topic file.
 <!-- BEGIN GENERATED: timeline — maintained by build-structure; do not edit by hand -->
 | Date | Item | Category | Link |
 |------|------|----------|------|
-| c. 552 CE | Buddhism traditionally introduced to Japan from the mainland | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
+| c. 552 CE | Buddhism traditionally introduced to Japan from Baekje (Korea) | Culture & Society | [Buddhist Schools & Traditions](culture-society/buddhist-schools.md) |
+| 604 CE | Prince Shōtoku's Seventeen-Article Constitution enjoins reverence for the Buddhist "Three Treasures" | Culture & Society | [Buddhist Schools & Traditions](culture-society/buddhist-schools.md) |
 | c. 690 CE | Ise Grand Shrine 20-year rebuilding cycle (*shikinen sengū*) begins | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 711 CE | Fushimi Inari-taisha founded | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 712 CE | *Kojiki* completed | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 720 CE | *Nihon Shoki* completed | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
+| 752 CE | Tōdai-ji's bronze Great Buddha (Vairocana) consecrated, the apex of Nara Kegon Buddhism | Culture & Society | [Buddhist Schools & Traditions](culture-society/buddhist-schools.md) |
 | 774 CE | Kūkai (Kōbo Daishi), founder of Shingon Buddhism and patron of the Shikoku pilgrimage, born in Sanuki Province | Geography | [Shikoku](geography/shikoku.md) |
 | 794-11-08 | Emperor Kanmu moves the capital to Heian-kyō (Kyoto) | Geography | [Kyoto](geography/kyoto.md) |
 | 794–1185 | **Heian period** — classical era of Fujiwara regency, court culture, and the *kana* literary flowering | History | [Heian Period](history/heian-period.md) |
+| 805 CE | Saichō returns from China and founds the Tendai school on Mount Hiei | Culture & Society | [Buddhist Schools & Traditions](culture-society/buddhist-schools.md) |
+| 816 CE | Kūkai establishes the Shingon headquarters on Mount Kōya | Culture & Society | [Buddhist Schools & Traditions](culture-society/buddhist-schools.md) |
 | 835 CE | Kūkai enters eternal meditation (*nyūjō*) at Mount Kōya, according to Shingon tradition | Geography | [Shikoku](geography/shikoku.md) |
 | 858 | Fujiwara no Yoshifusa becomes the first non-imperial regent (*sesshō*) | History | [Heian Period](history/heian-period.md) |
 | 864–866 | Jōgan eruption of Mount Fuji sends lava flows across the northern flank | Geography | [Mount Fuji](geography/mount-fuji.md) |
@@ -30,19 +34,23 @@ from the dated facts in each topic file.
 | c. 1008–1021 | *The Tale of Genji* composed and circulated at court | People | [Murasaki Shikibu](people/murasaki-shikibu.md) |
 | c. 1014 | Murasaki Shikibu dies (date uncertain) | People | [Murasaki Shikibu](people/murasaki-shikibu.md) |
 | 1018 | Fujiwara no Michinaga's "full moon" poem marks the apex of Fujiwara regency power | History | [Heian Period](history/heian-period.md) |
+| 1052 | *Mappō*, the "Latter Days of the Dharma," traditionally begins, spurring Pure Land devotion | Culture & Society | [Buddhist Schools & Traditions](culture-society/buddhist-schools.md) |
 | 1053 | Byōdō-in Phoenix Hall completed at Uji | Geography | [Kyoto](geography/kyoto.md) |
 | 1086 | Emperor Shirakawa begins *insei* (cloistered rule), bypassing the Fujiwara | History | [Heian Period](history/heian-period.md) |
 | 1147-05-09 | Minamoto no Yoritomo, founder of the Kamakura shogunate, born (traditional date) | People | [Minamoto no Yoritomo](people/minamoto-no-yoritomo.md) |
 | 1156 | Hōgen Rebellion — samurai settle an imperial succession dispute by force | History | [Heian Period](history/heian-period.md) |
 | 1160 | Heiji Rebellion elevates Taira no Kiyomori | History | [Heian Period](history/heian-period.md) |
 | 1167 | Taira no Kiyomori becomes Grand Minister (*Daijō-daijin*), first warrior to rule the court | History | [Heian Period](history/heian-period.md) |
+| c. 1168 | Taira no Kiyomori develops the Fukuhara (Ōwada-no-tomari) harbor at modern Kobe for trade with Song China | Geography | [Kobe](geography/kobe.md) |
 | 1180–1185 | Genpei War fought between the Taira and Minamoto clans | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1180 | Minamoto no Yoritomo raises the Minamoto banner in Izu and, after the defeat at Ishibashiyama, consolidates the Kantō from Kamakura | People | [Minamoto no Yoritomo](people/minamoto-no-yoritomo.md) |
 | 1185-04-25 | Battle of Dan-no-Ura ends the Genpei War; the Taira clan is destroyed | History | [Kamakura Period](history/kamakura-period.md) |
 | 1185–1333 | **Kamakura period** — Japan's first warrior government, the Hōjō regency, and the Mongol invasions | History | [Kamakura Period](history/kamakura-period.md) |
 | 1192 | Minamoto no Yoritomo appointed *sei-i taishōgun*, founding the Kamakura shogunate | People | [Minamoto no Yoritomo](people/minamoto-no-yoritomo.md) |
+| 1198 | Hōnen's *Senchaku Hongan Nembutsu Shū* systematizes the exclusive *nenbutsu* of Pure Land Buddhism | Culture & Society | [Buddhist Schools & Traditions](culture-society/buddhist-schools.md) |
 | 1199-02-09 | Minamoto no Yoritomo dies at Kamakura; power soon passes to the Hōjō *shikken* regents | People | [Minamoto no Yoritomo](people/minamoto-no-yoritomo.md) |
 | 1232 | Hōjō Yasutoki promulgates the *Jōei Shikimoku*, Japan's first warrior legal code | History | [Kamakura Period](history/kamakura-period.md) |
+| 1253-04-28 | Nichiren first proclaims the *daimoku* at Seichō-ji, founding Nichiren Buddhism | Culture & Society | [Buddhist Schools & Traditions](culture-society/buddhist-schools.md) |
 | 1274 | First Mongol invasion repulsed at Hakata Bay | History | [Kamakura Period](history/kamakura-period.md) |
 | 1281 | Second Mongol invasion destroyed by the *kamikaze* ("divine wind") typhoon | History | [Kamakura Period](history/kamakura-period.md) |
 | 1305-08-18 | Ashikaga Takauji, founder of the Muromachi shogunate, born in Shimotsuke Province | People | [Ashikaga Takauji](people/ashikaga-takauji.md) |
@@ -90,6 +98,7 @@ from the dated facts in each topic file.
 | 1637–1638 | Shimabara Rebellion suppressed | History | [Edo Period](history/edo-period.md) |
 | 1639 | Portuguese traders expelled, consolidating the *sakoku* isolation policy | History | [Edo Period](history/edo-period.md) |
 | 1641 | Dutch East India Company confined to Dejima, Nagasaki | Geography | [Major Islands](geography/major-islands.md) |
+| 1654 | The Chinese monk Ingen (Yinyuan) arrives, founding the Ōbaku school of Zen | Culture & Society | [Buddhist Schools & Traditions](culture-society/buddhist-schools.md) |
 | 1657-01 | Great Meireki Fire destroys much of Edo | History | [Edo Period](history/edo-period.md) |
 | 1682 | Ihara Saikaku's *The Life of an Amorous Man* launches *ukiyo-zōshi* fiction | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1689 | Matsuo Bashō journeys the *Narrow Road to the Deep North* | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
@@ -108,11 +117,14 @@ from the dated facts in each topic file.
 | 1833–1834 | Hiroshige's *Fifty-three Stations of the Tōkaidō* published | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1849-05-09 | Ichijō Haruko, the future Empress Shōken (Empress Consort Meiji), born in Kyoto | People | [Empress Meiji](people/empress-meiji.md) |
 | 1849-05-10 | Katsushika Hokusai dies in Edo | People | [Katsushika Hokusai](people/katsushika-hokusai.md) |
+| 1852-11-03 | Emperor Meiji (Mutsuhito) born at the Kyoto Imperial Palace | People | [Emperor Meiji](people/emperor-meiji.md) |
 | 1853 | Commodore Perry's "Black Ships" arrive at Uraga Bay | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1854 | Convention of Kanagawa opens Japanese ports | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1858-07-29 | Harris Treaty (Treaty of Amity and Commerce) signed | History | [Edo Period](history/edo-period.md) |
+| 1867-01-30 | Emperor Kōmei dies; the young Mutsuhito succeeds to the throne | People | [Emperor Meiji](people/emperor-meiji.md) |
 | 1867-11-09 | *Taisei hōkan*: Tokugawa Yoshinobu returns governing power to the emperor | History | [Edo Period](history/edo-period.md) |
 | 1867-12-10 | Sakamoto Ryōma, Tosa architect of the Satchō Alliance, assassinated in Kyoto | Geography | [Shikoku](geography/shikoku.md) |
+| 1868-01-01 | Port of Hyōgo (Kobe) opens to foreign trade as a treaty port | Geography | [Kobe](geography/kobe.md) |
 | 1868-01-03 | Meiji Restoration proclaimed; imperial rule restored | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1868-01 | *Shinbutsu bunri* decree separates Shinto from Buddhism | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 1868-04-06 | Five Charter Oath sworn | History | [Meiji Restoration](history/meiji-restoration.md) |
@@ -123,6 +135,7 @@ from the dated facts in each topic file.
 | 1871 | Yen introduced as Japan's national currency | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 1872-10-14 | Japan's first railway (Shimbashi–Yokohama) formally opens | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1873 | Conscription Ordinance and Land Tax Reform enacted | History | [Meiji Restoration](history/meiji-restoration.md) |
+| 1874-05-11 | Osaka–Kobe Railway opens, Japan's second modern rail line | Geography | [Kobe](geography/kobe.md) |
 | 1876 | *Haitorei* edict bans the wearing of swords; samurai stipends abolished | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1876 | Sapporo Agricultural College founded; William S. Clark introduces American agronomy | Geography | [Hokkaido](geography/hokkaido.md) |
 | 1877 | Satsuma Rebellion led by Saigō Takamori | History | [Meiji Restoration](history/meiji-restoration.md) |
@@ -145,7 +158,7 @@ from the dated facts in each topic file.
 | 1905-05-27 | Battle of Tsushima | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1910-08-22 | Annexation of Korea | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1911-09 | Hiratsuka Raichō founds *Seitō* (Bluestocking), launching the Taishō women's movement | Culture & Society | [Women in Japanese Society](culture-society/women-in-japanese-society.md) |
-| 1912-07-30 | Death of Emperor Meiji ends the Meiji era | History | [Meiji Restoration](history/meiji-restoration.md) |
+| 1912-07-30 | Death of Emperor Meiji ends the Meiji era | People | [Emperor Meiji](people/emperor-meiji.md) |
 | 1912-07-30 – 1926-12-25 | **Taishō period** — party government, "Taishō democracy," mass culture, and the drift toward militarism | History | [Taishō Period](history/taisho-period.md) |
 | 1914-01 | Sakurajima's great eruption joins the volcano to Kyushu's Ōsumi Peninsula by lava flow | Geography | [Kyushu](geography/kyushu.md) |
 | 1914-04-09 | Empress Shōken (Empress Consort Meiji) dies at the Numazu Imperial Villa | People | [Empress Meiji](people/empress-meiji.md) |
@@ -177,6 +190,7 @@ from the dated facts in each topic file.
 | 1944-06-19 – 06-20 | Battle of the Philippine Sea ("Marianas Turkey Shoot") | History | [World War II](history/world-war-ii.md) |
 | 1945-03-09 – 03-10 | Firebombing of Tokyo — the deadliest air raid in history | History | [World War II](history/world-war-ii.md) |
 | 1945-03-13 – 03-14 | Great Osaka Air Raid — 274 B-29s destroy much of the city's core | Geography | [Osaka](geography/osaka.md) |
+| 1945-03-16 – 03-17 | Kobe firebombing — 331 B-29s burn much of the city, killing some 8,000 | Geography | [Kobe](geography/kobe.md) |
 | 1945-04-01 – 06-22 | Battle of Okinawa | Geography | [Major Islands](geography/major-islands.md) |
 | 1945-08-06 | Atomic bombing of Hiroshima | History | [World War II](history/world-war-ii.md) |
 | 1945-08-08 | Soviet Union declares war on Japan and invades Manchuria | History | [World War II](history/world-war-ii.md) |
@@ -246,7 +260,7 @@ from the dated facts in each topic file.
 | 1994 | Parallel (mixed) electoral system adopted for the House of Representatives | Government & Politics | [Diet of Japan](government-politics/diet-of-japan.md) |
 | 1994 | "Historic Monuments of Ancient Kyoto" inscribed as UNESCO World Heritage | Geography | [Kyoto](geography/kyoto.md) |
 | 1994-09-04 | Kansai International Airport opens on an artificial island in Osaka Bay | Geography | [Osaka](geography/osaka.md) |
-| 1995-01-17 | Great Hanshin (Kobe) Earthquake | Geography | [Major Islands](geography/major-islands.md) |
+| 1995-01-17 | Great Hanshin Earthquake devastates Kobe, killing 6,434 | Geography | [Kobe](geography/kobe.md) |
 | 1996 | *Jusen* housing-loan companies resolved at ¥685 billion taxpayer cost | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 1996-11 | Prime Minister Hashimoto launches the financial "Big Bang" deregulation | Economy | [Japanese Financial System](economy/financial-system.md) |
 | 1997 | Bank of Japan Act grants the central bank statutory independence | Economy | [Bank of Japan](economy/bank-of-japan.md) |
@@ -254,6 +268,7 @@ from the dated facts in each topic file.
 | 1997-11-03 | Sanyo Securities fails — first default in Japan's interbank market since WWII | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 1997-11-24 | Yamaichi Securities collapses amid the post-bubble banking crisis | Economy | [1980s Bubble Economy](economy/bubble-economy.md) |
 | 1997-12 | Kyoto Protocol adopted at COP3 in Kyoto | Geography | [Kyoto](geography/kyoto.md) |
+| 1998-04-05 | Akashi Kaikyō Bridge opens, then the world's longest suspension-bridge central span | Geography | [Kobe](geography/kobe.md) |
 | 1998-10 | Long-Term Credit Bank of Japan nationalized amid the banking crisis | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 1999-02 | Zero Interest Rate Policy (ZIRP) introduced | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 2000-07 | Financial Services Agency (FSA) established as Japan's unified financial regulator | Economy | [Financial Sector Regulation](economy/financial-sector-regulation.md) |

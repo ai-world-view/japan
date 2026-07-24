@@ -106,4 +106,5 @@ Hirohito's legacy is divided:
 - [Abe Shinzo](abe-shinzo.md) — the postwar prime minister who sought to revise the pacifist constitutional order established during Hirohito's reign
 - [Empress Meiji](empress-meiji.md) — consort of Emperor Meiji, Hirohito's grandfather, and formal custodian of Hirohito's father, the future Emperor Taishō
 - [Taishō Period](../history/taisho-period.md) — the reign of Hirohito's father, during whose final years (1921–1926) Hirohito served as prince regent
+- [Emperor Meiji](emperor-meiji.md) — Hirohito's grandfather, whose Meiji-era constitutional and imperial order shaped the throne Hirohito inherited
 <!-- END GENERATED: crossrefs -->

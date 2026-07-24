@@ -19,4 +19,5 @@ Topics in the **Geography** category of the *the country japan* knowledge base.
 | [Hokkaido](hokkaido.md) | Japan's northernmost and second-largest island—a subarctic frontier of Ainu heritage and Meiji-era colonization whose agriculture, fisheries, coal, and winter tourism anchor its modern economy. |
 | [Kyushu](kyushu.md) | Japan's third-largest island and southwesternmost landmass—a volcanic, seismically active region with major industrial zones, agricultural heritage, and a historic role as Japan's gateway to Asia and site of early Christian missions. |
 | [Shikoku](shikoku.md) | Japan's smallest main island—home to the 1,200-kilometer Kōbo Daishi pilgrimage of 88 Buddhist temples, the pristine Shimanto River, and a rural economy facing acute demographic decline. |
+| [Kobe](kobe.md) | Japan's cosmopolitan sixth-largest city and a major deep-water port on Osaka Bay—a treaty port opened in 1868, home to the Nada sake district and Kobe beef, devastated by the 1945 firebombing and the 1995 Great Hanshin Earthquake, and rebuilt as a model of post-disaster recovery. |
 <!-- END GENERATED: category-index -->

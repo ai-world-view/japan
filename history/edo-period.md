@@ -147,4 +147,5 @@ The aesthetic legacy — haiku, kabuki, ukiyo-e, the tea ceremony, *ikebana* flo
 - [Katsushika Hokusai](../people/katsushika-hokusai.md) — the *ukiyo-e* master whose popular prints epitomized the culture of the late-Edo merchant city
 - [Tokugawa Ieyasu](../people/tokugawa-ieyasu.md) — the founder of the Tokugawa shogunate whose *bakuhan* institutions defined the Edo period
 - [Osaka](../geography/osaka.md) — the "kitchen of the realm" whose Dōjima Rice Exchange and merchant houses anchored the Edo commercial economy
+- [Buddhist Schools & Traditions](../culture-society/buddhist-schools.md) — the *danka* temple-registration system that bound every household to a Buddhist temple under Tokugawa rule
 <!-- END GENERATED: crossrefs -->

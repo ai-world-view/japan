@@ -117,4 +117,5 @@ The Kamakura period demonstrated that military power, not imperial prestige or c
 - [Martial Arts & Budo](../culture-society/martial-arts-budo.md) — the martial disciplines whose philosophical roots extend to Kamakura-era warrior culture
 - [Minamoto no Yoritomo](../people/minamoto-no-yoritomo.md) — founder of the Kamakura shogunate whose institutions defined this period
 - [Ashikaga Takauji](../people/ashikaga-takauji.md) — the general whose 1333 defection helped topple Kamakura before he founded the succeeding Muromachi shogunate
+- [Buddhist Schools & Traditions](../culture-society/buddhist-schools.md) — the Zen, Pure Land, and Nichiren movements that emerged as mass Buddhism during the Kamakura era
 <!-- END GENERATED: crossrefs -->

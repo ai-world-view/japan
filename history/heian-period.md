@@ -100,4 +100,5 @@ The end of the Heian period—with the rise of the Minamoto and the foundation o
 - [Women in Japanese Society](../culture-society/women-in-japanese-society.md) — the era's court ladies produced the foundational works of Japanese literature, the high point of women's literary agency
 - [Kamakura Period](kamakura-period.md) — the warrior government that superseded the Heian court, ending the aristocratic age with the Genpei War
 - [Minamoto no Yoritomo](../people/minamoto-no-yoritomo.md) — the Minamoto leader whose victory in the Genpei War ended Heian aristocratic rule
+- [Buddhist Schools & Traditions](../culture-society/buddhist-schools.md) — the Tendai and Shingon schools founded by Saichō and Kūkai during the Heian era
 <!-- END GENERATED: crossrefs -->
