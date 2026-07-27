@@ -129,4 +129,5 @@ The tea ceremony, by contrast, was revived and nationalized as a marker of Japan
 - [Mount Fuji](../geography/mount-fuji.md) — The sacred mountain and *Fujikō* pilgrimage focus depicted across Edo-period *ukiyo-e*.
 - [Noh Theater](noh-theater.md) — The classical masked drama, older than Kabuki, that the Tokugawa shogunate maintained as official ceremonial art alongside the popular floating-world arts.
 - [Ryoan-ji Temple](ryoan-ji-temple.md) — The Muromachi Zen rock garden whose *karesansui* aesthetics fed the wider Japanese artistic tradition the Edo arts inherited.
+- [Ukiyo-e Woodblock Prints](ukiyo-e-woodblock-prints.md) — The floating-world woodblock tradition, treated in depth as its own art form and export.
 <!-- END GENERATED: crossrefs -->

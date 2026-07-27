@@ -88,6 +88,8 @@ Emperor Meiji died on July 30, 1912, ending the Meiji era. Japan had, in 44 year
 - [Hokkaido](../geography/hokkaido.md) — the northern frontier the Meiji state colonized through the Kaitakushi from 1869
 - [Emperor Meiji](../people/emperor-meiji.md) — the sovereign in whose name the Restoration was carried out and whose 45-year reign it inaugurated
 - [Kobe](../geography/kobe.md) — the treaty port that opened on January 1, 1868, in the same year the Restoration transformed Japan
+- [Russo-Japanese War](russo-japanese-war.md) — the 1904–1905 victory that confirmed the Meiji state's rise to great-power status
+- [Nitobe Inazō](../people/nitobe-inazou.md) — the Meiji intellectual whose *Bushido* interpreted Japan's modernization for Western audiences
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

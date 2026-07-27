@@ -109,4 +109,5 @@ Hokusai represents the apex of the [Edo period](../history/edo-period.md) popula
 - [Meiji Restoration](../history/meiji-restoration.md) — the 1868 opening that carried Hokusai's prints to Europe and sparked *Japonisme*
 - [Murasaki Shikibu](../people/murasaki-shikibu.md) — an earlier towering figure of Japanese cultural achievement in the People category
 - [Mount Fuji](../geography/mount-fuji.md) — the sacred peak at the center of Hokusai's *Thirty-Six Views* and "The Great Wave"
+- [Ukiyo-e Woodblock Prints](../culture-society/ukiyo-e-woodblock-prints.md) — the woodblock-print tradition Hokusai brought to its global apex
 <!-- END GENERATED: crossrefs -->

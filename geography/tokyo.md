@@ -106,5 +106,6 @@ The city generates approximately 19 percent of Japan's GDP within the 23-ward co
 - [Katsushika Hokusai](../people/katsushika-hokusai.md) — The *ukiyo-e* master born in Edo (Tokyo) who depicted the early-modern city's streets, bridges, and pleasure districts.
 - [Tokugawa Ieyasu](../people/tokugawa-ieyasu.md) — The shogun who made the fishing village of Edo his headquarters and the shogunal capital.
 - [Mount Fuji](mount-fuji.md) — The volcanic landmark in Tokyo's western viewshed whose Hōei-scale eruption remains a capital-area ashfall hazard.
+- [Ukiyo-e Woodblock Prints](../culture-society/ukiyo-e-woodblock-prints.md) — The Edo-born printmaking tradition that both depicted the city and was produced there.
 
 <!-- END GENERATED: crossrefs -->

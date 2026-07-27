@@ -100,6 +100,7 @@ from the dated facts in each topic file.
 | 1641 | Dutch East India Company confined to Dejima, Nagasaki | Geography | [Major Islands](geography/major-islands.md) |
 | 1654 | The Chinese monk Ingen (Yinyuan) arrives, founding the Ōbaku school of Zen | Culture & Society | [Buddhist Schools & Traditions](culture-society/buddhist-schools.md) |
 | 1657-01 | Great Meireki Fire destroys much of Edo | History | [Edo Period](history/edo-period.md) |
+| c. 1680s | Hishikawa Moronobu establishes single-sheet *ukiyo-e* printmaking in Edo | Culture & Society | [Ukiyo-e Woodblock Prints](culture-society/ukiyo-e-woodblock-prints.md) |
 | 1682 | Ihara Saikaku's *The Life of an Amorous Man* launches *ukiyo-zōshi* fiction | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1689 | Matsuo Bashō journeys the *Narrow Road to the Deep North* | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1697 | Dōjima Rice Exchange founded in Osaka — the first organized futures market | Geography | [Osaka](geography/osaka.md) |
@@ -112,6 +113,7 @@ from the dated facts in each topic file.
 | 1760-10-31 | Katsushika Hokusai born in Edo | People | [Katsushika Hokusai](people/katsushika-hokusai.md) |
 | c. 1765 | Suzuki Harunobu develops full-color *nishiki-e* woodblock prints | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1792 | Shimabara catastrophe (Mount Unzen collapse and mega-tsunami) | Geography | [Major Islands](geography/major-islands.md) |
+| 1794–1795 | Tōshūsai Sharaku produces his ~145 kabuki-actor portraits over roughly ten months | Culture & Society | [Ukiyo-e Woodblock Prints](culture-society/ukiyo-e-woodblock-prints.md) |
 | 1814 | First volume of the *Hokusai Manga* published | People | [Katsushika Hokusai](people/katsushika-hokusai.md) |
 | 1830–1832 | Hokusai's *Thirty-six Views of Mount Fuji* published | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1833–1834 | Hiroshige's *Fifty-three Stations of the Tōkaidō* published | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
@@ -121,6 +123,7 @@ from the dated facts in each topic file.
 | 1853 | Commodore Perry's "Black Ships" arrive at Uraga Bay | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1854 | Convention of Kanagawa opens Japanese ports | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1858-07-29 | Harris Treaty (Treaty of Amity and Commerce) signed | History | [Edo Period](history/edo-period.md) |
+| 1862-09-01 | Nitobe Inazō, author and future League of Nations official, born in Morioka | People | [Nitobe Inazō](people/nitobe-inazou.md) |
 | 1867-01-30 | Emperor Kōmei dies; the young Mutsuhito succeeds to the throne | People | [Emperor Meiji](people/emperor-meiji.md) |
 | 1867-11-09 | *Taisei hōkan*: Tokugawa Yoshinobu returns governing power to the emperor | History | [Edo Period](history/edo-period.md) |
 | 1867-12-10 | Sakamoto Ryōma, Tosa architect of the Satchō Alliance, assassinated in Kyoto | Geography | [Shikoku](geography/shikoku.md) |
@@ -150,12 +153,16 @@ from the dated facts in each topic file.
 | 1894–1895 | First Sino-Japanese War; Treaty of Shimonoseki | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1898 | Meiji Civil Code codifies the patriarchal *ie* household system | Culture & Society | [Women in Japanese Society](culture-society/women-in-japanese-society.md) |
 | 1899 | Former Natives Protection Act assimilates the Ainu and strips their land and fishing rights | Geography | [Hokkaido](geography/hokkaido.md) |
-| 1900 | Nitobe Inazō publishes *Bushido: The Soul of Japan* | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
+| 1900 | Nitobe Inazō publishes *Bushido: The Soul of Japan* in Philadelphia | People | [Nitobe Inazō](people/nitobe-inazou.md) |
 | 1901 | Imperial Yawata Steel Works begins operation in northern Kyushu | Geography | [Kyushu](geography/kyushu.md) |
 | 1901-04-29 | Hirohito (Emperor Showa) born in Tokyo | People | [Hirohito](people/hirohito.md) |
+| 1902-01-30 | Anglo-Japanese Alliance signed, securing Japan against third-party intervention | History | [Russo-Japanese War](history/russo-japanese-war.md) |
 | 1903 | Fifth National Industrial Exposition held at Osaka's Tennōji Park | Geography | [Osaka](geography/osaka.md) |
-| 1904–1905 | Russo-Japanese War; Treaty of Portsmouth | History | [Meiji Restoration](history/meiji-restoration.md) |
-| 1905-05-27 | Battle of Tsushima | History | [Meiji Restoration](history/meiji-restoration.md) |
+| 1904-02-08 | Japan's surprise attack on Port Arthur opens the Russo-Japanese War | History | [Russo-Japanese War](history/russo-japanese-war.md) |
+| 1905-01-02 | Port Arthur surrenders after a costly Japanese siege | History | [Russo-Japanese War](history/russo-japanese-war.md) |
+| 1905-02-20 – 03-10 | Battle of Mukden, the largest land battle of the war | History | [Russo-Japanese War](history/russo-japanese-war.md) |
+| 1905-05-27 – 05-28 | Battle of Tsushima annihilates the Russian Baltic Fleet | History | [Russo-Japanese War](history/russo-japanese-war.md) |
+| 1905-09-05 | Treaty of Portsmouth ends the war; Hibiya riots protest the indemnity-free peace | History | [Russo-Japanese War](history/russo-japanese-war.md) |
 | 1910-08-22 | Annexation of Korea | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1911-09 | Hiratsuka Raichō founds *Seitō* (Bluestocking), launching the Taishō women's movement | Culture & Society | [Women in Japanese Society](culture-society/women-in-japanese-society.md) |
 | 1912-07-30 | Death of Emperor Meiji ends the Meiji era | People | [Emperor Meiji](people/emperor-meiji.md) |
@@ -163,6 +170,7 @@ from the dated facts in each topic file.
 | 1914-01 | Sakurajima's great eruption joins the volcano to Kyushu's Ōsumi Peninsula by lava flow | Geography | [Kyushu](geography/kyushu.md) |
 | 1914-04-09 | Empress Shōken (Empress Consort Meiji) dies at the Numazu Imperial Villa | People | [Empress Meiji](people/empress-meiji.md) |
 | 1918-08 | Rice Riots (*Kome Sōdō*) — over 700,000 protest surging rice prices nationwide | History | [Taishō Period](history/taisho-period.md) |
+| 1920 | Nitobe Inazō appointed Under-Secretary-General of the newly founded League of Nations | People | [Nitobe Inazō](people/nitobe-inazou.md) |
 | 1920-11 | Meiji Jingū completed in Tokyo | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 1921 | Hirohito becomes the first Japanese crown prince to travel abroad (Europe) | People | [Hirohito](people/hirohito.md) |
 | 1921-11-04 | Prime Minister Hara Takashi assassinated at Tokyo Station | History | [Taishō Period](history/taisho-period.md) |
@@ -178,6 +186,7 @@ from the dated facts in each topic file.
 | 1927 | Bank Panic of 1927 (Shōwa financial crisis) | Economy | [Bank of Japan](economy/bank-of-japan.md) |
 | 1931-09-18 | Manchurian (Mukden) Incident; the Kwantung Army seizes Manchuria | History | [World War II](history/world-war-ii.md) |
 | 1933-03 | Japan withdraws from the League of Nations | History | [World War II](history/world-war-ii.md) |
+| 1933-10-15 | Nitobe Inazō dies in Victoria, British Columbia, his cultural diplomacy overtaken by Japan's militarism | People | [Nitobe Inazō](people/nitobe-inazou.md) |
 | 1936-02-26 | February 26 Incident (attempted military coup) | People | [Hirohito](people/hirohito.md) |
 | 1937-07 | Marco Polo Bridge Incident begins the Second Sino-Japanese War | History | [World War II](history/world-war-ii.md) |
 | 1937-12 | Nanjing Massacre | History | [World War II](history/world-war-ii.md) |

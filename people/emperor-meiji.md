@@ -189,6 +189,8 @@ Historians debate whether the outcomes of the Shōwa era — ultranationalism, t
 - [Kobe](../geography/kobe.md) — Treaty port opened January 1, 1868, the same year as the Meiji Restoration; a symbol of Meiji Japan's engagement with the world.
 - [Buddhist Schools & Traditions](../culture-society/buddhist-schools.md) — The Meiji government's *shinbutsu-bunri* edicts separated Buddhism from Shinto and caused widespread temple destruction.
 - [Hokkaido](../geography/hokkaido.md) — The northern frontier developed under Meiji as a model of state-directed colonization and modernization.
+- [Russo-Japanese War](../history/russo-japanese-war.md) — The 1904–1905 war fought during Meiji's reign that established Japan as a great power.
+- [Nitobe Inazō](nitobe-inazou.md) — The cosmopolitan Meiji intellectual and diplomat who presented Japan's modern face to the world.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

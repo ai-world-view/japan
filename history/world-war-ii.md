@@ -108,4 +108,5 @@ The destruction of [Tokyo](../geography/tokyo.md) and other major cities in 1944
 - [Taishō Period](taisho-period.md) — the preceding era of party democracy whose institutional weaknesses gave way to the militarism that led to war
 - [Postwar Recovery & Economic Growth](../economy/postwar-recovery-growth.md) — the reconstruction from the war's devastation that rebuilt Japan into an economic power
 - [Kobe](../geography/kobe.md) — the port and shipbuilding city devastated by the March 1945 firebombing campaign
+- [Russo-Japanese War](russo-japanese-war.md) — the 1904–1905 victory whose expansionist legacy fed the militarism that led to the Pacific War
 <!-- END GENERATED: crossrefs -->

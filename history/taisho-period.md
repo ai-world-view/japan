@@ -94,6 +94,8 @@ The Taishō period represents the clearest "road not taken" moment in modern Jap
 - [Diet of Japan](../government-politics/diet-of-japan.md) — Universal male suffrage (1925) expanded the electorate from ~3 million to ~14 million voters
 - [Edo Culture & Arts](../culture-society/edo-culture-arts.md) — The merchant culture traditions of Edo fed into Taishō mass consumer culture
 - [Yukio Mishima](../people/yukio-mishima.md) — The author whose *Spring Snow* immortalized the aristocratic society of the early Taishō era
+- [Russo-Japanese War](russo-japanese-war.md) — The 1904–1905 conflict whose costly aftermath shaped the social tensions carried into the Taishō era
+- [Nitobe Inazō](../people/nitobe-inazou.md) — The League of Nations official who embodied the cosmopolitan internationalism of Taishō democracy
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

@@ -96,4 +96,5 @@ Today, bushido survives in martial arts traditions (kendo, judo, and karate have
 - [Minamoto no Yoritomo](../people/minamoto-no-yoritomo.md) — the warrior chieftain who first raised the samurai class to national power under the Kamakura shogunate
 - [Ashikaga Takauji](../people/ashikaga-takauji.md) — the samurai general who cemented warrior supremacy over the imperial court by founding the Muromachi shogunate
 - [Ryoan-ji Temple](ryoan-ji-temple.md) — the Zen rock garden expressing the austere aesthetics that samurai patrons cultivated
+- [Nitobe Inazō](../people/nitobe-inazou.md) — the author of *Bushido: The Soul of Japan* (1900), which reframed the samurai code for a modern Western readership
 <!-- END GENERATED: crossrefs -->
