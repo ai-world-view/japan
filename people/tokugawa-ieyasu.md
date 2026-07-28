@@ -106,4 +106,5 @@ The Tokugawa shogunate's fall in the [Meiji Restoration](../history/meiji-restor
 - [Osaka](../geography/osaka.md) — The Toyotomi stronghold he took in the 1614–1615 sieges, extinguishing Hideyoshi's line
 - [Minamoto no Yoritomo](minamoto-no-yoritomo.md) — the first shogun, whose Kamakura precedent Ieyasu invoked in founding his own dynasty
 - [Ashikaga Takauji](ashikaga-takauji.md) — founder of the preceding Muromachi shogunate, whose collapse produced the Sengoku wars Ieyasu ended
+- [Azuchi-Momoyama Period](../history/azuchi-momoyama-period.md) — the unification era in which Ieyasu served Nobunaga and Hideyoshi before winning Sekigahara
 <!-- END GENERATED: crossrefs -->

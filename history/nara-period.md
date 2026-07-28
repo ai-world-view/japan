@@ -58,7 +58,7 @@ Buddhist sculpture flourished under imperial patronage. Major works include the 
 
 ## Economic Development and Daily Life
 
-The *ritsuryō* legal code theoretically allocated rice paddies to every household through a land redistribution system called the **handen shuju hō** (班田授受法): adult males received 2 *tan* (approximately 0.24 hectares), women two-thirds that amount, and slaves half a male allotment, with plots to be reassigned every six years. In practice, this system broke down rapidly. From as early as **723**, the shogunate-era government issued the *sanzei ichigen no hō*, permitting newly reclaimed land to be retained privately for three generations. The **743 Konden Einen Shizai Hō** (Edict on Permanent Private Ownership of Newly Reclaimed Land) went further, allowing permanent private ownership of all newly cultivated fields—a policy that accelerated the growth of private temple and aristocratic estates (*shōen*) and undermined the state's tax base.
+The *ritsuryō* legal code theoretically allocated rice paddies to every household through a land redistribution system called the **handen shuju hō** (班田授受法): adult males received 2 *tan* (approximately 0.24 hectares), women two-thirds that amount, and slaves half a male allotment, with plots to be reassigned every six years. In practice, this system broke down rapidly. From as early as **723**, the imperial court issued the *Sanze isshin no hō* (三世一身法), permitting newly reclaimed land to be retained privately for three generations. The **743 Konden Einen Shizai Hō** (Edict on Permanent Private Ownership of Newly Reclaimed Land) went further, allowing permanent private ownership of all newly cultivated fields—a policy that accelerated the growth of private temple and aristocratic estates (*shōen*) and undermined the state's tax base.
 
 The capital sustained its large population through rice taxes (*so*), textile levies (*chō*), and corvée labor (*yō*). Provincial grain was transported to the capital along a national road network (*gokishichidō*) with relay stations (*ekiba*) at regular intervals. Specialized craft production supplied the court: weavers at the Bureau of Weaving (*Oribeno-tsukasa*) produced silks and brocades, potters at kiln sites supplied gray *sueki* ceramics and three-color Tang-style *sansai* glazed ware, and metalworkers produced bronze mirrors, bells, and ritual implements.
 
@@ -74,11 +74,14 @@ The Nara period established foundational elements of Japanese civilization: a wr
 
 ## Related
 
-BEGIN GENERATED: crossrefs
-- [Heian Period](../history/heian-period.md) — The successor era (794–1185) that inherited and transformed Nara's institutional foundations.
+<!-- BEGIN GENERATED: crossrefs -->
+
+- [Heian Period](heian-period.md) — The successor era (794–1185) that inherited and transformed Nara's institutional foundations.
 - [Buddhist Schools & Traditions](../culture-society/buddhist-schools.md) — The six Nara sects and their doctrinal development.
 - [Shinto Religion](../culture-society/shinto-religion.md) — Indigenous *kami* veneration and its complex synthesis with Nara Buddhism.
 - [Murasaki Shikibu](../people/murasaki-shikibu.md) — Heian literary figure whose world was built on the administrative and cultural infrastructure the Nara period created.
 - [Kyoto](../geography/kyoto.md) — The city to which the capital transferred in 794, ending the Nara era.
 - [Major Islands](../geography/major-islands.md) — Geographic context for Nara's provincial networks.
-END GENERATED: crossrefs
+- [Haiku & Poetry](../culture-society/haiku-poetry.md) — The *Man'yōshū*, compiled in the Nara era, founds the poetic lineage from which haiku later descended.
+
+<!-- END GENERATED: crossrefs -->

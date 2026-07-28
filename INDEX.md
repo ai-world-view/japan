@@ -35,6 +35,9 @@ Category index: [history/](history/index.md)
 - [Taishō Period](history/taisho-period.md)
 - [Kamakura Period](history/kamakura-period.md)
 - [Russo-Japanese War](history/russo-japanese-war.md)
+- [Genpei War](history/genpei-war.md)
+- [Azuchi-Momoyama Period](history/azuchi-momoyama-period.md)
+- [Nara Period](history/nara-period.md)
 
 ## Government & Politics
 
@@ -75,6 +78,8 @@ Category index: [culture-society/](culture-society/index.md)
 - [Ryoan-ji Temple](culture-society/ryoan-ji-temple.md)
 - [Buddhist Schools & Traditions](culture-society/buddhist-schools.md)
 - [Ukiyo-e Woodblock Prints](culture-society/ukiyo-e-woodblock-prints.md)
+- [Haiku & Poetry](culture-society/haiku-poetry.md)
+- [Modern Cinema & Anime](culture-society/modern-cinema-anime.md)
 
 ## People
 
@@ -91,6 +96,7 @@ Category index: [people/](people/index.md)
 - [Ashikaga Takauji](people/ashikaga-takauji.md)
 - [Emperor Meiji](people/emperor-meiji.md)
 - [Nitobe Inazō](people/nitobe-inazou.md)
+- [Yoshida Shoin](people/yoshida-shoin.md)
 
 ---
 

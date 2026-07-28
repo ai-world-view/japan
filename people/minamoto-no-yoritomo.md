@@ -96,4 +96,5 @@ His institutional innovations—the shugo, jitō, and gokenin systems—organize
 - [Heian Period](../history/heian-period.md) — aristocratic order that Yoritomo's victory displaced
 - [Sengoku Period](../history/sengoku-period.md) — later era of samurai dominance following the shogunate model
 - [Tokugawa Ieyasu](../people/tokugawa-ieyasu.md) — third unifier; established the longest-lasting shogunate following Yoritomo's model
+- [Genpei War](../history/genpei-war.md) — the 1180–1185 war Yoritomo won, destroying the Taira and founding warrior rule
 <!-- END GENERATED: crossrefs -->

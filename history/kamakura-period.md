@@ -118,4 +118,5 @@ The Kamakura period demonstrated that military power, not imperial prestige or c
 - [Minamoto no Yoritomo](../people/minamoto-no-yoritomo.md) — founder of the Kamakura shogunate whose institutions defined this period
 - [Ashikaga Takauji](../people/ashikaga-takauji.md) — the general whose 1333 defection helped topple Kamakura before he founded the succeeding Muromachi shogunate
 - [Buddhist Schools & Traditions](../culture-society/buddhist-schools.md) — the Zen, Pure Land, and Nichiren movements that emerged as mass Buddhism during the Kamakura era
+- [Genpei War](genpei-war.md) — the 1180–1185 Minamoto–Taira conflict whose outcome created the Kamakura shogunate
 <!-- END GENERATED: crossrefs -->

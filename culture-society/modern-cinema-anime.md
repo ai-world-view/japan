@@ -118,14 +118,17 @@ Directors such as **Takashi Miike** (born August 24, 1960), who has directed ove
 
 ## Related
 
-BEGIN GENERATED: crossrefs
-- [Edo Culture & Arts](../culture-society/edo-culture-arts.md) — Predecessor visual traditions (*ukiyo-e*, *kabuki*, *benshi*'s rakugo lineage) that informed modern cinema.
-- [Samurai & Bushido](../culture-society/samurai-bushido.md) — Thematic centerpiece of jidaigeki cinema and a philosophical substrate of anime narratives.
-- [Noh Theater](../culture-society/noh-theater.md) — Classical theatrical tradition that informed Kurosawa's staging and the masked aesthetic of anime character design.
+<!-- BEGIN GENERATED: crossrefs -->
+
+- [Edo Culture & Arts](edo-culture-arts.md) — Predecessor visual traditions (*ukiyo-e*, *kabuki*, *benshi*'s rakugo lineage) that informed modern cinema.
+- [Samurai & Bushido](samurai-bushido.md) — Thematic centerpiece of jidaigeki cinema and a philosophical substrate of anime narratives.
+- [Noh Theater](noh-theater.md) — Classical theatrical tradition that informed Kurosawa's staging and the masked aesthetic of anime character design.
 - [Katsushika Hokusai](../people/katsushika-hokusai.md) — *Ukiyo-e* master whose compositional language and wave imagery directly shaped anime's visual aesthetic.
-- [Martial Arts & Budo](../culture-society/martial-arts-budo.md) — Action choreography and martial philosophy in jidaigeki cinema and shōnen anime.
+- [Martial Arts & Budo](martial-arts-budo.md) — Action choreography and martial philosophy in jidaigeki cinema and shōnen anime.
 - [Postwar Recovery & Economic Growth](../economy/postwar-recovery-growth.md) — The economic foundation of the postwar film industry and the consumer base for anime merchandise.
 - [Technology & Manufacturing](../economy/technology-manufacturing.md) — The media electronics and consumer-goods industries that distributed anime globally.
 - [World War II](../history/world-war-ii.md) — Occupied Japan's cultural censorship and the postwar trauma that Kurosawa, Takahata, and others processed through cinema.
-- [Taisho Period](../history/taisho-period.md) — The liberal cultural era in which Japan's studio system and film distribution infrastructure took shape.
-END GENERATED: crossrefs
+- [Taishō Period](../history/taisho-period.md) — The liberal cultural era in which Japan's studio system and film distribution infrastructure took shape.
+- [Ukiyo-e Woodblock Prints](ukiyo-e-woodblock-prints.md) — The floating-world print aesthetic whose composition and cropping shaped anime and cinematic framing.
+
+<!-- END GENERATED: crossrefs -->

@@ -13,10 +13,14 @@ from the dated facts in each topic file.
 | c. 552 CE | Buddhism traditionally introduced to Japan from Baekje (Korea) | Culture & Society | [Buddhist Schools & Traditions](culture-society/buddhist-schools.md) |
 | 604 CE | Prince Shōtoku's Seventeen-Article Constitution enjoins reverence for the Buddhist "Three Treasures" | Culture & Society | [Buddhist Schools & Traditions](culture-society/buddhist-schools.md) |
 | c. 690 CE | Ise Grand Shrine 20-year rebuilding cycle (*shikinen sengū*) begins | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
+| 701 CE | Taihō Code promulgated — Japan's first complete *ritsuryō* legal compilation | History | [Nara Period](history/nara-period.md) |
+| 710-04-13 | Empress Genmei moves the capital to Heijō-kyō (Nara), beginning the Nara period | History | [Nara Period](history/nara-period.md) |
+| 710–794 | **Nara period** — Japan's first permanent capital and Chinese-style *ritsuryō* state | History | [Nara Period](history/nara-period.md) |
 | 711 CE | Fushimi Inari-taisha founded | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 712 CE | *Kojiki* completed | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 720 CE | *Nihon Shoki* completed | Culture & Society | [Shinto Religion](culture-society/shinto-religion.md) |
 | 752 CE | Tōdai-ji's bronze Great Buddha (Vairocana) consecrated, the apex of Nara Kegon Buddhism | Culture & Society | [Buddhist Schools & Traditions](culture-society/buddhist-schools.md) |
+| c. 759 CE | *Man'yōshū*, Japan's oldest extant poetry anthology, compiled | Culture & Society | [Haiku & Poetry](culture-society/haiku-poetry.md) |
 | 774 CE | Kūkai (Kōbo Daishi), founder of Shingon Buddhism and patron of the Shikoku pilgrimage, born in Sanuki Province | Geography | [Shikoku](geography/shikoku.md) |
 | 794-11-08 | Emperor Kanmu moves the capital to Heian-kyō (Kyoto) | Geography | [Kyoto](geography/kyoto.md) |
 | 794–1185 | **Heian period** — classical era of Fujiwara regency, court culture, and the *kana* literary flowering | History | [Heian Period](history/heian-period.md) |
@@ -42,10 +46,14 @@ from the dated facts in each topic file.
 | 1160 | Heiji Rebellion elevates Taira no Kiyomori | History | [Heian Period](history/heian-period.md) |
 | 1167 | Taira no Kiyomori becomes Grand Minister (*Daijō-daijin*), first warrior to rule the court | History | [Heian Period](history/heian-period.md) |
 | c. 1168 | Taira no Kiyomori develops the Fukuhara (Ōwada-no-tomari) harbor at modern Kobe for trade with Song China | Geography | [Kobe](geography/kobe.md) |
-| 1180–1185 | Genpei War fought between the Taira and Minamoto clans | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
+| 1180–1185 | **Genpei War** — the Minamoto–Taira civil war that ended Heian court dominance and inaugurated samurai rule | History | [Genpei War](history/genpei-war.md) |
 | 1180 | Minamoto no Yoritomo raises the Minamoto banner in Izu and, after the defeat at Ishibashiyama, consolidates the Kantō from Kamakura | People | [Minamoto no Yoritomo](people/minamoto-no-yoritomo.md) |
-| 1185-04-25 | Battle of Dan-no-Ura ends the Genpei War; the Taira clan is destroyed | History | [Kamakura Period](history/kamakura-period.md) |
+| 1183-06-02 | Battle of Kurikara — Minamoto no Yoshinaka routs the Taira and forces their evacuation of Kyoto | History | [Genpei War](history/genpei-war.md) |
+| 1184-02-07 | Battle of Ichi-no-Tani — Yoshitsune's cliff-descent charge breaks the Taira position | History | [Genpei War](history/genpei-war.md) |
+| 1185-03-22 | Battle of Yashima — the Taira are driven from their Shikoku stronghold | History | [Genpei War](history/genpei-war.md) |
+| 1185-04-25 | Battle of Dan-no-Ura ends the Genpei War; the Taira clan and the child Emperor Antoku perish | History | [Genpei War](history/genpei-war.md) |
 | 1185–1333 | **Kamakura period** — Japan's first warrior government, the Hōjō regency, and the Mongol invasions | History | [Kamakura Period](history/kamakura-period.md) |
+| 1189-06-15 | Minamoto no Yoshitsune, hunted by Yoritomo, dies at Koromogawa in Ōshū | History | [Genpei War](history/genpei-war.md) |
 | 1192 | Minamoto no Yoritomo appointed *sei-i taishōgun*, founding the Kamakura shogunate | People | [Minamoto no Yoritomo](people/minamoto-no-yoritomo.md) |
 | 1198 | Hōnen's *Senchaku Hongan Nembutsu Shū* systematizes the exclusive *nenbutsu* of Pure Land Buddhism | Culture & Society | [Buddhist Schools & Traditions](culture-society/buddhist-schools.md) |
 | 1199-02-09 | Minamoto no Yoritomo dies at Kamakura; power soon passes to the Hōjō *shikken* regents | People | [Minamoto no Yoritomo](people/minamoto-no-yoritomo.md) |
@@ -77,11 +85,17 @@ from the dated facts in each topic file.
 | 1543 | Portuguese traders arrive at Tanegashima; firearms introduced to Japan | History | [Sengoku Period](history/sengoku-period.md) |
 | 1549 | Francis Xavier arrives at Kagoshima, introducing Christianity | Geography | [Major Islands](geography/major-islands.md) |
 | 1560-06-12 | Battle of Okehazama frees the young Ieyasu from Imagawa vassalage | People | [Tokugawa Ieyasu](people/tokugawa-ieyasu.md) |
-| 1575 | Battle of Nagashino ends cavalry-dominated samurai warfare | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
-| 1582-06-21 | Oda Nobunaga assassinated at Honnō-ji temple, Kyoto | History | [Edo Period](history/edo-period.md) |
+| 1568–1603 | **Azuchi-Momoyama period** — political unification under Oda Nobunaga, Toyotomi Hideyoshi, and Tokugawa Ieyasu | History | [Azuchi-Momoyama Period](history/azuchi-momoyama-period.md) |
+| 1571 | Oda Nobunaga destroys the Enryaku-ji temple complex on Mount Hiei | History | [Azuchi-Momoyama Period](history/azuchi-momoyama-period.md) |
+| 1575-06-28 | Battle of Nagashino — Nobunaga's massed arquebus volleys break the Takeda cavalry | History | [Azuchi-Momoyama Period](history/azuchi-momoyama-period.md) |
+| 1582-06-21 | Oda Nobunaga forced to commit suicide at Honnō-ji temple, Kyoto, by Akechi Mitsuhide | History | [Azuchi-Momoyama Period](history/azuchi-momoyama-period.md) |
 | 1583 | Toyotomi Hideyoshi begins building Osaka Castle on the Ishiyama Hongan-ji site | Geography | [Osaka](geography/osaka.md) |
 | 1585 | Chōsokabe Motochika unifies Shikoku, then submits to Toyotomi Hideyoshi's invasion | Geography | [Shikoku](geography/shikoku.md) |
-| 1588 | Toyotomi Hideyoshi's Sword Hunt Edict disarms the peasantry | History | [Edo Period](history/edo-period.md) |
+| 1587 | Hideyoshi issues the Bateren Expulsion Edict against Jesuit missionaries | History | [Azuchi-Momoyama Period](history/azuchi-momoyama-period.md) |
+| 1588 | Toyotomi Hideyoshi's Sword Hunt Edict disarms the peasantry | History | [Azuchi-Momoyama Period](history/azuchi-momoyama-period.md) |
+| 1590 | Hideyoshi completes the unification of Japan with the siege of Odawara | History | [Azuchi-Momoyama Period](history/azuchi-momoyama-period.md) |
+| 1592–1598 | Hideyoshi's two invasions of Korea (the Bunroku and Keichō campaigns) end in failure | History | [Azuchi-Momoyama Period](history/azuchi-momoyama-period.md) |
+| 1598-09-18 | Toyotomi Hideyoshi dies; Japanese forces withdraw from Korea | History | [Azuchi-Momoyama Period](history/azuchi-momoyama-period.md) |
 | 1600 | Battle of Sekigahara establishes Tokugawa supremacy | Culture & Society | [Samurai & Bushido](culture-society/samurai-bushido.md) |
 | 1600-10-21 | Ieyasu's eastern coalition wins the decisive Battle of Sekigahara | People | [Tokugawa Ieyasu](people/tokugawa-ieyasu.md) |
 | 1603 | Tokugawa Ieyasu establishes Edo as the shogunal capital | Geography | [Tokyo](geography/tokyo.md) |
@@ -98,11 +112,14 @@ from the dated facts in each topic file.
 | 1637–1638 | Shimabara Rebellion suppressed | History | [Edo Period](history/edo-period.md) |
 | 1639 | Portuguese traders expelled, consolidating the *sakoku* isolation policy | History | [Edo Period](history/edo-period.md) |
 | 1641 | Dutch East India Company confined to Dejima, Nagasaki | Geography | [Major Islands](geography/major-islands.md) |
+| 1644 | Matsuo Bashō, the supreme haiku master, born in Iga Province | Culture & Society | [Haiku & Poetry](culture-society/haiku-poetry.md) |
 | 1654 | The Chinese monk Ingen (Yinyuan) arrives, founding the Ōbaku school of Zen | Culture & Society | [Buddhist Schools & Traditions](culture-society/buddhist-schools.md) |
 | 1657-01 | Great Meireki Fire destroys much of Edo | History | [Edo Period](history/edo-period.md) |
 | c. 1680s | Hishikawa Moronobu establishes single-sheet *ukiyo-e* printmaking in Edo | Culture & Society | [Ukiyo-e Woodblock Prints](culture-society/ukiyo-e-woodblock-prints.md) |
 | 1682 | Ihara Saikaku's *The Life of an Amorous Man* launches *ukiyo-zōshi* fiction | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
-| 1689 | Matsuo Bashō journeys the *Narrow Road to the Deep North* | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
+| 1686 | Bashō composes the "old pond" (*furuike ya*) haiku, the tradition's most celebrated verse | Culture & Society | [Haiku & Poetry](culture-society/haiku-poetry.md) |
+| 1689 | Matsuo Bashō undertakes the journey that becomes *Oku no Hosomichi* (*The Narrow Road to the Deep North*) | Culture & Society | [Haiku & Poetry](culture-society/haiku-poetry.md) |
+| 1694-11-28 | Matsuo Bashō dies in Osaka, having finalized *Oku no Hosomichi* | Culture & Society | [Haiku & Poetry](culture-society/haiku-poetry.md) |
 | 1697 | Dōjima Rice Exchange founded in Osaka — the first organized futures market | Geography | [Osaka](geography/osaka.md) |
 | 1703 | Chikamatsu's *The Love Suicides at Sonezaki* premieres | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1707-10-28 | Hōei earthquake (M~8.6) strikes offshore, 49 days before Fuji erupts | Geography | [Mount Fuji](geography/mount-fuji.md) |
@@ -115,6 +132,7 @@ from the dated facts in each topic file.
 | 1792 | Shimabara catastrophe (Mount Unzen collapse and mega-tsunami) | Geography | [Major Islands](geography/major-islands.md) |
 | 1794–1795 | Tōshūsai Sharaku produces his ~145 kabuki-actor portraits over roughly ten months | Culture & Society | [Ukiyo-e Woodblock Prints](culture-society/ukiyo-e-woodblock-prints.md) |
 | 1814 | First volume of the *Hokusai Manga* published | People | [Katsushika Hokusai](people/katsushika-hokusai.md) |
+| 1830-06-20 | Yoshida Shoin, teacher of the Meiji Restoration leaders, born in Hagi, Chōshū | People | [Yoshida Shoin](people/yoshida-shoin.md) |
 | 1830–1832 | Hokusai's *Thirty-six Views of Mount Fuji* published | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1833–1834 | Hiroshige's *Fifty-three Stations of the Tōkaidō* published | Culture & Society | [Edo Culture & Arts](culture-society/edo-culture-arts.md) |
 | 1849-05-09 | Ichijō Haruko, the future Empress Shōken (Empress Consort Meiji), born in Kyoto | People | [Empress Meiji](people/empress-meiji.md) |
@@ -122,7 +140,9 @@ from the dated facts in each topic file.
 | 1852-11-03 | Emperor Meiji (Mutsuhito) born at the Kyoto Imperial Palace | People | [Emperor Meiji](people/emperor-meiji.md) |
 | 1853 | Commodore Perry's "Black Ships" arrive at Uraga Bay | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1854 | Convention of Kanagawa opens Japanese ports | History | [Meiji Restoration](history/meiji-restoration.md) |
+| 1857 | Yoshida Shoin opens the Shōka Sonjuku academy in Hagi, training future Meiji leaders | People | [Yoshida Shoin](people/yoshida-shoin.md) |
 | 1858-07-29 | Harris Treaty (Treaty of Amity and Commerce) signed | History | [Edo Period](history/edo-period.md) |
+| 1859-11-21 | Yoshida Shoin executed in Edo during the Ansei Purge, age 29 | People | [Yoshida Shoin](people/yoshida-shoin.md) |
 | 1862-09-01 | Nitobe Inazō, author and future League of Nations official, born in Morioka | People | [Nitobe Inazō](people/nitobe-inazou.md) |
 | 1867-01-30 | Emperor Kōmei dies; the young Mutsuhito succeeds to the throne | People | [Emperor Meiji](people/emperor-meiji.md) |
 | 1867-11-09 | *Taisei hōkan*: Tokugawa Yoshinobu returns governing power to the emperor | History | [Edo Period](history/edo-period.md) |
@@ -151,6 +171,8 @@ from the dated facts in each topic file.
 | 1889-02-11 | Meiji Constitution promulgated | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1890 | Imperial Rescript on Education issued | History | [Meiji Restoration](history/meiji-restoration.md) |
 | 1894–1895 | First Sino-Japanese War; Treaty of Shimonoseki | History | [Meiji Restoration](history/meiji-restoration.md) |
+| 1897 | Masaoka Shiki's circle founds *Hototogisu*; his *shasei* ("sketch from life") reform modernizes haiku | Culture & Society | [Haiku & Poetry](culture-society/haiku-poetry.md) |
+| 1897-11-25 | Japan's first public film screenings held in Tokyo and Osaka | Culture & Society | [Modern Cinema & Anime](culture-society/modern-cinema-anime.md) |
 | 1898 | Meiji Civil Code codifies the patriarchal *ie* household system | Culture & Society | [Women in Japanese Society](culture-society/women-in-japanese-society.md) |
 | 1899 | Former Natives Protection Act assimilates the Ainu and strips their land and fishing rights | Geography | [Hokkaido](geography/hokkaido.md) |
 | 1900 | Nitobe Inazō publishes *Bushido: The Soul of Japan* in Philadelphia | People | [Nitobe Inazō](people/nitobe-inazou.md) |
@@ -223,6 +245,7 @@ from the dated facts in each topic file.
 | 1949-06-04 | Ministry of International Trade and Industry (MITI) established | Government & Politics | [Ministry of Economy, Trade and Industry (METI)](government-politics/ministry-economy-trade-industry.md) |
 | 1950–1953 | Korean War special procurement (*tokuju*) ignites Japan's industrial recovery | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
 | 1950 | National Police Reserve created — forerunner of the Self-Defense Forces | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
+| 1950 | Kurosawa's *Rashōmon* released; its 1951 Venice Golden Lion announces Japanese cinema to the world | Culture & Society | [Modern Cinema & Anime](culture-society/modern-cinema-anime.md) |
 | 1950-07-02 | Kinkaku-ji destroyed by arson (rebuilt 1955) | Geography | [Kyoto](geography/kyoto.md) |
 | 1951-09-08 | San Francisco Peace Treaty signed, ending the Allied occupation | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 1952-04-28 | Occupation ends; Japan regains sovereignty and pursues export-led growth | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
@@ -234,6 +257,7 @@ from the dated facts in each topic file.
 | 1959-12-16 | *Sunakawa* ruling adopts the political-question doctrine, upholding the US–Japan Security Treaty | Government & Politics | [Supreme Court of Japan](government-politics/supreme-court.md) |
 | 1960 | U.S.–Japan Security Treaty revised amid mass *Anpo* protests | Government & Politics | [Postwar Constitution & Democracy](government-politics/postwar-constitution.md) |
 | 1960 | Ikeda cabinet launches the Income Doubling Plan (*Shotoku Baizō Keikaku*) | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
+| 1963-01 | *Astro Boy* (*Tetsuwan Atom*) debuts as Japan's first domestic TV anime series | Culture & Society | [Modern Cinema & Anime](culture-society/modern-cinema-anime.md) |
 | 1964 | Tokyo Summer Olympics; Tōkaidō Shinkansen opens | Geography | [Tokyo](geography/tokyo.md) |
 | 1964 | Judo debuts as an Olympic sport at the Tokyo Games | Culture & Society | [Martial Arts & Budo](culture-society/martial-arts-budo.md) |
 | 1964 | Japan joins the OECD, recognized as an advanced industrial economy | Economy | [Postwar Recovery & Economic Growth](economy/postwar-recovery-growth.md) |
@@ -253,6 +277,7 @@ from the dated facts in each topic file.
 | 1982 | Chalmers Johnson's *MITI and the Japanese Miracle* frames Japan as a "developmental state" | Government & Politics | [Ministry of Economy, Trade and Industry (METI)](government-politics/ministry-economy-trade-industry.md) |
 | 1983-07 | Nintendo Famicom (Family Computer) launches in Japan | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
 | 1985 | Plaza Accord drives yen appreciation and fuels the asset bubble | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 1985-06-15 | Studio Ghibli founded by Hayao Miyazaki, Isao Takahata, and Toshio Suzuki | Culture & Society | [Modern Cinema & Anime](culture-society/modern-cinema-anime.md) |
 | 1985 | Equal Employment Opportunity Law enacted, barring overt sex discrimination in employment | Culture & Society | [Women in Japanese Society](culture-society/women-in-japanese-society.md) |
 | 1986 | US–Japan Semiconductor Trade Agreement signed | Economy | [Technology & Manufacturing](economy/technology-manufacturing.md) |
 | 1986-09 | Doi Takako becomes the first woman to lead a major Japanese political party (JSP) | Culture & Society | [Women in Japanese Society](culture-society/women-in-japanese-society.md) |
@@ -283,6 +308,7 @@ from the dated facts in each topic file.
 | 2000-07 | Financial Services Agency (FSA) established as Japan's unified financial regulator | Economy | [Financial Sector Regulation](economy/financial-sector-regulation.md) |
 | 2001-01 | MITI reorganized into the Ministry of Economy, Trade and Industry (METI) | Government & Politics | [Ministry of Economy, Trade and Industry (METI)](government-politics/ministry-economy-trade-industry.md) |
 | 2001-03 | Quantitative easing launched (world's first) | Economy | [Bank of Japan](economy/bank-of-japan.md) |
+| 2001-07-20 | Miyazaki's *Spirited Away* released; it wins the 2003 Academy Award for Best Animated Feature | Culture & Society | [Modern Cinema & Anime](culture-society/modern-cinema-anime.md) |
 | 2002-10 | Takenaka Plan forces banks to write down non-performing loans | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |
 | 2003-04 | Nikkei 225 bottoms near 7,600, roughly 80% below its 1989 peak | Economy | [1980s Bubble Economy](economy/bubble-economy.md) |
 | 2005 | Japan Post privatization legislated under Prime Minister Koizumi | Economy | [Lost Decade & Deflation](economy/lost-decade.md) |

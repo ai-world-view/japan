@@ -149,4 +149,6 @@ The aesthetic legacy — haiku, kabuki, ukiyo-e, the tea ceremony, *ikebana* flo
 - [Osaka](../geography/osaka.md) — the "kitchen of the realm" whose Dōjima Rice Exchange and merchant houses anchored the Edo commercial economy
 - [Buddhist Schools & Traditions](../culture-society/buddhist-schools.md) — the *danka* temple-registration system that bound every household to a Buddhist temple under Tokugawa rule
 - [Ukiyo-e Woodblock Prints](../culture-society/ukiyo-e-woodblock-prints.md) — the popular woodblock art that flourished in the Edo merchant city
+- [Azuchi-Momoyama Period](azuchi-momoyama-period.md) — the unification era under Nobunaga, Hideyoshi, and Ieyasu that immediately preceded and enabled the Edo peace
+- [Haiku & Poetry](../culture-society/haiku-poetry.md) — the verse form that Matsuo Bashō raised to a spiritual art during the Edo peace
 <!-- END GENERATED: crossrefs -->

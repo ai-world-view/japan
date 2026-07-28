@@ -121,4 +121,5 @@ Her court world was governed by the same Fujiwara regency whose administrative d
 - [Noh Theater](../culture-society/noh-theater.md) — the later dramatic art whose *mono no aware* register and several plot sources descend from *Genji* and Heian court aesthetics
 - [Women in Japanese Society](../culture-society/women-in-japanese-society.md) — the long arc of women's status in which Murasaki exemplifies the literary agency of Heian court ladies
 - [Yukio Mishima](yukio-mishima.md) — the modern author whose *Spring Snow* draws on the *mono no aware* aesthetic of *The Tale of Genji*
+- [Haiku & Poetry](../culture-society/haiku-poetry.md) — the *waka* and *tanka* tradition of *Genji*'s poem-exchanges from which later haiku descended
 <!-- END GENERATED: crossrefs -->

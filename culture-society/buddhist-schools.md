@@ -160,6 +160,7 @@ Buddhist temples (*tera*) remain vital community institutions. Major heritage si
 - [Murasaki Shikibu](../people/murasaki-shikibu.md) — Heian author whose *Tale of Genji* is suffused with Pure Land Buddhist symbolism and *mono no aware*.
 - [Ashikaga Takauji](../people/ashikaga-takauji.md) — Muromachi shogun who patronized Rinzai Zen and the Gozan temple network.
 - [Minamoto no Yoritomo](../people/minamoto-no-yoritomo.md) — Kamakura shogun whose patronage enabled Eisai to establish Zen in Japan.
+- [Nara Period](../history/nara-period.md) — the era of the six Nara schools, Tōdai-ji's Great Buddha, and Buddhism's rise to state prominence.
 <!-- END GENERATED: crossrefs -->
 
 ## Sources

@@ -66,11 +66,13 @@ Yoshida Shoin exemplified the samurai intellectual tradition at its most dynamic
 
 ## Related
 
-BEGIN GENERATED: crossrefs
+<!-- BEGIN GENERATED: crossrefs -->
+
 - [Meiji Restoration](../history/meiji-restoration.md) — The historical transformation Shoin's students led, implementing his ideological program.
 - [Samurai & Bushido](../culture-society/samurai-bushido.md) — The warrior ethos Shoin reinterpreted as the basis for revolutionary loyalty.
-- [Emperor Meiji](../people/emperor-meiji.md) — The emperor in whose name Shoin's students dismantled the shogunate.
-- [Tokugawa Ieyasu](../people/tokugawa-ieyasu.md) — Founder of the shogunate whose political system Shoin's movement overthrew two and a half centuries later.
+- [Emperor Meiji](emperor-meiji.md) — The emperor in whose name Shoin's students dismantled the shogunate.
+- [Tokugawa Ieyasu](tokugawa-ieyasu.md) — Founder of the shogunate whose political system Shoin's movement overthrew two and a half centuries later.
 - [Edo Period](../history/edo-period.md) — The political framework of institutional isolation and stratified hierarchy that Shoin challenged.
 - [Sengoku Period](../history/sengoku-period.md) — Historical precedent for samurai acting on political conviction against established authority.
-END GENERATED: crossrefs
+
+<!-- END GENERATED: crossrefs -->

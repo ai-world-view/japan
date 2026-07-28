@@ -130,4 +130,5 @@ The tea ceremony, by contrast, was revived and nationalized as a marker of Japan
 - [Noh Theater](noh-theater.md) — The classical masked drama, older than Kabuki, that the Tokugawa shogunate maintained as official ceremonial art alongside the popular floating-world arts.
 - [Ryoan-ji Temple](ryoan-ji-temple.md) — The Muromachi Zen rock garden whose *karesansui* aesthetics fed the wider Japanese artistic tradition the Edo arts inherited.
 - [Ukiyo-e Woodblock Prints](ukiyo-e-woodblock-prints.md) — The floating-world woodblock tradition, treated in depth as its own art form and export.
+- [Haiku & Poetry](haiku-poetry.md) — The verse tradition, perfected by Matsuo Bashō, that flourished within the same Edo urban culture.
 <!-- END GENERATED: crossrefs -->

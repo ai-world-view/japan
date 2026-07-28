@@ -97,4 +97,5 @@ Today, bushido survives in martial arts traditions (kendo, judo, and karate have
 - [Ashikaga Takauji](../people/ashikaga-takauji.md) — the samurai general who cemented warrior supremacy over the imperial court by founding the Muromachi shogunate
 - [Ryoan-ji Temple](ryoan-ji-temple.md) — the Zen rock garden expressing the austere aesthetics that samurai patrons cultivated
 - [Nitobe Inazō](../people/nitobe-inazou.md) — the author of *Bushido: The Soul of Japan* (1900), which reframed the samurai code for a modern Western readership
+- [Genpei War](../history/genpei-war.md) — the 1180–1185 conflict that raised the samurai to national power and gave *bushido* its founding epic in the *Heike monogatari*
 <!-- END GENERATED: crossrefs -->

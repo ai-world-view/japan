@@ -109,4 +109,5 @@ The three great unifiers personify the era's strategic diversity: Nobunaga's rad
 - [Kamakura Period](kamakura-period.md) — the first shogunate, whose institutional collapse and the ensuing Muromachi fragmentation opened the way to the Sengoku wars
 - [Ashikaga Takauji](../people/ashikaga-takauji.md) — founder of the Muromachi shogunate whose eventual decline unleashed the Sengoku wars
 - [Minamoto no Yoritomo](../people/minamoto-no-yoritomo.md) — founder of the shogunal system of warrior rule that the Sengoku daimyo fought to inherit
+- [Azuchi-Momoyama Period](azuchi-momoyama-period.md) — the unification era (1568–1603) that brought the Sengoku wars to a close
 <!-- END GENERATED: crossrefs -->

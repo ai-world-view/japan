@@ -78,4 +78,5 @@ The surviving ukiyo-e corpus—estimated at several hundred thousand extant prin
 - [Edo Culture & Arts](../culture-society/edo-culture-arts.md) — the broader artistic context of the floating world
 - [Edo Period](../history/edo-period.md) — the era of ukiyo-e's formation and flourishing
 - [Tokyo](../geography/tokyo.md) — Edo/Tokyo as the primary hub of ukiyo-e production and commerce
+- [Modern Cinema & Anime](modern-cinema-anime.md) — the modern screen arts whose composition and framing inherit the ukiyo-e aesthetic
 <!-- END GENERATED: crossrefs -->

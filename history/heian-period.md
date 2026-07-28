@@ -101,4 +101,6 @@ The end of the Heian period—with the rise of the Minamoto and the foundation o
 - [Kamakura Period](kamakura-period.md) — the warrior government that superseded the Heian court, ending the aristocratic age with the Genpei War
 - [Minamoto no Yoritomo](../people/minamoto-no-yoritomo.md) — the Minamoto leader whose victory in the Genpei War ended Heian aristocratic rule
 - [Buddhist Schools & Traditions](../culture-society/buddhist-schools.md) — the Tendai and Shingon schools founded by Saichō and Kūkai during the Heian era
+- [Genpei War](genpei-war.md) — the 1180–1185 civil war that ended the Heian court's political dominance
+- [Nara Period](nara-period.md) — the preceding capital era (710–794) whose *ritsuryō* institutions the Heian court inherited
 <!-- END GENERATED: crossrefs -->
